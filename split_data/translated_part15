@@ -1,0 +1,200 @@
+1501#1 ENTY:animal Name the two mystical ravens Odin has at his command .
+1501#2 ENTY:animal ओडिन अपने आदेश में दो रहस्यमय कौवों का नाम।
+1502#1 ENTY:animal What was the species of Winnie the Pooh ?
+1502#2 ENTY:animal विनी द पूह की प्रजातियों में क्या था?
+1503#1 DESC:def What is the virus HIV ?
+1503#2 DESC:def वायरस एचआईवी क्या है?
+1504#1 NUM:count How many years old is Benny Carter ?
+1504#2 NUM:count बेनी कार्टर कितने साल पुरानी है?
+1505#1 ENTY:cremat What Hermann Hesse book gave its name to a rock group ?
+1505#2 ENTY:cremat क्या हरमन हेस किताब एक रॉक समूह के लिए इसका नाम किसने दिया?
+1506#1 LOC:other Where does the Santa Fe Trail begin and end ?
+1506#2 LOC:other जहां सांता फे निशान शुरू और खत्म होता है?
+1507#1 ENTY:cremat What book is the follow-up to Future Shock ?
+1507#2 ENTY:cremat भविष्य शॉक के लिए अनुवर्ती क्या किताब है?
+1508#1 ENTY:animal What African animals are known as The Big Five ?
+1508#2 ENTY:animal अफ्रीकी क्या जानवरों पांच बड़े रूप में जाना जाता है?
+1509#1 ENTY:letter What is the alphabet for Latin ?
+1509#2 ENTY:letter लैटिन के लिए वर्णमाला क्या है?
+1510#1 ENTY:dismed What is the fear of frogs ?
+1510#2 ENTY:dismed मेंढ़कों के भय क्या है?
+1511#1 LOC:city Which city in Canada is the least-populated ?
+1511#2 LOC:city कम से कम आबादी वाले कनाडा में कौन सा शहर है?
+1512#1 NUM:period How old is Stevie Wonder ?
+1512#2 NUM:period स्टीव वंडर कितनी पुरानी है?
+1513#1 HUM:ind Who was the first Taiwanese President ?
+1513#2 HUM:ind पहले ताइवान के राष्ट्रपति कौन था?
+1514#1 HUM:ind Who is Luke Skywalker's father ?
+1514#2 HUM:ind ल्यूक Skywalker के पिता कौन है?
+1515#1 ENTY:other What does a dipsomaniac crave ?
+1515#2 ENTY:other एक मद्यासक्त क्या लालसा करता है?
+1516#1 DESC:def What is the definition of the term "weapons system" ?
+1516#2 DESC:def शब्द "हथियार प्रणाली 'की परिभाषा क्या है?
+1517#1 DESC:desc What are Christopher Marlowe's and Shakespeare's literary contributions to English literature ?
+1517#2 DESC:desc अंग्रेजी साहित्य के लिए क्रिस्टोफ़र मारलो की और शेक्सपियर के साहित्यिक योगदान क्या हैं?
+1518#1 ENTY:food What is Nero Wolfe's favorite drink during office hours ?
+1518#2 ENTY:food कार्यालय समय के दौरान नीरो वोल्फ के पसंदीदा पेय क्या है?
+1519#1 HUM:gr What is the first personal computer company ?
+1519#2 HUM:gr पहला पर्सनल कंप्यूटर कंपनी क्या है?
+1520#1 ENTY:techmeth What is the most efficient way to start a barbeque ?
+1520#2 ENTY:techmeth एक barbeque शुरू करने के लिए सबसे कारगर तरीका क्या है?
+1521#1 HUM:desc Who was Jane Goodall ?
+1521#2 HUM:desc जेन गुडाल कौन था?
+1522#1 DESC:reason Why are there Braille things on the ATM machines that people drive through ?
+1522#2 DESC:reason क्यों लोगों के माध्यम से ड्राइव कि एटीएम मशीनों पर ब्रेल बातें कर रहे हैं?
+1523#1 LOC:other Where is the Isle of Man ?
+1523#2 LOC:other आइल ऑफ मैन कहां है?
+1524#1 ENTY:cremat What book did Aaron Hass write ?
+1524#2 ENTY:cremat हारून हैस क्या किताब लिखने के?
+1525#1 NUM:other What was the death toll at the eruption of Mount Pinatubo ?
+1525#2 NUM:other माउंट Pinatubo के विस्फोट में मरने वालों की संख्या क्या थी?
+1526#1 NUM:date When will the millennium officially begin ?
+1526#2 NUM:date जब सहस्राब्दी आधिकारिक तौर पर शुरू हो जाएगा?
+1527#1 HUM:ind Who created the comic strip , "Garfield" ?
+1527#2 HUM:ind कौन कॉमिक स्ट्रिप, "गारफील्ड" बनाया?
+1528#1 HUM:ind Which Vietnamese terrorist is now a UN delegate in Doonesbury ?
+1528#2 HUM:ind Doonesbury में एक संयुक्त राष्ट्र के प्रतिनिधि अब कौन सा वियतनामी आतंकवादी है?
+1529#1 DESC:def What is real time processing ?
+1529#2 DESC:def वास्तविक समय प्रसंस्करण क्या है?
+1530#1 LOC:other What do we call the imaginary line along the top of the Rocky Mountains ?
+1530#2 LOC:other हम रॉकी पर्वत के शीर्ष के साथ काल्पनिक रेखा क्या कहते हैं?
+1531#1 LOC:country What country's capital is Lagos ?
+1531#2 LOC:country लागोस क्या देश की राजधानी है?
+1532#1 LOC:other Where does Ray Bradbury's Chronicles take place ?
+1532#2 LOC:other कहाँ रे ब्रैडबरी के इतिहास जगह ले करता है?
+1533#1 HUM:ind Who is the current prime minister and president of Russia ?
+1533#2 HUM:ind रूस के मौजूदा प्रधानमंत्री और राष्ट्रपति कौन है?
+1534#1 HUM:ind Who established a Viking colony in Greenland about 985 ?
+1534#2 HUM:ind कौन 985 के बारे में ग्रीनलैंड में एक वाइकिंग कॉलोनी की स्थापना की?
+1535#1 ENTY:symbol What was the distinguishing mark on the "Little Rascals" dog ?
+1535#2 ENTY:symbol "छोटे दुष्टों" कुत्ते पर विशिष्ठ निशान क्या था?
+1536#1 NUM:other What is the latitude and longitude of El Paso , Texas ?
+1536#2 NUM:other एल पासो, टेक्सास के अक्षांश और देशांतर क्या है?
+1537#1 LOC:other Where can I get information about cystic fibrosis ?
+1537#2 LOC:other मैं कहां से सिस्टिक फाइब्रोसिस के बारे में जानकारी प्राप्त कर सकते हैं?
+1538#1 LOC:other Where did Honecker rule ?
+1538#2 LOC:other Honecker जहां शासन किया?
+1539#1 DESC:def What is the theory of equivalence states ?
+1539#2 DESC:def तुल्यता राज्यों के सिद्धांत क्या है?
+1540#1 ENTY:other What does a philatelist collect ?
+1540#2 ENTY:other एक डाक टिकट संग्रहकर्ता क्या एकत्रित करता है?
+1541#1 NUM:period What is the life span of the average monkey ?
+1541#2 NUM:period औसत बंदर की जीवन अवधि क्या है?
+1542#1 NUM:count How many member states are in the UN ?
+1542#2 NUM:count संयुक्त राष्ट्र में कितने सदस्य राज्यों रहे हैं?
+1543#1 HUM:ind Who shot and killed himself while painting Wheatfield with Crows ?
+1543#2 HUM:ind कौवे के साथ Wheatfield चित्रकला, जबकि कौन गोली मार दी और खुद को मार डाला?
+1544#1 DESC:desc What will happen when sodium is put in water ?
+1544#2 DESC:desc सोडियम पानी में डाल दिया जाता है, तब क्या होगा?
+1545#1 DESC:def What's the meaning of UOL ?
+1545#2 DESC:def UOL का अर्थ क्या है?
+1546#1 HUM:ind What future President became Senate majority whip under Harry Truman ?
+1546#2 HUM:ind भविष्य क्या राष्ट्रपति हैरी ट्रूमैन के तहत सीनेट के बहुमत कोड़ा बन गया?
+1547#1 HUM:ind Who was the architect of Central Park ?
+1547#2 HUM:ind सेंट्रल पार्क के वास्तुकार कौन था?
+1548#1 ENTY:product Which operating system runs on IBM-compatible machines ?
+1548#2 ENTY:product कौन सा ऑपरेटिंग सिस्टम आईबीएम संगत मशीनों पर चलाता है?
+1549#1 NUM:dist What are the dimensions of an ice hockey goal ?
+1549#2 NUM:dist एक आइस हॉकी लक्ष्य के आयाम क्या हैं?
+1550#1 NUM:date When was CNN's first broadcast ?
+1550#2 NUM:date जब सीएनएन का पहला प्रसारण था?
+1551#1 ENTY:symbol What are the signs of a country going into a recession ?
+1551#2 ENTY:symbol एक मंदी के दौर में जा रहा है एक देश के लक्षण क्या हैं?
+1552#1 DESC:def What is the circumorbital hematoma ?
+1552#2 DESC:def Circumorbital रक्तगुल्म क्या है?
+1553#1 LOC:country What African country is governed from Ouagadougou ?
+1553#2 LOC:country क्या अफ्रीकी देश ओयूगाडॉउगॉउ से नियंत्रित होता है?
+1554#1 HUM:ind What was the Christian name of the title character in Our Miss Brooks ?
+1554#2 HUM:ind हमारे मिस ब्रूक्स में शीर्षक चरित्र के ईसाई नाम क्या था?
+1555#1 HUM:ind What hard-of hearing artist painted Sunflowers ?
+1555#2 HUM:ind सुनवाई कलाकार की कड़ी मेहनत से क्या सूरजमुखी चित्रित?
+1556#1 HUM:gr Who were the Yankee's frequent enemies ?
+1556#2 HUM:gr यांकी की लगातार दुश्मन कौन थे?
+1557#1 HUM:ind Who wrote Sons and Lovers ?
+1557#2 HUM:ind कौन संस और प्रेमी लिखा था?
+1558#1 ENTY:termeq What is the English translation for the word "caliente" ?
+1558#2 ENTY:termeq "Caliente" शब्द के लिए अंग्रेजी अनुवाद क्या है?
+1559#1 ENTY:techmeth What handicraft requires you to interlace your warp and weft ?
+1559#2 ENTY:techmeth क्या हस्तकला अपने ताने और बाने जिल्द करने की आवश्यकता है?
+1560#1 LOC:city What French seaport claims to be The Home of Wines ?
+1560#2 LOC:city फ्रेंच क्या बंदरगाह वाइन के घर होने का दावा?
+1561#1 NUM:period How long does it take sunlight to reach Earth ?
+1561#2 NUM:period कब तक यह पृथ्वी तक पहुंचने के लिए सूरज की रोशनी ले करता है?
+1562#1 NUM:count How many milliseconds in a second ?
+1562#2 NUM:count कितने एक दूसरे में मिसे?
+1563#1 HUM:ind What Cherokee Indian gave his name to a tree ?
+1563#2 HUM:ind क्या चेरोकी भारतीय एक पेड़ से उसका नाम किसने दिया?
+1564#1 NUM:date When were camcorders introduced in Malaysia ?
+1564#2 NUM:date कैमकोर्डर मलेशिया में शुरू किए गए थे?
+1565#1 NUM:perc What is the chance of conceiving quadruplets ?
+1565#2 NUM:perc जन्म लेनेवाले गोदभराई की मौका क्या है?
+1566#1 HUM:ind Who was the star of Leave It to Beaver ?
+1566#2 HUM:ind ऊदबिलाव के लिए छोड़ दें यह के स्टार कौन था?
+1567#1 LOC:country What countries have the largest armed forces in the world ?
+1567#2 LOC:country क्या देशों में दुनिया में सबसे बड़ा सशस्त्र बलों के लिए है?
+1568#1 HUM:ind What was William F. Cody's better-known name ?
+1568#2 HUM:ind विलियम एफ कोड़ी बेहतर प्रसिद्ध नाम क्या था?
+1569#1 DESC:manner How do I increase my biceps' size ?
+1569#2 DESC:manner कैसे मैं अपने मछलियां 'आकार बढ़ा सकते हैं?
+1570#1 HUM:ind Who did Richard Nixon tender his resignation to ?
+1570#2 HUM:ind रिचर्ड निक्सन ने अपने इस्तीफे कौन करने के लिए निविदा किया?
+1571#1 HUM:desc Who was Thucydides ?
+1571#2 HUM:desc Thucydides कौन था?
+1572#1 DESC:manner How is the element strontium purified ?
+1572#2 DESC:manner तत्व स्ट्रोंटियम कैसे शुद्ध होता है?
+1573#1 HUM:ind Which of the following rock'n roll stars has a "star" on Hollywood Boulevard ?
+1573#2 HUM:ind निम्नलिखित Rock'n रोल सितारों में से कौन सा हॉलीवुड Boulevard पर एक "स्टार" है?
+1574#1 DESC:reason What are tonsils for ?
+1574#2 DESC:reason के लिए टॉन्सिल क्या हैं?
+1575#1 ENTY:substance What molecules include fluorine , sodium and magnesium ?
+1575#2 ENTY:substance फ्लोरीन, सोडियम और मैग्नीशियम क्या अणुओं में शामिल हैं?
+1576#1 ENTY:sport What was the name of the ball game played by the mayans ?
+1576#2 ENTY:sport Mayans द्वारा खेला गेंद खेल का नाम क्या था?
+1577#1 ENTY:cremat What was the sequel to The Moon's Balloon ?
+1577#2 ENTY:cremat चंद्रमा की गुब्बारा के लिए अगली कड़ी क्या था?
+1578#1 NUM:money What is the exchange rate for Australian to American money ?
+1578#2 NUM:money अमेरिकी पैसे के लिए ऑस्ट्रेलियाई एक्सचेंज के लिए दर क्या है?
+1579#1 DESC:desc What is the origin of the word ` posh' ?
+1579#2 DESC:desc '`पॉश शब्द का मूल क्या है?
+1580#1 DESC:manner How can anyone tell if a female had sexual intercourse ?
+1580#2 DESC:manner एक महिला संभोग किया था, तो कोई कैसे बता सकते हैं?
+1581#1 NUM:count How many states did Richard Nixon carry in 1972 ?
+1581#2 NUM:count रिचर्ड निक्सन 1972 में कितने राज्यों ले गए थे?
+1582#1 ENTY:techmeth What basketball maneuver did Bert Loomis invent ?
+1582#2 ENTY:techmeth बर्ट लूमिस क्या बास्केटबॉल पैंतरेबाज़ी का आविष्कार किया?
+1583#1 ENTY:cremat What is a good book to read for people who hate to read ?
+1583#2 ENTY:cremat पढ़ने के लिए नफरत है, जो लोगों के लिए पढ़ने के लिए एक अच्छी किताब क्या है?
+1584#1 NUM:count How many shillings more than 2 were there in a guinea ?
+1584#2 NUM:count एक गिनी में कितने शिलिंग्स अधिक से अधिक 2 वहाँ थे?
+1585#1 ENTY:food What does a tarantula eat ?
+1585#2 ENTY:food एक टारेंटयुला क्या खाना है?
+1586#1 ENTY:color What are the three secondary colors ?
+1586#2 ENTY:color तीन माध्यमिक रंग क्या हैं?
+1587#1 DESC:def What does the name "Sabrina" mean ?
+1587#2 DESC:def "सबरीना" नाम क्या मतलब है?
+1588#1 HUM:ind Who took over as conductor of the Boston Pops after Arthur Fiedler's long reign ?
+1588#2 HUM:ind कौन आर्थर फिएद्लेर के लंबे शासनकाल के बाद बोस्टन चबूतरे के कंडक्टर के रूप में पदभार संभाल लिया है?
+1589#1 ENTY:event What were the trials called which followed World War II ?
+1589#2 ENTY:event परीक्षणों द्वितीय विश्व युद्ध के बाद जो क्या कहा जाता था?
+1590#1 DESC:def What is hebephrenia ?
+1590#2 DESC:def Hebephrenia क्या है?
+1591#1 HUM:ind What Nazi leader killed himself in jail just before he was to be executed as a war criminal ?
+1591#2 HUM:ind नाजी क्या नेता वह एक युद्ध अपराधी के रूप में क्रियान्वित किया जा रहा था बस से पहले जेल में खुद को मार डाला?
+1592#1 ENTY:event What famous events have happened on March 27 ?
+1592#2 ENTY:event प्रसिद्ध क्या घटनाओं को 27 मार्च को हुआ है?
+1593#1 HUM:gr Which company claimed to be "the world's biggest toy store" ?
+1593#2 HUM:gr कौन सी कंपनी 'दुनिया के सबसे बड़े खिलौने की दुकान "होने का दावा किया?
+1594#1 NUM:other What brand number graces the black label of a bottle of Jack Daniel's ?
+1594#2 NUM:other क्या ब्रांड नंबर जैक डेनियल की की एक बोतल की ब्लैक लेबल गौरव?
+1595#1 ENTY:termeq What do I call the sons and daughters of my first cousins ?
+1595#2 ENTY:termeq क्या मैं अपनी पहली चचेरे भाई के बेटे और बेटियों को कहते हैं?
+1596#1 DESC:reason What were the causes of the Civil War ?
+1596#2 DESC:reason नागरिक युद्ध के कारण क्या थे?
+1597#1 DESC:def What are Maid-Rites ?
+1597#2 DESC:def नौकरानी-संस्कार क्या हैं?
+1598#1 LOC:city What city is terrorized by Dracula in The Night Stalker ?
+1598#2 LOC:city क्या शहर रात शिकारी में ड्रैकुला से आतंकित है?
+1599#1 DESC:manner How can you prevent it ?
+1599#2 DESC:manner आप इसे कैसे रोका जा सकता है?
+1600#1 DESC:def What do the names Andrew and Christina mean ?
+1600#2 DESC:def के नाम एंड्रयू और क्रिस्टीना क्या मतलब है?

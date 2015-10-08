@@ -1,0 +1,200 @@
+2001#1 DESC:reason Why do magnets attract ?
+2001#2 DESC:reason क्यों मैग्नेट आकर्षित करते हैं?
+2002#1 DESC:manner How do you address a Chinese person ?
+2002#2 DESC:manner कैसे आप एक चीनी व्यक्ति को संबोधित करते?
+2003#1 DESC:def What is the meaning of thalassemia ?
+2003#2 DESC:def थैलेसीमिया का अर्थ क्या है?
+2004#1 NUM:code What is Columbia Tristar's phone number ?
+2004#2 NUM:code कोलंबिया ट्राईस्टार का फोन नंबर क्या है?
+2005#1 DESC:manner How do I impress a guy ?
+2005#2 DESC:manner मैं कैसे एक आदमी को प्रभावित करते हैं?
+2006#1 ENTY:techmeth What does the method called "cold fusion" create ?
+2006#2 ENTY:techmeth "शीत संलयन" नामक विधि क्या पैदा करता है?
+2007#1 NUM:date When did Princess Diana and Prince Charles get married ?
+2007#2 NUM:date जब राजकुमारी डायना और प्रिंस चार्ल्स से शादी कर ली हो?
+2008#1 ENTY:other What determines the value of the pearl ?
+2008#2 ENTY:other क्या मोती का मूल्य निर्धारित करता है?
+2009#1 LOC:country Which country did Hitler rule ?
+2009#2 LOC:country हिटलर कौन सा देश पर राज किया?
+2010#1 ENTY:veh What was the name of the American ship sunk by a mine in Havana harbor , causing the Spanish-American war ?
+2010#2 ENTY:veh स्पेनिश मूल के अमेरिकी युद्ध के कारण, हवाना हार्बर में एक खदान से डूब अमेरिकी जहाज का नाम क्या था?
+2011#1 HUM:ind Who directed The Wild Bunch ?
+2011#2 HUM:ind कौन वाइल्ड बंच निर्देश दिया?
+2012#1 ENTY:other What are emblazoned on the Jolly Roger ?
+2012#2 ENTY:other क्या जॉली रोजर पर छपा हुआ है?
+2013#1 LOC:city The Orange Bowl is in what city ?
+2013#2 LOC:city ऑरेंज बाउल क्या शहर में है?
+2014#1 DESC:def What are the alveoli ?
+2014#2 DESC:def वायुकोष्ठिका क्या हैं?
+2015#1 HUM:ind What comedian was born Allen Stewart Konigsberg ?
+2015#2 HUM:ind क्या हास्य अभिनेता एलन स्टीवर्ट Konigsberg पैदा हुआ था?
+2016#1 NUM:count How many Leos have been Pope ?
+2016#2 NUM:count कितने Leos पोप किया गया है?
+2017#1 LOC:state What state was Herbert Hoover born in ?
+2017#2 LOC:state क्या राज्य हर्बर्ट हूवर में पैदा हुआ था?
+2018#1 ENTY:cremat What TV series featured Neal , a martini-drinking St. Bernard ?
+2018#2 ENTY:cremat क्या टीवी श्रृंखला नील, एक शराब पीने सेंट बर्नार्ड चित्रित किया?
+2019#1 ENTY:other What developed a crack in 1835 while tolling the death of U.S. Chief Justice John Marshall ?
+2019#2 ENTY:other अमेरिका के मुख्य न्यायाधीश जॉन मार्शल की मौत tolling जबकि क्या 1835 में एक दरार विकसित किया है?
+2020#1 NUM:count How many fiddlers did Old King Cole have ?
+2020#2 NUM:count ओल्ड किंग कोल कितने Fiddlers किया है?
+2021#1 HUM:ind What poet wrote : "... I have promises to keep , and miles to go before I sleep" ?
+2021#2 HUM:ind क्या कवि ने लिखा है: "... मैं रखने के लिए वादा करता है, और मैं सोने के लिए जाने से पहले मील की दूरी पर है"?
+2022#1 DESC:def What is ethylene ?
+2022#2 DESC:def एथिलीन क्या है?
+2023#1 ENTY:cremat What Irwin Allen bomb has Richard Widmark saying he'll be "the first officer in history to get his butt kicked by a mess of bugs !" ?
+2023#2 ENTY:cremat क्या इरविन एलन बम रिचर्ड Widmark वह हो जाएगा कह रही है, "उसकी बट कीड़े की एक गंदगी से निकाल दिया हो करने के लिए इतिहास में पहली अधिकारी!" ?
+2024#1 ENTY:dismed What is a fear of clouds ?
+2024#2 ENTY:dismed बादलों की एक भय क्या है?
+2025#1 ENTY:cremat What is the music used in the new VW Beetle commercial where the car spins and changes colors ?
+2025#2 ENTY:cremat कार spins और रंग बदलता है, जहां नई VW बीटल के विज्ञापन में इस्तेमाल किया संगीत क्या है?
+2026#1 ENTY:dismed What is a fear of pregnancy ?
+2026#2 ENTY:dismed गर्भावस्था के एक भय क्या है?
+2027#1 NUM:count What is the population in India ?
+2027#2 NUM:count भारत में जनसंख्या क्या है?
+2028#1 DESC:desc What is the origin of the word "pallbearer ?"
+2028#2 DESC:desc शब्द का मूल क्या है "Pallbearer?"
+2029#1 NUM:period How long do flies live ?
+2029#2 NUM:period कितना समय मक्खियों रहते हैं?
+2030#1 DESC:reason Why is Microsoft's Windows 3 software so successful ?
+2030#2 DESC:reason क्यों माइक्रोसॉफ्ट के विंडोज 3 सॉफ्टवेयर इतना सफल रहा है?
+2031#1 HUM:ind Who runs Andy Capp's favorite pub ?
+2031#2 HUM:ind कौन एंडी Capp की पसंदीदा पब चलाता है?
+2032#1 LOC:state What state produces the best lobster to eat ?
+2032#2 LOC:state क्या राज्य खाने के लिए सबसे अच्छा झींगा मछली का उत्पादन?
+2033#1 NUM:count How many times a day does the typical person go to the bathroom ?
+2033#2 NUM:count विशिष्ट व्यक्ति बाथरूम के लिए कितनी बार एक दिन जाना है?
+2034#1 ENTY:sport What bowl game began as an East-West contest between Michigan and Stanford in 192 ?
+2034#2 ENTY:sport क्या कटोरा खेल 192 में मिशिगन और स्टैनफोर्ड के बीच एक पूर्व-पश्चिम प्रतियोगिता के रूप में शुरू हुआ?
+2035#1 LOC:other What islands got their name from the Spanish baja mar , meaning shallow water ?
+2035#2 LOC:other क्या द्वीपों उथले पानी है, जिसका अर्थ स्पेनिश बाजा मार्च से अपने नाम मिल गया?
+2036#1 DESC:def What is deadrise , nautical , ?
+2036#2 DESC:def Deadrise, समुद्री क्या है?
+2037#1 ENTY:lang What's the official language of Algeria ?
+2037#2 ENTY:lang अल्जीरिया की सरकारी भाषा क्या है?
+2038#1 ENTY:other What took first prize in Omni magazine's contest to find the "ultimate unanswerable question" ?
+2038#2 ENTY:other क्या "परम बिना जवाब सवाल" खोजने के लिए ओमनी पत्रिका की प्रतियोगिता में प्रथम पुरस्कार ले लिया?
+2039#1 ENTY:word What six words follow the line : "From a jack to a king.. ." ?
+2039#2 ENTY:word क्या छह शब्दों लाइन का पालन करें: "एक जैक से एक राजा के लिए ..।" ?
+2040#1 DESC:manner How do I find a city if I have the area code ?
+2040#2 DESC:manner मैं इस क्षेत्र कोड है, तो मैं कैसे एक शहर पाते हैं?
+2041#1 HUM:ind What author of the Days of Our Lives Cookbook signed on in 198 as Liz Chandler in TV's Days of Our Lives ?
+2041#2 HUM:ind दिन हमारे जीवन का रसोई की किताब का क्या लेखक हमारे जीवन का टीवी के दिनों में लिज़ चांडलर के रूप में 198 में पर हस्ताक्षर किए?
+2042#1 ENTY:food What foods contain the most protein ?
+2042#2 ENTY:food क्या खाद्य पदार्थ सबसे अधिक प्रोटीन होते हैं?
+2043#1 HUM:ind What President was assassinated by Charles J. Guiteau ?
+2043#2 HUM:ind क्या राष्ट्रपति चार्ल्स जे Guiteau द्वारा हत्या कर दी गई थी?
+2044#1 HUM:ind What comic of TV's golden age went by the motto "Anything for a laugh" ?
+2044#2 HUM:ind टीवी के स्वर्ण युग की क्या हास्य आदर्श वाक्य "एक हंसी के लिए कुछ भी" से चला गया?
+2045#1 NUM:count How many feet long is a baseball pitcher's rubber ?
+2045#2 NUM:count एक बेसबॉल पिचर रबर कितने फुट लंबा है?
+2046#1 LOC:country What was the nationality of Jackson Pollock ?
+2046#2 LOC:country जैक्सन पोलक की राष्ट्रीयता क्या था?
+2047#1 HUM:ind Who invented the game bowling ?
+2047#2 HUM:ind खेल कौन गेंदबाजी का आविष्कार किया?
+2048#1 ENTY:animal What are the snakes of New England ?
+2048#2 ENTY:animal न्यू इंग्लैंड के सांप क्या कर रहे हैं?
+2049#1 NUM:count How many times larger than life size is the Statue of Liberty ?
+2049#2 NUM:count स्वतंत्रता की प्रतिमा कितने गुना बड़ा जीवन आकार की तुलना में है?
+2050#1 LOC:country What is the name of the country which Hitler ruled ?
+2050#2 LOC:country हिटलर ने फैसला सुनाया है, जो देश का नाम क्या है?
+2051#1 HUM:gr What group kidnaped Patricia Hearst ?
+2051#2 HUM:gr क्या समूह पेट्रीसिया हर्स्ट kidnaped?
+2052#1 NUM:period How long does a human live ?
+2052#2 NUM:period एक मानव कितना समय रहता है?
+2053#1 LOC:other Where can I get U.S. economic statistics ?
+2053#2 LOC:other मैं कहां से अमेरिकी आर्थिक आँकड़े प्राप्त कर सकते हैं?
+2054#1 NUM:count How many Superbowls have the ers won ?
+2054#2 NUM:count नेताओं कितने Superbowls जीत लिया है?
+2055#1 DESC:desc What do you do when your mouse is n't working as fast as it's supposed to ?
+2055#2 DESC:desc यह माना जाता है के रूप में अपने माउस के रूप में तेजी से काम नहीं कर रहा है, जब आप क्या करते हैं?
+2056#1 DESC:def What is a gandy dancer ?
+2056#2 DESC:def एक Gandy नर्तकी क्या है?
+2057#1 HUM:ind Who is the creator of "The Muppets" ?
+2057#2 HUM:ind "द मपेट्स 'के निर्माता कौन है?
+2058#1 HUM:ind Which of the following celebrities started his show-biz career as a disc jockey ?
+2058#2 HUM:ind निम्नलिखित हस्तियों में से कौन सा एक डिस्क जॉकी के रूप में अपने शो-बिज़ कैरियर शुरू किया?
+2059#1 ENTY:animal What Triple Crown-winning horse took the 1973 Belmont Stakes by 31 lengths ?
+2059#2 ENTY:animal ट्रिपल क्राउन जीतने क्या घोड़े 31 लंबाई 1973 Belmont स्टेक्स ले लिया?
+2060#1 NUM:other What's a perfect score in a gymnastics exercise ?
+2060#2 NUM:other एक जिमनास्टिक अभ्यास में पूर्ण स्कोर क्या है?
+2061#1 ENTY:termeq What is the dot on an the letter i called ?
+2061#2 ENTY:termeq मैंने फोन पत्र पर डॉट क्या है?
+2062#1 LOC:city What's the capital of Iowa ?
+2062#2 LOC:city आयोवा की राजधानी क्या है?
+2063#1 HUM:ind Who asked you to do the Loco-Motion with her in 1962 ?
+2063#2 HUM:ind कौन 1962 में उसके साथ लोको-मोशन करने के लिए कहा?
+2064#1 DESC:def What's the rathaus in Frankfurt ?
+2064#2 DESC:def फ्रैंकफर्ट में Rathaus क्या है?
+2065#1 HUM:ind What President served for five years , six months and 2 days ?
+2065#2 HUM:ind क्या राष्ट्रपति पांच साल, छह महीने और 2 दिन के लिए कार्य किया?
+2066#1 ENTY:termeq What do you call the feeling of having experienced something before ?
+2066#2 ENTY:termeq इससे पहले कि आप कुछ अनुभवी होने की भावना क्या कहते हैं?
+2067#1 DESC:reason What incident caused the canning of a summit conference between Eisenhower and Khrushchev ?
+2067#2 DESC:reason क्या घटना आइजनहावर और ख्रुश्चेव के बीच एक शिखर सम्मेलन के कैनिंग कारण?
+2068#1 ABBR:abb What is the abbreviated form of the National Bureau of Investigation ?
+2068#2 ABBR:abb जांच के राष्ट्रीय ब्यूरो के संक्षिप्त रूप क्या है?
+2069#1 ENTY:dismed What is a fear of odors , body , ?
+2069#2 ENTY:dismed गंध, शरीर का एक डर है, क्या है?
+2070#1 ENTY:techmeth What is the formula to calculate pi ?
+2070#2 ENTY:techmeth गड़बड़ी की गणना करने के लिए फार्मूला क्या है?
+2071#1 DESC:desc What is the difference between a bachelor and a 1 bedroom apartment ?
+2071#2 DESC:desc एक स्नातक और 1 बेडरूम का अपार्टमेंट के बीच क्या अंतर है?
+2072#1 HUM:ind What is Drew Barrymore's middle name ?
+2072#2 HUM:ind ड्रयू बैरीमोर का मध्य नाम क्या है?
+2073#1 DESC:manner How do you write a book report ?
+2073#2 DESC:manner कैसे आप एक किताब की रिपोर्ट लिख सकता हूँ?
+2074#1 DESC:def What are Cobol , Fortran , and Pascal ?
+2074#2 DESC:def कोबोल, फोरट्रान, और पास्कल क्या हैं?
+2075#1 HUM:ind What is Supergirl's secret identity ?
+2075#2 HUM:ind Supergirl की गुप्त पहचान क्या है?
+2076#1 LOC:other What is the US Federal Government website for Standard Industrial Classification codes , SIC , ?
+2076#2 LOC:other मानक औद्योगिक वर्गीकरण कोड, इस प्रकार के लिए अमेरिका की संघीय सरकार की वेबसाइट, क्या है?
+2077#1 HUM:gr What court does Bob Woodward describe in The Brethren ?
+2077#2 HUM:gr बॉब वुडवर्ड भाइयों में क्या अदालत का वर्णन करता है?
+2078#1 HUM:ind Who made the first surfboard ?
+2078#2 HUM:ind कौन पहले सर्फ़बोर्ड बनाया है?
+2079#1 HUM:ind What is the name of the police officer who tried to keep order in Top Cat's neighborhood ?
+2079#2 HUM:ind शीर्ष बिल्ली के पड़ोस में व्यवस्था बनाए रखने की कोशिश की है जो पुलिस अधिकारी का नाम क्या है?
+2080#1 NUM:date On what date did Rosa Parks Become a symbol of the civil rights movement for refusing to give up her seat on the bus ?
+2080#2 NUM:date क्या तारीख को रोजा पार्क्स बस में उसके सीट देने से इनकार करने के लिए नागरिक अधिकारों के आंदोलन का प्रतीक बन गया?
+2081#1 NUM:perc What are the highest-paying odds on a roulette table ?
+2081#2 NUM:perc एक रूले मेज पर ज्यादा भुगतान हालात क्या हैं?
+2082#1 NUM:date In what year did the US Marine Corps adopt the motto "Semper Fidelis" ?
+2082#2 NUM:date क्या वर्ष में अमेरिकी मरीन कोर के आदर्श वाक्य "सेम्पर Fidelis" अपनाने किया?
+2083#1 NUM:count How many films did Ingmar Bergman make ?
+2083#2 NUM:count इंगमार बर्गमैन कितने फिल्मों बना था?
+2084#1 ENTY:other What does a deltiologist collect ?
+2084#2 ENTY:other एक deltiologist क्या एकत्रित करता है?
+2085#1 DESC:reason What is Garry Kasparov famous for ?
+2085#2 DESC:reason गैरी कास्पारोव के लिए प्रसिद्ध है?
+2086#1 ABBR:exp What does the "c" stand for in the equation E=mc2 ?
+2086#2 ABBR:exp 'ग' समीकरण E = mc2 में क्या अर्थ होता है?
+2087#1 HUM:ind Who is the Greek God of the Sea ?
+2087#2 HUM:ind सागर के यूनानी देवता कौन है?
+2088#1 HUM:ind What well-known music personality is the father of an adopted son named Hans Christian Henderson ?
+2088#2 HUM:ind हैंस क्रिश्चियन हेंडरसन नामक एक दत्तक पुत्र के पिता संगीत व्यक्तित्व अच्छी तरह से जाना जाता है क्या है?
+2089#1 DESC:manner How do you measure the heat of the sun ?
+2089#2 DESC:manner कैसे आप सूरज की गर्मी के उपाय करते हैं?
+2090#1 DESC:reason Why do some people have two different color eyes ?
+2090#2 DESC:reason क्यों कुछ लोगों को दो अलग-अलग रंग आंखों के लिए क्या है?
+2091#1 ENTY:body Which leg does a cat move with its left front leg when walking - its left rear or right rear leg ?
+2091#2 ENTY:body अपनी बाईं पीछे या सही पीछे पैर - जब चलने कौन सा पैर उसके साथ एक बिल्ली चाल सामने पैर छोड़ दिया है?
+2092#1 NUM:date When was the first Barbie produced ?
+2092#2 NUM:date जब पहली बार्बी उत्पादन किया गया था?
+2093#1 ENTY:substance What's the hardest substance in the human body ?
+2093#2 ENTY:substance मानव शरीर में सबसे मुश्किल पदार्थ क्या है?
+2094#1 HUM:ind Who was the first woman governor of Wyoming ?
+2094#2 HUM:ind व्योमिंग की पहली महिला राज्यपाल कौन था?
+2095#1 NUM:count How many more weeks of winter are there if a ground hog sees his shadow ?
+2095#2 NUM:count एक जमीन हॉग उसकी छाया देखता है और कितने सप्ताह सर्दियों के देखते हैं?
+2096#1 HUM:ind What Green Bay Packers coach philosophized : "There's nothing that stokes the fire like hate" ?
+2096#2 HUM:ind क्या ग्रीन बे पैकर्स कोच philosophized: "नफरत की तरह आग स्टोक्स कि कुछ भी नहीं है"?
+2097#1 DESC:manner How do birds find their way back to the same place every year ?
+2097#2 DESC:manner कैसे पक्षियों हर साल वापस उसी जगह के लिए अपना रास्ता मिल रहा है?
+2098#1 LOC:other Where is the Henry Ford Museum ?
+2098#2 LOC:other हेनरी फोर्ड संग्रहालय कहां है?
+2099#1 ENTY:cremat Name a film that has won the Golden Bear in the Berlin Film Festival ?
+2099#2 ENTY:cremat बर्लिन फिल्म समारोह में गोल्डन बियर जीता है कि एक फिल्म का नाम?
+2100#1 ENTY:termeq What's the International Lawn Tennis Challenge Trophy usually called ?
+2100#2 ENTY:termeq अंतर्राष्ट्रीय लॉन टेनिस चैलेंज ट्राफी आमतौर पर क्या कहा जाता है?

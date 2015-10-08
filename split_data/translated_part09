@@ -1,0 +1,200 @@
+901#1 HUM:gr What organization was founded by the Rev. Jerry Falwell ?
+901#2 HUM:gr क्या संगठन रेव जैरी Falwell द्वारा स्थापित किया गया था?
+902#1 LOC:other What's the longest river in the world ?
+902#2 LOC:other दुनिया में सबसे लंबी नदी है?
+903#1 ENTY:food Which soft drink does Madonna advertise for ?
+903#2 ENTY:food मुलायम जो पीने के लिए मैडोना को विज्ञापित करता है?
+904#1 HUM:gr What company is being bought by Yahoo and how much is the deal worth ?
+904#2 HUM:gr क्या कंपनी याहू द्वारा खरीदा जा रहा है और सौदा मूल्य कितना है?
+905#1 NUM:date When was Berlin's Brandenburg gate erected ?
+905#2 NUM:date जब बर्लिन के ब्रांडेनबर्ग गेट बनवाया गया था?
+906#1 NUM:count How many double-word-score spaces are there on a Scrabble Crossword Game board ?
+906#2 NUM:count एक स्क्रैबल पहेली खेल बोर्ड पर कितने डबल-शब्द-स्कोर रिक्त स्थान हैं?
+907#1 NUM:date What year did Germany sign its nonaggression pact with the Soviet Union ?
+907#2 NUM:date क्या वर्ष जर्मनी ने सोवियत संघ के साथ अपने अनाक्रमण संधि पर हस्ताक्षर किया था?
+908#1 LOC:mount What mountain range is traversed by the highest railroad in the world ?
+908#2 LOC:mount क्या पर्वत श्रृंखला दुनिया में सबसे ज्यादा रेल द्वारा तय की है?
+909#1 DESC:reason Why were the American soldiers in WWI called "Doughboys"
+909#2 DESC:reason प्रथम विश्व युद्ध में अमेरिकी सैनिकों "doughboys" कहा जाता था क्यों
+910#1 HUM:ind Who was nicknamed The Little Corporal ?
+910#2 HUM:ind लिटिल कॉर्पोरल उपनाम था कौन?
+911#1 NUM:count How many CDs has Garth Brooks sold ?
+911#2 NUM:count गर्थ ब्रूक्स कितने सीडी बेच दिया है?
+912#1 ENTY:veh Name the vessel used by the Atari Force in the DC comics .
+912#2 ENTY:veh डीसी कॉमिक्स में अटारी सेना द्वारा इस्तेमाल किया पोत का नाम।
+913#1 LOC:other Where are the leading medical groups specializing in lung diseases ?
+913#2 LOC:other कहाँ फेफड़ों के रोगों में विशेषज्ञता अग्रणी चिकित्सा समूह हैं?
+914#1 DESC:manner How can I find online spelling , and punctuation drills for my 6th grader ?
+914#2 DESC:manner कैसे मैं अपने 6 ग्रेडर के लिए ऑनलाइन वर्तनी, और विराम अभ्यास मिल सकती है?
+915#1 LOC:other What's the sacred river of India ?
+915#2 LOC:other भारत की पवित्र नदी में क्या है?
+916#1 LOC:country What is Stefan Edberg's native country ?
+916#2 LOC:country स्टीफन एडबर्ग की मूल देश क्या है?
+917#1 ENTY:body What is the only gland in humans that can regenerate itself ?
+917#2 ENTY:body केवल मनुष्य में ग्रंथि है कि खुद को पुनर्जीवित कर सकते हैं क्या है?
+918#1 NUM:count How many Gutenberg Bibles are there ?
+918#2 NUM:count गुटेनबर्ग बाईबिल कैसे देखते हैं?
+919#1 LOC:country Name the largest country in South America .
+919#2 LOC:country दक्षिण अमेरिका में सबसे बड़ा देश का नाम।
+920#1 ENTY:event What astronomical phenomenon takes place in Jan. 1999 ?
+920#2 ENTY:event क्या खगोलीय घटना जनवरी 1999 में जगह लेता है?
+921#1 DESC:desc What information can you get me on Fairground Park in St. Louis
+921#2 DESC:desc क्या जानकारी आप सेंट लुई में Fairground पार्क पर मुझे प्राप्त कर सकते हैं
+922#1 HUM:ind What was American folk hero John Chapman's nickname ?
+922#2 HUM:ind अमेरिकी लोक नायक जॉन चैपमैन के उपनाम क्या था?
+923#1 DESC:desc What is the difference between a median and a mean ?
+923#2 DESC:desc एक औसत और एक मतलब के बीच क्या अंतर है?
+924#1 ENTY:cremat What was the top box office movie in April 1998 ?
+924#2 ENTY:cremat अप्रैल 1998 में टॉप बॉक्स ऑफिस पर फिल्म क्या था?
+925#1 DESC:reason What makes thunder ?
+925#2 DESC:reason क्या गरज बनाता है?
+926#1 HUM:ind What author did photographer Yousuf Karsh call "the shiest man I ever met" ?
+926#2 HUM:ind क्या लेखक फोटोग्राफर यूसुफ कर्श "मैं कभी मिले shiest आदमी" फोन किया था?
+927#1 ENTY:other Which is the largest clock , diameter wise , in Europe ?
+927#2 ENTY:other यूरोप में बुद्धिमान सबसे बड़ी घड़ी, व्यास, कौन सा है?
+928#1 ENTY:plant What plant is rum made from ?
+928#2 ENTY:plant क्या संयंत्र रम से बनाया गया है?
+929#1 LOC:country What country are Godiva chocolates from ?
+929#2 LOC:country गोडिवा चॉकलेट क्या देश से हैं?
+930#1 HUM:ind Name the poet of the poem which begins : I do not know much about gods ; but I think that the river Is a strong brown god-sullen , and untamed ?
+930#2 HUM:ind शुरू होता है जो कविता के कवि नाम: मैं देवताओं के बारे में ज्यादा पता नहीं है; लेकिन मैं नदी एक मजबूत भूरे रंग के देवता-उदास, और अदम्य है कि लगता है?
+931#1 ENTY:food Which condiment was once sold as a patent medicine ?
+931#2 ENTY:food कौन सा मसाला एक बार एक पेटेंट दवा के रूप में बेच दिया गया था?
+932#1 LOC:state What U.S. state records the least rainfall ?
+932#2 LOC:state क्या अमेरिकी राज्य में कम से कम वर्षा रिकॉर्ड?
+933#1 DESC:reason Why did the world enter a global depression in 1929 ?
+933#2 DESC:reason क्यों दुनिया में 1929 में एक वैश्विक अवसाद में प्रवेश किया?
+934#1 DESC:def What was archy , and mehitabel ?
+934#2 DESC:def Archy, और mehitabel क्या था?
+935#1 LOC:city What Texas city got its name from the Spanish for "yellow" ?
+935#2 LOC:city क्या टेक्सास शहर "पीला" के लिए स्पेनिश से अपने नाम मिल गया?
+936#1 ENTY:substance What are the chemicals used in glowsticks ?
+936#2 ENTY:substance Glowsticks में प्रयुक्त रसायनों क्या हैं?
+937#1 LOC:country What country did the Nile River originate in ?
+937#2 LOC:country क्या देश में नील नदी आरंभ किया था?
+938#1 ENTY:color What color are tennis balls ?
+938#2 ENTY:color टेनिस गेंदों रंग क्या कर रहे हैं?
+939#1 HUM:ind What barroom judge called himself The Law West of the Pecos ?
+939#2 HUM:ind क्या barroom जज खुद Pecos के कानून पश्चिम कहा जाता है?
+940#1 DESC:desc What excuse did the NATO people give for hitting the Chinese embassy ?
+940#2 DESC:desc नाटो के लोगों को चीनी दूतावास से टकराने के लिए क्या बहाना दे दिया?
+941#1 HUM:ind Who was President of Costa Rica in 1994 ?
+941#2 HUM:ind 1994 में कोस्टा रिका के राष्ट्रपति कौन था?
+942#1 ENTY:sport What sports event is Meyer Wolfsheim supposed to have fixed in The Great Gatsby ?
+942#2 ENTY:sport क्या खेल आयोजन मेयर Wolfsheim ग्रेट में तय कर दी है माना जाता है?
+943#1 LOC:country What country has the best defensive position in the board game Diplomacy ?
+943#2 LOC:country क्या देश बोर्ड खेल कूटनीति में सबसे अच्छा रक्षात्मक स्थिति है?
+944#1 LOC:country What two countries share the Khyber Pass ?
+944#2 LOC:country क्या दोनों देशों के खैबर दर्रे का हिस्सा?
+945#1 HUM:ind Who was chairman of the Senate select committee that tried to get to the bottom of Watergate ?
+945#2 HUM:ind वाटरगेट की तह तक पहुंचने की कोशिश की है कि सीनेट चयन समिति के अध्यक्ष कौन था?
+946#1 DESC:desc What is the origin of the surname of Braun ?
+946#2 DESC:desc ब्राउन के उपनाम का मूल क्या है?
+947#1 ENTY:sport What card game has variations called Canfield , Klondike and Spider ?
+947#2 ENTY:sport क्या कार्ड खेल केनफील्ड, क्लोंडाइक और स्पाइडर बुलाया बदलाव किया है?
+948#1 DESC:def What is Australia Day ?
+948#2 DESC:def ऑस्ट्रेलिया दिवस क्या है?
+949#1 ENTY:animal What mammal of North America is the world's longest-lived for its size ?
+949#2 ENTY:animal इसके आकार के लिए दुनिया के सबसे लंबे समय तक रहते थे उत्तरी अमेरिका की क्या स्तनपायी है?
+950#1 DESC:def What was the Chivington Massacre ?
+950#2 DESC:def Chivington नरसंहार क्या था?
+951#1 HUM:ind What actor starred in 1980's Blue Lagoon , 1982's The Pirate Movie and 1983's A Night in Heaven ?
+951#2 HUM:ind क्या अभिनेता 1980 के ब्लू लैगून, 1982 के समुद्री डाकू फिल्म और 1983 की एक रात स्वर्ग में में अभिनय किया है?
+952#1 NUM:count How many home runs did Lou Gehrig have during his career ?
+952#2 NUM:count कितने घर चलाता है Lou Gehrig अपने कैरियर के दौरान किया है?
+953#1 LOC:city In what city is the headquarters of Sinn Fein ?
+953#2 LOC:city सिनफेन के मुख्यालय क्या शहर में है?
+954#1 LOC:other Where can I find information on George Bush ?
+954#2 LOC:other मैं कहां से जॉर्ज बुश के बारे में जानकारी मिल सकती है?
+955#1 HUM:ind Who is the voice of Miss Piggy ?
+955#2 HUM:ind मिस सूअर का बच्चा की आवाज कौन है?
+956#1 ENTY:termeq What is the dialogue circle in cartoons called ?
+956#2 ENTY:termeq कार्टून में वार्ता चक्र कहा जाता है?
+957#1 DESC:def What does the word camaro mean , from the GM car the Camaro ?
+957#2 DESC:def केमेरो शब्द जीएम कार केमेरो से, क्या मतलब है?
+958#1 HUM:ind Who replaced Bert Parks as the host of The Miss America Pageant ?
+958#2 HUM:ind कौन मिस अमेरिका स्पर्धा के मेजबान के रूप बर्ट पार्क की जगह?
+959#1 NUM:count How many boys play the game in Winslow Homer's 1872 painting Snap the Whip ?
+959#2 NUM:count कितने लड़कों Winslow होमर के 1872 चित्रकला स्नैप कोड़ा से खेल खेलते हैं?
+960#1 DESC:def What is the AIM-54C Phoenix ?
+960#2 DESC:def एआईएम 54C फीनिक्स क्या है?
+961#1 NUM:date When are sheep shorn ?
+961#2 NUM:date जब भेड़ छीना रहे हैं?
+962#1 ENTY:sport What sport is Chris Jogis a top player of ?
+962#2 ENTY:sport क्रिस Jogis के एक शीर्ष खिलाड़ी क्या खेल है?
+963#1 LOC:other What's the second-largest island in the world ?
+963#2 LOC:other दुनिया में दूसरा सबसे बड़ा द्वीप है?
+964#1 DESC:def What is the definition of low island ?
+964#2 DESC:def कम द्वीप की परिभाषा क्या है?
+965#1 NUM:date What century does Captain Video live in ?
+965#2 NUM:date क्या सदी में कप्तान वीडियो रहता है?
+966#1 ENTY:other What types of water pollution are there ?
+966#2 ENTY:other जल प्रदूषण किस प्रकार देखते हैं?
+967#1 NUM:count How many astronauts manned each Project Mercury flight ?
+967#2 NUM:count कितने अंतरिक्ष यात्रियों को प्रत्येक परियोजना पारा उड़ान आबाद?
+968#1 ENTY:food What soft drink would provide me with the biggest intake of caffeine ?
+968#2 ENTY:food क्या शीतल पेय मुझे कैफीन की सबसे बड़ी सेवन के साथ प्रदान करेगा?
+969#1 ENTY:other What's the name of a golf course in Myrtle Beach ?
+969#2 ENTY:other Myrtle Beach में एक गोल्फ कोर्स का नाम क्या है?
+970#1 ENTY:event What are some of the significant historical events of the 1990s ?
+970#2 ENTY:event 1990 के दशक के महत्वपूर्ण ऐतिहासिक घटनाओं में से कुछ क्या हैं?
+971#1 ENTY:cremat Name the only extant trilogy of classical Greek plays .
+971#2 ENTY:cremat शास्त्रीय यूनानी नाटकों का केवल वर्तमान त्रयी नाम दें।
+972#1 LOC:other Where is Logan Airport ?
+972#2 LOC:other लोगान हवाई अड्डा कहां है?
+973#1 DESC:desc What is the difference between Neoclassical art and Romanticism art ?
+973#2 DESC:desc नियोक्लासिकल कला और रूमानियत कला के बीच क्या अंतर है?
+974#1 HUM:ind Who was the first person inducted into the U.S. Swimming Hall of Fame ?
+974#2 HUM:ind फेम के अमेरिकी तैराकी हॉल में शामिल पहले व्यक्ति कौन था?
+975#1 HUM:ind What golfer has been called Ohio Fats and Blobbo ?
+975#2 HUM:ind क्या गोल्फर ओहियो वसा और Blobbo बुलाया गया है?
+976#1 HUM:ind Who murdered Leno and Rosemary LaBianca on August 1
+976#2 HUM:ind कौन 1 अगस्त को लीनो और दौनी LaBianca की हत्या कर दी
+977#1 NUM:money What is the average cost for four years of medical school ?
+977#2 NUM:money मेडिकल स्कूल के चार साल के लिए औसत लागत क्या है?
+978#1 ENTY:other What does God create in the first sentence of the Bible ?
+978#2 ENTY:other भगवान बाइबिल के पहले वाक्य में क्या पैदा करता है?
+979#1 HUM:ind Which of the following men was not married to Rita Hayworth ?
+979#2 HUM:ind निम्नलिखित पुरुषों में से कौन सा रीटा Hayworth से शादी नहीं कर रहा था?
+980#1 NUM:money What is the current ticket fare from from Cairo to Barbados ?
+980#2 NUM:money से काहिरा से बारबाडोस के लिए वर्तमान टिकट किराया क्या है?
+981#1 ABBR:exp What does NN O "mean when used as a prefix in Irish surnames ?
+981#2 ABBR:exp आयरिश उपनामों में एक उपसर्ग के रूप में इस्तेमाल किया जब एनएन हे "क्या मतलब है?
+982#1 DESC:manner How do you find oxidation numbers ?
+982#2 DESC:manner आप कैसे ऑक्सीकरण संख्या पाते हैं?
+983#1 LOC:state What is the state nickname of Mississippi ?
+983#2 LOC:state मिसिसिपी राज्य उपनाम क्या है?
+984#1 DESC:reason What is Black Hills , South Dakota most famous for ?
+984#2 DESC:reason दक्षिण डकोटा ब्लैक हिल्स, के लिए सबसे प्रसिद्ध क्या है?
+985#1 ENTY:cremat What 1966 boob tube bomb took astronauts back to prehistoric times ?
+985#2 ENTY:cremat क्या 1966 उल्लू ट्यूब बम वापस प्रागैतिहासिक काल के लिए अंतरिक्ष यात्रियों को ले लिया?
+986#1 NUM:count How many students attend the University of Massachusetts ?
+986#2 NUM:count कितने छात्रों मैसाचुसेट्स विश्वविद्यालय में भाग लेने के?
+987#1 HUM:ind Who said , "I shall return ." during World War Two ?
+987#2 HUM:ind कौन "मैं वापस करेगा।" ने कहा, दो विश्व युद्ध के दौरान?
+988#1 ENTY:event What holidays are celebrated in Ireland ?
+988#2 ENTY:event क्या छुट्टियों आयरलैंड में मनाया जाता है?
+989#1 HUM:ind Who portrayed Etta Place , companion to Butch Cassidey and the Sundance Kid ?
+989#2 HUM:ind कौन Etta प्लेस, बुच Cassidey और सनडांस किड के लिए साथी चित्रित किया?
+990#1 DESC:def What are the Greek numerals ?
+990#2 DESC:def ग्रीक अंकों के क्या हैं?
+991#1 LOC:other What's the name of the temple that is located near the capital city of Laos ?
+991#2 LOC:other लाओस की राजधानी के निकट स्थित है कि मंदिर का नाम क्या है?
+992#1 ENTY:dismed What is a fear of sleep ?
+992#2 ENTY:dismed सोने की एक भय क्या है?
+993#1 ENTY:sport What auto race was Wilbur Reed the first to win three times ?
+993#2 ENTY:sport विल्बर रीड तीन बार जीतने वाले पहले क्या ऑटो दौड़ रहा था?
+994#1 ENTY:animal What are the most common breeding birds in the U.S. ?
+994#2 ENTY:animal अमेरिका में सबसे आम प्रजनन पक्षियों क्या हैं?
+995#1 ENTY:event What was organized as a Confederate veterans' social club in Pulaski , in Tennessee , in 1866 ?
+995#2 ENTY:event क्या 1866 में, टेनेसी में, Pulaski में एक संघि दिग्गजों 'सामाजिक क्लब के रूप में आयोजित किया गया था?
+996#1 DESC:manner How do you look up criminal records on the Internet ?
+996#2 DESC:manner कैसे आप इंटरनेट पर आपराधिक रिकॉर्ड को देखने के लिए?
+997#1 LOC:other Where is the actress , Marion Davies , buried ?
+997#2 LOC:other अभिनेत्री मैरियन डेविस, जहां दफन है?
+998#1 DESC:desc What is an example of an actual case of using the Fourteenth Amendment ?
+998#2 DESC:desc चौदहवें संशोधन का उपयोग करने का एक वास्तविक स्थिति का एक उदाहरण क्या है?
+999#1 HUM:ind Who was the Charlie perfume woman ?
+999#2 HUM:ind चार्ली इत्र महिला कौन थी?
+1000#1 HUM:ind Who portrayed "Rosanne Rosanna-Dana" on the television show "Saturday Night Live" ?
+1000#2 HUM:ind कौन टेलीविजन शो 'सैटरडे नाइट लाइव "पर" रोसन्ने Rosanna-दाना "में चित्रित किया?

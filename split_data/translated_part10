@@ -1,0 +1,200 @@
+1001#1 HUM:ind What singer became despondent over the death of Freddie Prinze , quit show business , and then quit the business ?
+1001#2 HUM:ind क्या गायक, फ्रेडी Prinze की मौत पर हताश हो गया शो बिजनेस छोड़ दिया है, और फिर व्यापार छोड़ दिया है?
+1002#1 NUM:date When did Iraqi troops invade Kuwait ?
+1002#2 NUM:date जब इराकी सैनिकों को कुवैत पर आक्रमण किया?
+1003#1 ENTY:termeq What was Mark Johnson referring to when he said : "I still can't believe it- we beat the Russians ?"
+1003#2 ENTY:termeq जब उन्होंने कहा कि क्या मार्क जॉनसन का जिक्र था: "मैं अभी भी हम रूस के हरा यह- विश्वास नहीं कर सकता"
+1004#1 ENTY:product What car was driven in the 199 release of "Smokey and the Bandit" ?
+1004#2 ENTY:product क्या कार "Smokey और बैंडिट 'के 199 विज्ञप्ति में संचालित किया गया था?
+1005#1 HUM:gr What was the backup singing group for Roy Rogers ?
+1005#2 HUM:gr रॉय रोजर्स के लिए बैकअप गायन समूह क्या था?
+1006#1 HUM:ind What famous singing cowboy owns the California Angels baseball team ?
+1006#2 HUM:ind क्या प्रसिद्ध गायन चरवाहे कैलिफोर्निया एन्जिल्स बेसबॉल टीम का मालिक है?
+1007#1 ENTY:cremat What 1915 film was the first to gross $5 million ?
+1007#2 ENTY:cremat $ 5,000,000 सकल पहले क्या 1915 फिल्म थी?
+1008#1 DESC:desc Where did the term "86" come from ?
+1008#2 DESC:desc शब्द "86" कहाँ से आया?
+1009#1 DESC:reason What causes someone to be ticklish ?
+1009#2 DESC:reason क्या किसी हंसोड़ होने का कारण बनता है?
+1010#1 NUM:perc What is the probability that at least 2 out of 25 people will have the same birthday ?
+1010#2 NUM:perc 25 लोगों में से कम से कम 2 ही जन्मदिन होगा संभावना है कि क्या है?
+1011#1 NUM:count How many Canadians emmigrate each year ?
+1011#2 NUM:count कितने कनाडाई प्रत्येक वर्ष के emmigrate?
+1012#1 DESC:reason Why did several San Diego schools remove apples from students menus ?
+1012#2 DESC:reason क्यों कई सैन डिएगो स्कूलों के छात्रों के लिए मेनू से सेब को दूर किया?
+1013#1 ENTY:instru What musical instrument did Sherlock Holmes play ?
+1013#2 ENTY:instru शर्लक होम्स क्या संगीत वाद्य खेलने किया?
+1014#1 HUM:ind Who was Gerald Ford's vice president ?
+1014#2 HUM:ind गेराल्ड फोर्ड के उपाध्यक्ष कौन था?
+1015#1 DESC:def What is "the washed vodka" ?
+1015#2 DESC:def "धोया वोदका" क्या है?
+1016#1 NUM:count How many different languages are spoken in Europe ?
+1016#2 NUM:count कितने अलग अलग भाषाओं यूरोप में बोली जाती हैं?
+1017#1 NUM:date What year was Desmond Mpilo Tutu awarded the Nobel Peace Prize ?
+1017#2 NUM:date क्या वर्ष डेसमंड टूटू Mpilo नोबेल शांति पुरस्कार से सम्मानित किया गया था?
+1018#1 ENTY:termeq What's a "Drinker respirator" better known as ?
+1018#2 ENTY:termeq एक "पीने ​​वाला श्वासयंत्र" क्या बेहतर रूप में जाना जाता है?
+1019#1 HUM:ind Who invented batteries ?
+1019#2 HUM:ind कौन बैटरी का आविष्कार किया?
+1020#1 DESC:reason Why do recipe books recommend starting with cold water when you boil something ?
+1020#2 DESC:reason क्यों नुस्खा किताबें आप कुछ फोड़ा जब ठंडे पानी के साथ शुरू करने की सिफारिश करते हैं?
+1021#1 LOC:other Where can I buy a good snowboard for less than $200 ?
+1021#2 LOC:other मैं कहां से कम से कम $ 200 के लिए एक अच्छा स्नोबोर्ड खरीद सकते हैं?
+1022#1 HUM:title What title did Suzette Charles assume for two months in 1984 ?
+1022#2 HUM:title Suzette चार्ल्स 1984 में दो महीने के लिए क्या शीर्षक ग्रहण किया?
+1023#1 HUM:ind What was the infamous pseudonym of Peter Sutcliffe ?
+1023#2 HUM:ind पीटर सटक्लिफ के कुख्यात छद्म नाम क्या था?
+1024#1 ENTY:animal What is Smokey The Bear's middle name ?
+1024#2 ENTY:animal स्मोकी भालू के बीच का नाम क्या है?
+1025#1 HUM:title What is Nicholas Cage's occupation ?
+1025#2 HUM:title निकोलस केज के व्यवसाय क्या है?
+1026#1 ENTY:cremat What British TV series featured Emma Peel ?
+1026#2 ENTY:cremat ब्रिटिश क्या टीवी श्रृंखला एम्मा पील चित्रित किया?
+1027#1 LOC:other What London street is the home of British journalism ?
+1027#2 LOC:other ब्रिटिश पत्रकारिता के घर क्या लंदन सड़क है?
+1028#1 ENTY:event What tragedy befell the city of Dogtown in 1899 ?
+1028#2 ENTY:event क्या त्रासदी 1899 में Dogtown के शहर befell?
+1029#1 DESC:def What is the Immaculate Conception ?
+1029#2 DESC:def बेदाग गर्भाधान क्या है?
+1030#1 ENTY:veh What are the names of all the U.S. Navy aircraft carriers ?
+1030#2 ENTY:veh सभी अमेरिकी नौसेना के विमान वाहक का नाम क्या हैं?
+1031#1 ENTY:other What format was VHS's main competition ?
+1031#2 ENTY:other वीएचएस के मुख्य प्रतियोगिता क्या प्रारूप था?
+1032#1 DESC:def What is Candlemas Day ?
+1032#2 DESC:def केण्डलमस दिवस क्या है?
+1033#1 LOC:city In what city is the famed St. Mark's Square ?
+1033#2 LOC:city क्या शहर में प्रसिद्ध सेंट मार्क स्क्वायर है?
+1034#1 ENTY:termeq What does the Ouarterly Review of Doublespeak call an "inoperative statement" ?
+1034#2 ENTY:termeq द्विअर्थी की Ouarterly समीक्षा एक "निष्क्रिय बयान" क्या कहते है?
+1035#1 NUM:money How much did the minimum wage amount to in 1991 ?
+1035#2 NUM:money न्यूनतम मजदूरी राशि 1991 में कितना करने के लिए किया था?
+1036#1 LOC:other Where is Tufts University ?
+1036#2 LOC:other टफ्ट्स विश्वविद्यालय कहां है?
+1037#1 DESC:def What is a pyrotechnic display ?
+1037#2 DESC:def एक चमकदार प्रदर्शन क्या है?
+1038#1 DESC:manner How do I find out about jobs ?
+1038#2 DESC:manner मैं कैसे काम के बारे में पता है?
+1039#1 HUM:gr What Japanese manufacturer is known for both its pianos and its motorcycles ?
+1039#2 HUM:gr क्या जापानी निर्माता अपने पियानो और अपनी मोटरसाइकिलों दोनों के लिए जाना जाता है?
+1040#1 NUM:other What is the chemical reactivity of argon ?
+1040#2 NUM:other आर्गन की रासायनिक जेट क्या है?
+1041#1 NUM:count How many engines does a Boeing 737 have ?
+1041#2 NUM:count एक बोइंग 737 कितने इंजन है?
+1042#1 DESC:desc What is the origin of the term "The Brooklyn Side" in bowling ?
+1042#2 DESC:desc गेंदबाजी में "ब्रुकलीन साइड" शब्द का मूल क्या है?
+1043#1 ENTY:dismed What is a fear of being cold ?
+1043#2 ENTY:dismed ठंड होने के एक भय क्या है?
+1044#1 NUM:dist How long was Mao's 1930s Long March ?
+1044#2 NUM:dist माओ की 1930 के दशक के लांग मार्च कितना समय था?
+1045#1 ENTY:sport What net game sees its women's world amateur champions receive the Uber Cup ?
+1045#2 ENTY:sport क्या शुद्ध खेल अपनी महिलाओं की विश्व एमेच्योर चैंपियन उबेर कप प्राप्त देखता है?
+1046#1 ENTY:animal What four-legged creature did a Cornell University study say would make man's best companion in space ?
+1046#2 ENTY:animal एक कार्नेल विश्वविद्यालय के एक अध्ययन से अंतरिक्ष में आदमी का सबसे अच्छा साथी बनाना होगा कहना था चार पैर वाले क्या प्राणी?
+1047#1 NUM:weight What does a teaspoon of matter weigh in a black hole ?
+1047#2 NUM:weight इस मामले के एक चम्मच एक ब्लैक होल में क्या तौलना करता है?
+1048#1 ENTY:other What did British companies stick 175 , 0 tons of tea into in 1982 ?
+1048#2 ENTY:other ब्रिटिश कंपनियों 175, 0 टन चाय की 1982 में क्या में छड़ी किया?
+1049#1 LOC:state What province is Edmonton located in ?
+1049#2 LOC:state क्या प्रांत एडमोंटन में स्थित है?
+1050#1 DESC:manner How can I find out how much income tax is paid on Social Security income on the 1998 income tax ?
+1050#2 DESC:manner कैसे मैं 1998 आयकर पर सामाजिक सुरक्षा आय पर भुगतान किया जाता है कितना आयकर पता कर सकते हैं?
+1051#1 HUM:ind Who did Sonny Liston succeed as world heavyweight boxing champion ?
+1051#2 HUM:ind सन्नी लिस्टन विश्व हैवीवेट बॉक्सिंग चैंपियन के रूप में कौन सफल हो गए थे?
+1052#1 ENTY:animal What is California's state bird ?
+1052#2 ENTY:animal कैलिफोर्निया के राज्य पक्षी क्या है?
+1053#1 NUM:date What is Martin Luther King Jr.'s real birthday ?
+1053#2 NUM:date मार्टिन लूथर किंग जूनियर का असली जन्मदिन क्या है?
+1054#1 HUM:gr Name the various super-teams to which the Angel has belonged .
+1054#2 HUM:gr एंजेल थे गया है, जो करने के लिए विभिन्न सुपर टीमों का नाम।
+1055#1 DESC:manner How does Zatanna perform her magic in DC comics ?
+1055#2 DESC:manner कैसे Zatanna डीसी कॉमिक्स में उसके जादू प्रदर्शन करता है?
+1056#1 ENTY:veh What's the name of Jacques Cousteau's research ship ?
+1056#2 ENTY:veh जेक्स Cousteau के शोध जहाज का नाम क्या है?
+1057#1 HUM:ind What President dispatched a cruiser to carry Charles Lindbergh home after his epic flight ?
+1057#2 HUM:ind क्या राष्ट्रपति ने अपने महाकाव्य उड़ान के बाद चार्ल्स लिंडबर्ग घर ले जाने के लिए एक क्रूजर भेजा?
+1058#1 HUM:ind Whose video is titled Shape Up with Arnold ?
+1058#2 HUM:ind जिसकी वीडियो अर्नोल्ड के साथ ऊपर आकार शीर्षक है?
+1059#1 ENTY:cremat In which Kevin Costner movie did Sioux Indians play a role ?
+1059#2 ENTY:cremat जो केविन कोस्टनर फिल्म में सियु भारतीयों को एक भूमिका निभानी थी?
+1060#1 NUM:count How many James Bond novels are there ?
+1060#2 NUM:count कितने जेम्स बॉन्ड उपन्यास देखते हैं?
+1061#1 DESC:manner How do you get dates with the "Hooters" girls ?
+1061#2 DESC:manner कैसे आप "हूटरर्स" लड़कियों के साथ तारीखों मिलता है?
+1062#1 ENTY:animal What bird can swim but can't fly ?
+1062#2 ENTY:animal क्या पक्षी तैर कर सकते हैं, लेकिन उड़ान भरने के लिए नहीं कर सकते?
+1063#1 DESC:manner How can I get a comic character I made copyrighted and published ?
+1063#2 DESC:manner मैं कैसे मैं कॉपीराइट और प्रकाशित किए गए एक हास्य चरित्र प्राप्त कर सकते हैं?
+1064#1 NUM:volsize How large is the Arctic refuge to preserve unique wildlife and wilderness value on Alaska's north coast ?
+1064#2 NUM:volsize अलास्का के उत्तर तट पर अद्वितीय वन्य जीवन और जंगल मूल्य की रक्षा करने के लिए आर्कटिक शरण कितना बड़ा है?
+1065#1 DESC:def What is Plc ?
+1065#2 DESC:def पीएलसी क्या है?
+1066#1 NUM:count How much electricity does the brain need to work ?
+1066#2 NUM:count कितनी बिजली मस्तिष्क के काम करने की जरूरत है?
+1067#1 NUM:count How many acres in a mile ?
+1067#2 NUM:count कितने एक मील में एकड़ जमीन?
+1068#1 ENTY:cremat What Dickens novel has David carrying the message "Barkis is willin" to Peggy ?
+1068#2 ENTY:cremat क्या डिकेंस के उपन्यास डेविड पैगी को संदेश "बार्किस willin है" को ले जाने की है?
+1069#1 DESC:def What is a hyperlink ?
+1069#2 DESC:def एक हाइपरलिंक क्या है?
+1070#1 HUM:ind Who's the twin brother of the Greek goddess Artemis ?
+1070#2 HUM:ind ग्रीक देवी अरतिमिस के जुड़वां भाई कौन है?
+1071#1 DESC:desc Where did marijuana come from ?
+1071#2 DESC:desc मारिजुआना कहां से आया?
+1072#1 NUM:money What is the per-capita income of Colombia , South America , ?
+1072#2 NUM:money दक्षिण अमेरिका कोलम्बिया की प्रति व्यक्ति आय, क्या है?
+1073#1 ENTY:cremat What novel has Big Brother watching ?
+1073#2 ENTY:cremat बिग ब्रदर क्या उपन्यास देख गया है?
+1074#1 NUM:count How many Grammys did Michael Jackson win in 1983 ?
+1074#2 NUM:count माइकल जैक्सन 1983 में कितने ग्रैमी जीता?
+1075#1 DESC:def What does Elysium mean ?
+1075#2 DESC:def नन्दन क्या मतलब है?
+1076#1 LOC:other What is the oldest website on the Internet ?
+1076#2 LOC:other इंटरनेट पर सबसे पुराना वेबसाइट क्या है?
+1077#1 DESC:def What is Shalom ?
+1077#2 DESC:def एसएचएलओएम क्या है?
+1078#1 ENTY:sport What was the favorite sport of Tom Wolfe's The Pump House Gang ?
+1078#2 ENTY:sport टॉम वोल्फ के पम्प हाउस गिरोह का पसंदीदा खेल क्या था?
+1079#1 ENTY:substance What organic fuel do bog-dwellers use a "slane" to cut ?
+1079#2 ENTY:substance क्या जैविक ईंधन दलदल में रहने वाले लोगों में कटौती करने के लिए एक "Slane" प्रयोग करते हैं?
+1080#1 NUM:period What is the average age of a member of the team that worked on the Manhatten Project ?
+1080#2 NUM:period Manhatten परियोजना पर काम किया है कि टीम के एक सदस्य की औसत उम्र क्या है?
+1081#1 LOC:country What country received all the Nobel Prizes awarded in 1976 ?
+1081#2 LOC:country क्या देश प्राप्त सभी 1976 में नोबेल पुरस्कार से सम्मानित किया?
+1082#1 DESC:manner How do you get rid on woodpeckers ?
+1082#2 DESC:manner आप कैसे कठफोड़वा पर छुटकारा मिलता है?
+1083#1 NUM:count How many syllables are there in a line of hendecasyllabic poetry ?
+1083#2 NUM:count Hendecasyllabic कविता की एक पंक्ति में कितने अक्षरों देखते हैं?
+1084#1 ENTY:food What soft drink first appeared in the Old Corner Drug Store in Waco , Texas , in 1885 ?
+1084#2 ENTY:food क्या सॉफ्ट ड्रिंक पहले 1885 में, वाको, टेक्सास में पुरानी कोने दवा की दुकान में छपी है?
+1085#1 LOC:other What is Britain's possession on the Chinese mainland ?
+1085#2 LOC:other चीनी मुख्य भूमि पर ब्रिटेन के कब्जे क्या है?
+1086#1 HUM:ind Who was America's first Public Enemy No. 1 ?
+1086#2 HUM:ind अमेरिका के पहले सार्वजनिक शत्रु नंबर 1 कौन था?
+1087#1 NUM:count How many children under 18 are victims of some sort of Physical Abuse each year ?
+1087#2 NUM:count शारीरिक शोषण के कुछ प्रकार के पीड़ितों को हर साल कितने बच्चे 18 के तहत कर रहे हैं?
+1088#1 DESC:desc What is the origin of thank you notes ?
+1088#2 DESC:desc आपको धन्यवाद देता हूं नोटों का मूल क्या है?
+1089#1 ENTY:other What did Jimmy Stewart invent ?
+1089#2 ENTY:other जिमी स्टीवर्ट क्या आविष्कार किया?
+1090#1 ENTY:other What generation am I in ?
+1090#2 ENTY:other क्या पीढ़ी मैं में हूँ?
+1091#1 ENTY:dismed What is a fear of hell ?
+1091#2 ENTY:dismed नरक के एक भय क्या है?
+1092#1 HUM:desc Who is Dear Abby ?
+1092#2 HUM:desc प्रिय एबी कौन है?
+1093#1 HUM:ind Who lives at 24 Sussex Drive , Ottawa ?
+1093#2 HUM:ind कौन, ओटावा 24 ससेक्स ड्राइव पर रहता है?
+1094#1 ENTY:substance What is Jell-O made from ?
+1094#2 ENTY:substance मुरब्बा, हे क्या से बनाया गया है?
+1095#1 HUM:desc Who was Monet ?
+1095#2 HUM:desc मोनेट कौन था?
+1096#1 LOC:state What are the only two states that incorporate the Confederate battle flag in their flags ?
+1096#2 LOC:state अपने झंडे में संघि लड़ाई झंडा शामिल है कि केवल दो राज्यों में क्या कर रहे हैं?
+1097#1 DESC:manner How do you make panoramic sugar eggs for Easter - the ones with the scene inside ?
+1097#2 DESC:manner अंदर के दृश्य के साथ लोगों को - तुम कैसे ईस्टर के लिए मनोरम चीनी अंडे बनाते हैं?
+1098#1 ENTY:food What's the Southern dish made of pigs' small intestines ?
+1098#2 ENTY:food सुअर 'छोटी आंतों के बने दक्षिणी पकवान क्या है?
+1099#1 LOC:other Where is Guam ?
+1099#2 LOC:other गुआम कहां है?
+1100#1 HUM:ind Who was the famous door-to-door brush salesman ?
+1100#2 HUM:ind प्रसिद्ध डोर-टू-डोर ब्रश सेल्समैन कौन था?

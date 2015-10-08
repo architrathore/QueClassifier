@@ -1,0 +1,200 @@
+1101#1 DESC:def What is the executor in a will ?
+1101#2 DESC:def एक वसीयत में निष्पादक क्या है?
+1102#1 HUM:gr What inescapable purveyor of background music celebrated its 5th anniversary in July , 1984 ?
+1102#2 HUM:gr पृष्ठभूमि संगीत की अपरिहार्य नजदीक, जुलाई 1984 में अपनी 5 वीं वर्षगांठ मनाई क्या?
+1103#1 NUM:count How many people in America snore ?
+1103#2 NUM:count कितने लोगों को अमेरिका में खर्राटे लेते?
+1104#1 HUM:ind Who is always trying to get the rent from Andy Capp ?
+1104#2 HUM:ind हमेशा एंडी Capp से किराया प्राप्त करने की कोशिश कर रहा है कौन?
+1105#1 ENTY:food What soft drink is most heavily caffeinated ?
+1105#2 ENTY:food सबसे भारी कैफीनयुक्त क्या शीतल पेय है?
+1106#1 HUM:ind Who did Jackie Kennedy commission to write The Death of a President ?
+1106#2 HUM:ind कौन जैकी कैनेडी एक राष्ट्रपति की मृत्यु लिखने के लिए कमीशन किया?
+1107#1 ENTY:dismed Which drug is commonly used to treat AIDS ?
+1107#2 ENTY:dismed जो दवा आमतौर पर एड्स के इलाज के लिए प्रयोग किया जाता है?
+1108#1 NUM:count How many stars are there on the Soviet Union's flag ?
+1108#2 NUM:count सोवियत संघ के झंडे पर कितने तारे देखते हैं?
+1109#1 DESC:desc What is the difference between microprocessors & microcontrollers ?
+1109#2 DESC:desc माइक्रोप्रोसेसरों और microcontrollers के बीच क्या अंतर है?
+1110#1 HUM:ind Who sought to create The Great Society ?
+1110#2 HUM:ind कौन महान समाज बनाने की मांग?
+1111#1 LOC:other What are tourist attractions in Reims ?
+1111#2 LOC:other रैम्स में पर्यटकों के आकर्षण क्या हैं?
+1112#1 NUM:dist What are the lengths of pearl necklaces ?
+1112#2 NUM:dist मोतियों का हार की लंबाई क्या कर रहे हैं?
+1113#1 HUM:ind Who said : "Soldiers win the battles and generals get the credit" ?
+1113#2 HUM:ind कौन ने कहा, "सैनिकों की लड़ाई जीतने के लिए और जनरलों क्रेडिट मिलता है?"
+1114#1 DESC:desc What is the proof that houseplants metabolize carcinogens ?
+1114#2 DESC:desc Houseplants कार्सिनोजन metabolize कि सबूत क्या है?
+1115#1 DESC:reason What prompted the co-pilot of the Enola Gay to enter only "My God" in his log ?
+1115#2 DESC:reason क्या Enola समलैंगिक के सह-पायलट अपने लॉग में केवल "माय गॉड 'में प्रवेश करने के लिए प्रेरित किया?
+1116#1 NUM:period How long does it take the typical hen to lay 19 dozen eggs ?
+1116#2 NUM:period 19 दर्जन अंडे देना कब तक यह ठेठ मुर्गी ले करता है?
+1117#1 LOC:city What Colorado city owns its own glacier ?
+1117#2 LOC:city क्या कोलोराडो शहर की अपनी ग्लेशियर का मालिक है?
+1118#1 DESC:desc What is the history of "the toast" ?
+1118#2 DESC:desc "टोस्ट" का इतिहास क्या है?
+1119#1 ENTY:event What was the name of the Protestant revolt against the supremacy of the Pope ?
+1119#2 ENTY:event पोप की सर्वोच्चता के खिलाफ प्रोटेस्टेंट विद्रोह का नाम क्या था?
+1120#1 DESC:def What is an arab strap ?
+1120#2 DESC:def एक अरब का पट्टा क्या है?
+1121#1 NUM:money How much does it cost , average or whatever is available , to produce and send junk mail catalogues in the US ? , DT CD NN NN ,
+1121#2 NUM:money कितना यह उत्पादन और अमेरिका में जंक मेल सूची भेजने के लिए उपलब्ध है, जो कुछ भी औसत लागत या करता है? , डीटी सीडी एनएन एनएन,
+1122#1 HUM:ind Who is the current UN Secretary General ?
+1122#2 HUM:ind वर्तमान में संयुक्त राष्ट्र महासचिव कौन है?
+1123#1 HUM:gr Who provides telephone service in Orange County , California ?
+1123#2 HUM:gr कौन ऑरेंज काउंटी, कैलिफोर्निया में टेलीफोन सेवा प्रदान करता है?
+1124#1 LOC:other Where did guinea pigs originate ?
+1124#2 LOC:other कहाँ गिनी सूअरों आरंभ किया था?
+1125#1 LOC:country What two countries' coastlines border the Bay of Biscay ?
+1125#2 LOC:country क्या दोनों देशों के तटरेखा बीस्काय खाड़ी सीमा?
+1126#1 DESC:reason Why did Egyptians shave their eyebrows ?
+1126#2 DESC:reason क्यों मिी अपनी भौहें दाढ़ी थी?
+1127#1 HUM:gr What organization did Mr. Waverly assign agents for ?
+1127#2 HUM:gr क्या संगठन श्री वेवरली के लिए एजेंट आवंटित किया?
+1128#1 NUM:date When was the slinky invented ?
+1128#2 NUM:date जब स्लिंकी आविष्कार किया गया था?
+1129#1 HUM:ind What are the characters' names in the Scooby-Doo cartoon ?
+1129#2 HUM:ind स्कूबी डू कार्टून में 'अक्षर के नाम क्या हैं?
+1130#1 ENTY:dismed What is a fear of cold ?
+1130#2 ENTY:dismed ठंड का भय क्या है?
+1131#1 HUM:title What was Eduard Shevardnadze's job in the Soviet Union ?
+1131#2 HUM:title सोवियत संघ में एडवर्ड Shevardnadze का काम क्या था?
+1132#1 DESC:reason What causes rust ?
+1132#2 DESC:reason क्या जंग का कारण बनता है?
+1133#1 HUM:ind Which is the only Dick Tracy villain to appear three times ?
+1133#2 HUM:ind तीन बार प्रकट करने के लिए केवल डिक ट्रेसी खलनायक कौन सा है?
+1134#1 ENTY:animal What was the monster in Spielberg's film "Jaws" ?
+1134#2 ENTY:animal स्पीलबर्ग की फिल्म "जॉज़" में राक्षस क्या था?
+1135#1 ENTY:color What color is an Arctic fox in winter ?
+1135#2 ENTY:color सर्दियों में एक आर्कटिक लोमड़ी रंग क्या है?
+1136#1 DESC:def What do the names Neil , Mary , and Anthony mean ?
+1136#2 DESC:def नील, मरियम, और एंथोनी नाम क्या मतलब है?
+1137#1 LOC:city What European capital celebrated its 2 , 000th anniversary in 1951 ?
+1137#2 LOC:city यूरोपीय क्या राजधानी में 1951 में अपने 2, 000 वीं वर्षगांठ मनाई?
+1138#1 DESC:reason Why do people in the upper peninsula of Michagin say "eh ?" ?
+1138#2 DESC:reason क्यों Michagin के ऊपरी प्रायद्वीप में लोग कहते हैं "ना?" ?
+1139#1 ENTY:plant What flower did Vincent Van Gogh paint ?
+1139#2 ENTY:plant विन्सेंट वान गाग क्या फूल पेंट किया?
+1140#1 LOC:country What country was the setting of You Only Live Twice ?
+1140#2 LOC:country केवल Live दो बार आप की सेटिंग क्या देश था?
+1141#1 NUM:perc What was Thatcher's approval rating after 10 years in power ?
+1141#2 NUM:perc सत्ता में 10 साल के बाद थैचर के अनुमोदन दर्ज़ा क्या था?
+1142#1 ENTY:animal Winnie the Pooh is what kind of animal ?
+1142#2 ENTY:animal विनी द पूह किस तरह का जानवर है?
+1143#1 DESC:desc What was the first Funk'N Lata , Brazilian group , success ?
+1143#2 DESC:desc पहले Funk'N लता, ब्राजील के समूह, सफलता क्या था?
+1144#1 DESC:def What is a handheld PC ?
+1144#2 DESC:def एक हाथ में पीसी क्या है?
+1145#1 DESC:desc What did John Hinckley do to impress Jodie Foster ?
+1145#2 DESC:desc जॉन हिन्कले जोडी फोस्टर प्रभावित करने के लिए क्या किया?
+1146#1 HUM:title What is Larry King's job ?
+1146#2 HUM:title लैरी किंग का काम क्या है?
+1147#1 NUM:count How many calories are in a tomato ?
+1147#2 NUM:count एक टमाटर में कितनी कैलोरी है?
+1148#1 LOC:state In what state was the first co-educational college established
+1148#2 LOC:state क्या राज्य में पहली सह-शिक्षा महाविद्यालय स्थापित किया गया था
+1149#1 ENTY:event What war saw a naval battle between the luxury liners Cap Trafalgar and the Carmania ?
+1149#2 ENTY:event क्या युद्ध लक्जरी लाइनर्स कैप ट्राफलगर और Carmania के बीच एक नौसैनिक युद्ध देखा था?
+1150#1 ENTY:techmeth What is the treatment for depression ?
+1150#2 ENTY:techmeth अवसाद के लिए इलाज क्या है?
+1151#1 ENTY:dismed What is a fear of slime ?
+1151#2 ENTY:dismed कीचड़ की एक भय क्या है?
+1152#1 LOC:country What country in Latin America is the largest one ?
+1152#2 LOC:country सबसे बड़ा एक लैटिन अमेरिका में क्या देश है?
+1153#1 LOC:other On which Hawaiian island is Pearl Harbor ?
+1153#2 LOC:other पर्ल हार्बर हवाई जो द्वीप पर है?
+1154#1 HUM:ind What feathered cartoon characters do Yugoslavians know as Vlaja , Gaja , and Raja ?
+1154#2 HUM:ind पंख क्या कार्टून चरित्रों Yugoslavians Vlaja, गज, और राजा के रूप में जानते हैं?
+1155#1 ENTY:cremat What Marx Brothers movie centers on a stolen painting ?
+1155#2 ENTY:cremat एक चोरी की पेंटिंग पर क्या मार्क्स ब्रदर्स फिल्म केन्द्रों?
+1156#1 DESC:desc What was unusual about Alexandra's appearance in Josie and the Pussycats ?
+1156#2 DESC:desc क्या जोसी और Pussycats में एलेक्जेंड्रा की उपस्थिति के बारे में असामान्य था?
+1157#1 DESC:desc What is the origin of the word "mind" ?
+1157#2 DESC:desc शब्द "मन" का मूल क्या है?
+1158#1 NUM:date When was Dick Clark born ?
+1158#2 NUM:date जब डिक क्लार्क का जन्म हुआ था?
+1159#1 ENTY:sport What game is fatal to anybody over 21 ?
+1159#2 ENTY:sport क्या खेल 21 से अधिक किसी को घातक है?
+1160#1 NUM:other What is the death toll of people dying from tuberculosis ?
+1160#2 NUM:other तपेदिक से मरते लोगों के मरने वालों की संख्या क्या है?
+1161#1 DESC:desc What happened to Moon Maiden ?
+1161#2 DESC:desc चंद्रमा युवती का क्या हुआ?
+1162#1 LOC:city What city is wiener schnitzel named for ?
+1162#2 LOC:city क्या शहर वीनर का कटलेट के लिए नामित किया गया है?
+1163#1 DESC:def What are the Urals ?
+1163#2 DESC:def यूराल क्या हैं?
+1164#1 DESC:manner How can you stop the itch from poison ivy ?
+1164#2 DESC:manner आप कैसे ज़हर आइवी से खुजली रोक सकता है?
+1165#1 LOC:other What desert has the highest sand dunes ?
+1165#2 LOC:other क्या रेगिस्तान उच्चतम रेत के टीलों है?
+1166#1 LOC:country What two countries contain Sierra Nevada mountains ?
+1166#2 LOC:country क्या दोनों देशों के सिएरा नेवादा पहाड़ों होते हैं?
+1167#1 DESC:manner How do you tell your parents you are dating an older man ?
+1167#2 DESC:manner आप कैसे आप एक बड़े आदमी के साथ डेटिंग कर रहे हैं अपने माता पिता को क्या कहेंगे?
+1168#1 NUM:period How long was the TV mission of Star Trek's Enterprise to be ?
+1168#2 NUM:period स्टार ट्रेक की उद्यम के टीवी मिशन कितना समय होने के लिए किया गया था?
+1169#1 NUM:code What phone number can I call to have a tree planted ?
+1169#2 NUM:code मैं एक पेड़ लगाए गए हैं करने के लिए क्या फोन नंबर पर कॉल कर सकते हैं?
+1170#1 NUM:date When did the "Star-Spangled Banner" become the national anthem ?
+1170#2 NUM:date जब "स्टार भरा बैनर" राष्ट्रीय गान बन गया?
+1171#1 HUM:desc Who was Lacan ?
+1171#2 HUM:desc लेकन कौन था?
+1172#1 ENTY:techmeth What are the four natural aids used in riding a horse ?
+1172#2 ENTY:techmeth एक घोड़े की सवारी में इस्तेमाल चार प्राकृतिक एड्स क्या हैं?
+1173#1 LOC:other What continent's name appears on the upper left corner of a Budweiser label ?
+1173#2 LOC:other क्या महाद्वीप के नाम एक बीयर लेबल के ऊपरी बाएं कोने पर दिखाई देता है?
+1174#1 HUM:ind Who was the Secretary of War in the Civil War during the Battle of Gettysburg ?
+1174#2 HUM:ind Gettysburg की लड़ाई के दौरान नागरिक युद्ध में युद्ध के सचिव कौन था?
+1175#1 HUM:ind Who did Bobby Fischer beat to win the world chess championship ?
+1175#2 HUM:ind बॉबी फिशर विश्व शतरंज चैम्पियनशिप जीतने के लिए कौन से हराया था?
+1176#1 DESC:manner How do you exterminate bees that are in the walls of your home ? Will bee eggs remain over winter ?
+1176#2 DESC:manner कैसे आप अपने घर की दीवारों में हैं कि मधुमक्खियों विनाश करना है? मधुमक्खी अंडे सर्दियों में बने रहेंगे?
+1177#1 LOC:other Where can I get information and statistics on countries and nations ?
+1177#2 LOC:other मैं कहां से देशों और जातियों के बारे में जानकारी और आँकड़े प्राप्त कर सकते हैं?
+1178#1 ENTY:lang Name a Gaelic language .
+1178#2 ENTY:lang एक गेलिक भाषा का नाम।
+1179#1 NUM:date What day is August 13 , 1971 ?
+1179#2 NUM:date 13 अगस्त 1971 दिन क्या है?
+1180#1 LOC:other Where can I find a list of all the companies in America that offer a direct stock purchase plan ?
+1180#2 LOC:other मैं कहां एक सीधा शेयर खरीद योजना का प्रस्ताव है कि अमेरिका में सभी कंपनियों की एक सूची प्राप्त कर सकते हैं?
+1181#1 DESC:manner How do you send a movie transcript to Hollywood so that it can be produced into a film ?
+1181#2 DESC:manner यह एक फिल्म में उत्पादन किया जा सकता है, ताकि आप कैसे हॉलीवुड के एक फिल्म प्रतिलिपि भेज हो?
+1182#1 ENTY:cremat What literary classic centers on the search for a treasure in gold worth 7 , 0 pounds ?
+1182#2 ENTY:cremat 7, 0 £ लायक सोने में एक खजाने की खोज पर क्या साहित्यिक क्लासिक केन्द्रों?
+1183#1 DESC:desc What is the origin of blue for boys and pink for girls ?
+1183#2 DESC:desc लड़कियों के लिए लड़कों के लिए नीले रंग की उत्पत्ति और गुलाबी क्या है?
+1184#1 ENTY:cremat What is the name of the Michelangelo painting that shows two hands with fingers touching ?
+1184#2 ENTY:cremat उंगलियों को छूने के साथ दो हाथों से पता चलता है कि माइकल एंजेलो पेंटिंग का नाम क्या है?
+1185#1 NUM:volsize How big is a quart ?
+1185#2 NUM:volsize एक चौथाई गेलन कितना बड़ा है?
+1186#1 DESC:def What is the Hub of London ?
+1186#2 DESC:def लंदन के हब क्या है?
+1187#1 ENTY:cremat Jude Law acted in which film ?
+1187#2 ENTY:cremat जूड लॉ, जो फिल्म में अभिनय किया है?
+1188#1 DESC:reason What causes panic attacks ?
+1188#2 DESC:reason क्या आतंक के हमलों का कारण बनता है?
+1189#1 DESC:def What was the filling in the first golf balls ?
+1189#2 DESC:def पहले गोल्फ गेंदों में भरने क्या था?
+1190#1 ENTY:dismed What drug did Sigmund Freud become fascinated with while experimenting with the treatment of neurasthenia ?
+1190#2 ENTY:dismed क्या दवा सिगमंड फ्रायड नसों की दुर्बलता के इलाज के साथ प्रयोग करते हुए के साथ मोहित हो गए?
+1191#1 LOC:country What country was A Terrible Beauty to Leon Uris ?
+1191#2 LOC:country लियोन Uris के लिए एक भयानक सौंदर्य क्या देश था?
+1192#1 DESC:def What is typhoid fever ?
+1192#2 DESC:def टाइफाइड बुखार क्या है?
+1193#1 LOC:other Where can I buy a hat like the kind Jay Kay from Jamiroquai wears ?
+1193#2 LOC:other मैं कहां से Jamiroquai से जे Kay पहनता प्रकार की तरह एक टोपी खरीद सकते हैं?
+1194#1 DESC:def What are the Twin Cities ?
+1194#2 DESC:def जुड़वा शहरों के क्या हैं?
+1195#1 ENTY:cremat What is Beethoven's 9th symphony called ?
+1195#2 ENTY:cremat बीथोवेन 9 सिम्फनी क्या कहा जाता है?
+1196#1 HUM:ind Name the lawyer for Randy Craft .
+1196#2 HUM:ind रैंडी क्राफ्ट के लिए वकील का नाम।
+1197#1 ENTY:food Which breakfast cereal brought you "the best each morning" ?
+1197#2 ENTY:food कौन सा नाश्ता अनाज आप "सबसे अच्छा हर सुबह" लाया?
+1198#1 ABBR:exp What does Ms. , Miss , and Mrs. stand for ?
+1198#2 ABBR:exp सुश्री, मिस, और श्रीमती क्या अर्थ होता है?
+1199#1 LOC:other What is the Homelite Inc. home page ?
+1199#2 LOC:other Homelite इंक मुख पृष्ठ क्या है?
+1200#1 ENTY:substance What explosive do you get by mixing charcoal , sulfur and saltpeter ?
+1200#2 ENTY:substance लकड़ी का कोयला, सल्फर और शोरा मिश्रण से आप क्या विस्फोटक मिलता है?

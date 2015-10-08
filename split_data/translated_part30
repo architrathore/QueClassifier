@@ -1,0 +1,200 @@
+3001#1 HUM:ind Who portrayed The Cowardly Lion in The Wizard of Oz ?
+3001#2 HUM:ind कौन आस्ट्रेलिया के जादूगर में कायर शेर चित्रित किया?
+3002#1 ENTY:dismed What does a chiropodist treat ?
+3002#2 ENTY:dismed एक किरोपडिस्ट क्या इलाज है?
+3003#1 DESC:def What is porphyria ?
+3003#2 DESC:def Porphyria क्या है?
+3004#1 LOC:other What gate opened on East and West Berlin ?
+3004#2 LOC:other क्या गेट पूर्व और पश्चिम बर्लिन पर खोला?
+3005#1 HUM:ind Who was the first king of England ?
+3005#2 HUM:ind इंग्लैंड के पहले राजा कौन था?
+3006#1 DESC:reason What made the Finger Lakes in western New York state ?
+3006#2 DESC:reason क्या पश्चिमी न्यूयॉर्क राज्य में फिंगर झील बनाया है?
+3007#1 ENTY:cremat In what movie is the number nine found in the title ?
+3007#2 ENTY:cremat क्या फिल्म में नंबर नौ शीर्षक में पाया जाता है?
+3008#1 NUM:count How many calories are there in soy sauce ?
+3008#2 NUM:count सोया सॉस में कितनी कैलोरी देखते हैं?
+3009#1 HUM:ind Who killed Kurt Cobain ?
+3009#2 HUM:ind कौन कर्ट कोबेन की हत्या?
+3010#1 HUM:ind Who created the monster in Mary Shelley's novel Frankenstein ?
+3010#2 HUM:ind कौन मेरी शेली उपन्यास फ्रेंकस्टीन में राक्षस को बनाया?
+3011#1 LOC:other What's the farthest planet from the sun ?
+3011#2 LOC:other सूरज से दूर ग्रह क्या है?
+3012#1 DESC:reason Why does the sun shine only a short time in Alaska ?
+3012#2 DESC:reason क्यों सूरज अलास्का में केवल एक कम समय चमक करता है?
+3013#1 ENTY:dismed What chemical in red wine is good for the heart and what exactly does it do to your body ?
+3013#2 ENTY:dismed रेड वाइन में क्या रासायनिक दिल के लिए अच्छा है और यह आपके शरीर के लिए वास्तव में क्या करता है?
+3014#1 DESC:manner How does blood clot ?
+3014#2 DESC:manner कैसे खून का थक्का करता है?
+3015#1 NUM:volsize How big is our galaxy in diameter ?
+3015#2 NUM:volsize व्यास में हमारी आकाशगंगा कितना बड़ा है?
+3016#1 ENTY:product What product "doubles your pleasure , doubles your fun" ?
+3016#2 ENTY:product क्या उत्पाद ", अपना मज़ा दोगुना हो जाता है अपनी खुशी के डबल्स"?
+3017#1 NUM:date When is a woman most fertile ?
+3017#2 NUM:date जब एक महिला को सबसे अधिक उपजाऊ है?
+3018#1 HUM:ind What son of a 15-year-old Mexican girl and a half-Irish father became the world's most famous Greek ?
+3018#2 HUM:ind एक 15 वर्षीय मैक्सिकन लड़की और एक आधा आयरिश पिता की क्या बेटा दुनिया के सबसे प्रसिद्ध यूनानी बन गया?
+3019#1 HUM:ind Who was the first man to return to space ?
+3019#2 HUM:ind अंतरिक्ष में लौटने के लिए पहला आदमी कौन था?
+3020#1 ENTY:product What brand of jeans did Calvin Klein admit in a 1984 interview he felt more comfortable wearing ?
+3020#2 ENTY:product केल्विन क्लेन वह पहने हुए और अधिक सहज महसूस किया एक 1984 साक्षात्कार में जींस की क्या ब्रांड स्वीकार किया?
+3021#1 HUM:ind Who gave Abbie Hoffman his first dose of LSD ?
+3021#2 HUM:ind कौन एबी हॉफमैन एलएसडी की अपनी पहली खुराक दे दी?
+3022#1 DESC:desc What effect does friction have on perpetual motion ?
+3022#2 DESC:desc घर्षण सतत गति पर क्या प्रभाव पड़ता है?
+3023#1 HUM:title What did the Seven Dwarfs do for a living ?
+3023#2 HUM:title सात Dwarfs एक जीने के लिए क्या किया?
+3024#1 HUM:ind What 4-foot-9 actress in 1984 became the first performer to win an Oscar for playing a character of the opposite sex ?
+3024#2 HUM:ind विपरीत सेक्स के एक चरित्र की भूमिका के लिए ऑस्कर जीतने वाले पहले कलाकार 1984 में क्या 4 फुट 9 अभिनेत्री बन गई?
+3025#1 HUM:ind Who shot Billy the Kid ?
+3025#2 HUM:ind कौन बिली बच्चे को गोली मार दी?
+3026#1 DESC:desc What is he doing now ?
+3026#2 DESC:desc वह अब क्या कर रहा है ?
+3027#1 HUM:ind What Mormon leader was said to have had 27 wives ?
+3027#2 HUM:ind क्या मॉर्मन नेता 27 पत्नियों पड़ा है करने के लिए कहा गया था?
+3028#1 ENTY:other What video format was an alternative to VHS ?
+3028#2 ENTY:other वीएचएस के लिए एक विकल्प क्या वीडियो प्रारूप था?
+3029#1 DESC:desc Where did the term "69" come from ?
+3029#2 DESC:desc शब्द "69" कहाँ से आया?
+3030#1 ENTY:substance What is money made of ?
+3030#2 ENTY:substance पैसे का क्या किया जाता है?
+3031#1 LOC:other What's the name of a hotel in Indianapolis ?
+3031#2 LOC:other इंडियानापोलिस में एक होटल का नाम क्या है?
+3032#1 NUM:count How many people in Tucson ?
+3032#2 NUM:count कितने टक्सन में लोगों को?
+3033#1 LOC:other Where is Melbourne ?
+3033#2 LOC:other मेलबोर्न कहां है?
+3034#1 HUM:ind With whom did Bush compare Saddam Hussein ?
+3034#2 HUM:ind किसके साथ बुश सद्दाम हुसैन की तुलना की थी?
+3035#1 LOC:country What country was Mikhail Gorbachev the leader of ?
+3035#2 LOC:country मिखाइल गोर्बाचेव के नेता क्या देश था?
+3036#1 NUM:weight What is the recommended weight of a 15 year-old male that is 5 , 6 ?
+3036#2 NUM:weight 5, 6 है कि एक 15 वर्षीय पुरुष की सिफारिश वजन क्या है?
+3037#1 HUM:ind What pillar of the Dutch Renaissance painted Aristotle Contemplating the Bust of Homer ?
+3037#2 HUM:ind डच पुनर्जागरण की क्या स्तंभ अरस्तू होमर के वक्ष पर विचार चित्रित?
+3038#1 LOC:other What is the largest county in size in Massachusetts ?
+3038#2 LOC:other मैसाचुसेट्स में आकार में सबसे बड़ी काउंटी क्या है?
+3039#1 HUM:ind What is the name of the brilliant British economist behind its creation ?
+3039#2 HUM:ind इसके निर्माण के पीछे प्रतिभाशाली ब्रिटिश अर्थशास्त्री का नाम क्या है?
+3040#1 HUM:ind Who played Sally Rogers on The Dick Van Dyke Show ?
+3040#2 HUM:ind जो डिक वान डाइक दिखाएँ पर सैली रोजर्स खेला?
+3041#1 DESC:desc What is it like to experience a near death episode ?
+3041#2 DESC:desc यह एक के पास मौत के प्रकरण का अनुभव करने के लिए क्या पसंद है?
+3042#1 HUM:ind What mythical figure carries an hourglass and a scythe ?
+3042#2 HUM:ind क्या पौराणिक आंकड़ा एक hourglass और एक दराँती किया जाता है?
+3043#1 NUM:money How much is a Canadian 1967 twenty dollar gold coin worth ?
+3043#2 NUM:money एक कनाडाई 1967 बीस डॉलर के सोने का सिक्का मूल्य कितना है?
+3044#1 DESC:reason Why didn't European colonial rule spread until after the first and second industrial revolutions ?
+3044#2 DESC:reason क्यों पहली और दूसरी औद्योगिक क्रांति के बाद जब तक नहीं यूरोपीय औपनिवेशिक शासन के प्रसार?
+3045#1 LOC:other What natural attractions draw the most visitors in the United States ?
+3045#2 LOC:other क्या प्राकृतिक आकर्षण संयुक्त राज्य अमेरिका में सबसे अधिक दर्शकों को आकर्षित?
+3046#1 HUM:gr What presidential administration challenged Americans to explore The New Frontier ?
+3046#2 HUM:gr क्या राष्ट्रपति के प्रशासन नई फ्रंटियर का पता लगाने के लिए अमेरिका को चुनौती दी है?
+3047#1 NUM:count How many years did Sleeping Beauty sleep ?
+3047#2 NUM:count कितने साल सौंदर्य नींद सो रही थी?
+3048#1 NUM:period How long does it take for your body to restore blood after you donate your blood ?
+3048#2 NUM:period यदि आप अपने रक्त दान करने के बाद अपने शरीर में रक्त को बहाल करने के लिए कितना समय लगेगा?
+3049#1 DESC:manner How do I know someone is truly in love with me ?
+3049#2 DESC:manner मैं कैसे किसी को मेरे साथ सही मायने में प्यार में है पता है?
+3050#1 ENTY:food Which of many numbered vats of Scotch was judged best by a panel of experts in 1863 ?
+3050#2 ENTY:food स्कॉच के कई गिने वत्स से कौन सा 1863 में विशेषज्ञों के एक पैनल द्वारा सबसे अच्छा फैसला किया गया?
+3051#1 DESC:def What is literary criticism ?
+3051#2 DESC:def साहित्यिक आलोचना क्या है?
+3052#1 DESC:manner How do you throw a housewarming party ?
+3052#2 DESC:manner कैसे आप एक housewarming पार्टी फेंक रहे हो?
+3053#1 ENTY:sport What international sport was originally called hurley ?
+3053#2 ENTY:sport अंतरराष्ट्रीय क्या खेल मूल रूप से हर्ले बुलाया गया था?
+3054#1 LOC:other What river runs through Liverpool ?
+3054#2 LOC:other क्या नदी लिवरपूल के माध्यम से चलाता है?
+3055#1 HUM:ind What famous British actor lost his voice after an operation in 1966 ?
+3055#2 HUM:ind क्या ब्रिटेन के मशहूर अभिनेता 1966 में एक ऑपरेशन के बाद उसकी आवाज खो गया है?
+3056#1 DESC:def What does the term 3 mean to a newspaper editor ?
+3056#2 DESC:def अवधि 3 एक अखबार के संपादक को क्या मतलब है?
+3057#1 HUM:gr What company makes impulse hardening equipment ?
+3057#2 HUM:gr क्या कंपनी आवेग सख्त उपकरण बनाती है?
+3058#1 LOC:country What country was Kim Philby really working for ?
+3058#2 LOC:country क्या देश किम Philby सच के लिए काम कर रहा था?
+3059#1 DESC:desc What does Freddy Freeman say to become Captain Marvel Jr. ?
+3059#2 DESC:desc फ्रेडी फ्रीमैन कप्तान चमत्कार जूनियर बनने के लिए क्या कहता है?
+3060#1 LOC:country What country was Hitler the chancellor of ?
+3060#2 LOC:country हिटलर की चांसलर क्या देश था?
+3061#1 HUM:ind What is Rona Barrett's married name ?
+3061#2 HUM:ind रोना बैरेट शादी का नाम क्या है?
+3062#1 NUM:count How many years make up a lustrum ?
+3062#2 NUM:count कितने साल एक द्युति बना?
+3063#1 ENTY:other What are close encounters of the first and second kind ?
+3063#2 ENTY:other पहली और दूसरी तरह के बंद मुठभेड़ों क्या हैं?
+3064#1 HUM:ind Who is the mathematician that won the Noble Prize for Literature in 1950 ?
+3064#2 HUM:ind 1950 में साहित्य के लिए नोबल पुरस्कार जीता है कि गणितज्ञ कौन है?
+3065#1 HUM:ind Which glamorous actress is a close friend of Dick Tracy ?
+3065#2 HUM:ind डिक ट्रेसी के एक करीबी दोस्त ग्लैमरस कौन सी अभिनेत्री है?
+3066#1 ENTY:cremat What 1956 Grace Metalious novel was on the best-seller list for two years ?
+3066#2 ENTY:cremat दो साल के लिए सर्वश्रेष्ठ विक्रेता सूची पर क्या 1956 ग्रेस Metalious उपन्यास था?
+3067#1 HUM:gr Name the three races unleashed by the Celestials in Marvel comics .
+3067#2 HUM:gr मार्वल कॉमिक्स में celestials द्वारा फैलाया तीन दौड़ नाम दें।
+3068#1 NUM:period How old is the Italian artist Maurizio Pellegrin ?
+3068#2 NUM:period इतालवी कलाकार Maurizio Pellegrin कितनी पुरानी है?
+3069#1 HUM:ind What President hit the jogging paths to enhance his athletic image and , sporting No. 39 , almost collapsed during the road race ?
+3069#2 HUM:ind क्या राष्ट्रपति, लगभग सड़क दौड़ के दौरान ढह खेल नहीं, 39, उसकी पुष्ट छवि को बढ़ाने के लिए जॉगिंग रास्तों मारा और?
+3070#1 DESC:desc What is the distinction of Erle Stanley Gardner's The Case of the Terrified Typist ?
+3070#2 DESC:desc Erle स्टैनली गार्डनर के प्रकरण डर टाइपिस्ट का का गौरव क्या है?
+3071#1 LOC:city What North American city would you visit to see Cleopatra's Needle ?
+3071#2 LOC:city क्या उत्तर अमेरिकी शहर आप क्लियोपेट्रा की सुई देखने के लिए यात्रा करेंगे?
+3072#1 NUM:date When was the NFL established ?
+3072#2 NUM:date जब एनएफएल स्थापित किया गया था?
+3073#1 LOC:other Where can I find an Ask An Expert site ?
+3073#2 LOC:other मैं कहां से एक एक विशेषज्ञ साइट से पूछो मिल सकती है?
+3074#1 HUM:ind What writer-journalist made his mark describing colorful Broadway and underworld characters ?
+3074#2 HUM:ind क्या लेखक-पत्रकार रंगीन ब्रॉडवे और अंडरवर्ल्ड पात्रों का वर्णन अपनी छाप छोड़ी?
+3075#1 LOC:state What U.S. state has the lowest highest elevation at 6 feet ?
+3075#2 LOC:state क्या अमेरिकी राज्य में 6 फीट में सबसे कम उच्चतम ऊंचाई है?
+3076#1 HUM:gr What are the residents of the island of Lesbos called ?
+3076#2 HUM:gr कहा जाता Lesbos के द्वीप के निवासियों क्या हैं?
+3077#1 ENTY:other What is the organizational structure of the New Delhi Indira Gandhi airport ?
+3077#2 ENTY:other नई दिल्ली इंदिरा गांधी हवाई अड्डे के संगठनात्मक संरचना क्या है?
+3078#1 ENTY:other At Christmas time , what is the traditional thing to do under the mistletoe ?
+3078#2 ENTY:other क्रिसमस के समय में, बंडा के तहत ऐसा करने के लिए पारंपरिक बात क्या है?
+3079#1 HUM:ind What baseball great plugged Mr. Coffee ?
+3079#2 HUM:ind क्या बेसबॉल महान श्री कॉफी खामियों को दूर किया?
+3080#1 ENTY:sport What international amateur sports spectacle was first telecast in 1956 ?
+3080#2 ENTY:sport 1956 में पहली बार प्रसारित किए जाने क्या अंतरराष्ट्रीय शौकिया खेल तमाशा था?
+3081#1 DESC:desc What is the origin of the word "amen" ?
+3081#2 DESC:desc "आमीन" शब्द का मूल क्या है?
+3082#1 HUM:ind Who's baby was Sweet Pea on the Popeye cartoon ?
+3082#2 HUM:ind बच्चे Popeye कार्टून पर मीठे मटर कौन था?
+3083#1 LOC:other Where is Mile High Stadium ?
+3083#2 LOC:other माइल उच्च स्टेडियम कहां है?
+3084#1 ENTY:other What were Baffin , Frobisher and Franklin looking for ?
+3084#2 ENTY:other क्या बाफिन, Frobisher और फ्रेंकलिन के लिए देख रहे थे?
+3085#1 DESC:def What is limbo ?
+3085#2 DESC:def अधर क्या है?
+3086#1 LOC:city What city contains the district of Hell's Kitchen ?
+3086#2 LOC:city क्या शहर नर्क है रसोई का जिले में शामिल है?
+3087#1 ENTY:techmeth What interesting method was used to run the credits in the early Popeye cartoons ?
+3087#2 ENTY:techmeth क्या दिलचस्प विधि जल्दी पोपिये कार्टून क्रेडिट को चलाने के लिए इस्तेमाल किया गया था?
+3088#1 ENTY:substance What are the stars made of ?
+3088#2 ENTY:substance के बने सितारों क्या हैं?
+3089#1 HUM:ind What English physician was born on January 18 , 1779 and went on to create two important inventions ?
+3089#2 HUM:ind क्या अंग्रेजी चिकित्सक 18 जनवरी 1779 को हुआ और दो महत्वपूर्ण आविष्कार बनाने पर चला गया था?
+3090#1 HUM:ind Who did Arthur H. Bremer try to assassinate on May 15 , 1972 ?
+3090#2 HUM:ind आर्थर एच ब्रेमर 15 मई 1972 पर हत्या करने के लिए कौन की कोशिश की थी?
+3091#1 NUM:speed How fast must a spacecraft travel to escape Earth's gravity ?
+3091#2 NUM:speed कितनी तेजी से एक अंतरिक्ष यान पर्यटन पृथ्वी के गुरुत्वाकर्षण से बचने के लिए चाहिए?
+3092#1 HUM:ind What apostle is Taylor Caldwell's Great Lion of God ?
+3092#2 HUM:ind भगवान का टेलर काल्डवेल के ग्रेट शेर क्या प्रेरित है?
+3093#1 NUM:count How many rings are there on a five-zone archery target ?
+3093#2 NUM:count एक पांच जोन तीरंदाजी लक्ष्य पर कितने छल्ले देखते हैं?
+3094#1 ENTY:dismed What anesthetic did Queen Victoria allow to be used for the birth of her seventh child , in 1853 ?
+3094#2 ENTY:dismed क्या संवेदनाहारी महारानी विक्टोरिया 1853 में, उसकी सातवें बच्चे के जन्म के लिए इस्तेमाल किया जा करने की अनुमति क्यों किया?
+3095#1 ENTY:substance What element , from the Periodic Table , is a gas or a solid , but never a liquid ?
+3095#2 ENTY:substance एक गैस या एक ठोस है, लेकिन कभी एक तरल आवर्त सारणी से क्या तत्व है?
+3096#1 DESC:def What is a tonne ?
+3096#2 DESC:def एक टन क्या है?
+3097#1 LOC:other Which one of the Great Lakes is entirely within U.S. territory ?
+3097#2 LOC:other महान झीलों में से एक जो अमेरिका राज्यक्षेत्र के भीतर पूरी तरह से है?
+3098#1 ABBR:exp What is DEET ?
+3098#2 ABBR:exp DEET क्या है?
+3099#1 HUM:gr What company sells the most greeting cards ?
+3099#2 HUM:gr क्या कंपनी के सबसे ग्रीटिंग कार्ड बेचता है?
+3100#1 LOC:state What U.S. state has sagebrush as its state flower ?
+3100#2 LOC:state क्या अमेरिकी राज्य अपने राज्य के फूल के रूप में नागदौना है?

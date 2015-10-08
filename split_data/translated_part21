@@ -1,0 +1,200 @@
+2101#1 NUM:date What year did nylon stockings first go on sale ?
+2101#2 NUM:date नायलॉन मोजा पहली बिक्री पर क्या वर्ष चले गए?
+2102#1 ENTY:sport What is a research expedition in mountain climbing ?
+2102#2 ENTY:sport पहाड़ पर चढ़ने में एक शोध अभियान क्या है?
+2103#1 ENTY:veh On which flight did Fawaz Younis commit air piracy and hostage taking ?
+2103#2 ENTY:veh जो उड़ान पर fawaz यूनुस हवा चोरी और बन्धक प्रतिबद्ध किया?
+2104#1 LOC:city What are the 10 largest cities in the US ?
+2104#2 LOC:city अमेरिका में 10 सबसे बड़े शहरों में क्या कर रहे हैं?
+2105#1 DESC:def What is a wart ?
+2105#2 DESC:def एक मस्सा क्या है?
+2106#1 DESC:def What is spaceball played on ?
+2106#2 DESC:def Spaceball क्या पर खेला जाता है?
+2107#1 DESC:manner How does rabies spread ?
+2107#2 DESC:manner रेबीज कैसे फैल रहा है?
+2108#1 HUM:ind What famous comedian recently tried without success to revive the play ?
+2108#2 HUM:ind क्या प्रसिद्ध हास्य अभिनेता हाल ही में खेलने को पुनर्जीवित करने के लिए सफलता के बिना की कोशिश की?
+2109#1 LOC:other What is Drew Barrymore's email address ?
+2109#2 LOC:other ड्रयू बैरीमोर का ईमेल पता क्या है?
+2110#1 DESC:manner How can you tell if someone is lying ?
+2110#2 DESC:manner कोई झूठ बोल रहा है, तो आप कैसे कह सकते हैं?
+2111#1 DESC:desc What is the difference between a preface and a foreword ?
+2111#2 DESC:desc एक प्रस्तावना और एक प्राक्कथन के बीच क्या अंतर है?
+2112#1 ENTY:substance What are fingernails made of ?
+2112#2 ENTY:substance अंगुलियों के नाखून किस चीज़ के बने होते हैं ?
+2113#1 LOC:country What nationality were the 123 people who died in the Black Hole of Calcutta ?
+2113#2 LOC:country काल कोठरी की घटना में मारे गए 123 लोगों राष्ट्रीयता क्या कर रहे थे?
+2114#1 DESC:def What does storm wave mean in Japanese ?
+2114#2 DESC:def तूफान लहर जापानी में क्या मतलब है?
+2115#1 DESC:reason Why do they sterilize the needle for lethal injection ?
+2115#2 DESC:reason क्यों वे घातक इंजेक्शन के लिए सुई बाँझ है?
+2116#1 HUM:ind What TV family sometimes buys eclairs from Nelson's Bakery ?
+2116#2 HUM:ind क्या टीवी परिवार कभी कभी नेल्सन बेकरी से eclairs खरीदता है?
+2117#1 DESC:manner How can you get rust stains out of clothing ?
+2117#2 DESC:manner कैसे आप कपड़ों के बाहर जंग के दाग प्राप्त कर सकते हैं?
+2118#1 DESC:manner How does a small businessman contact the Good Humor Ice Cream company to do business with them ?
+2118#2 DESC:manner कैसे एक छोटे व्यापारी उनके साथ काम करना अच्छा हास्य आइसक्रीम कंपनी से संपर्क करता है?
+2119#1 HUM:ind What enigmatic U.S. vice president was once tried and acquitted for treason in a plot to set up his own independent empire in the West ?
+2119#2 HUM:ind रहस्यपूर्ण क्या अमेरिका उपाध्यक्ष बार कोशिश की और पश्चिम में अपने स्वयं के स्वतंत्र साम्राज्य स्थापित करने के लिए एक साजिश में राजद्रोह के लिए बरी कर दिया गया था?
+2120#1 HUM:ind Who was Charles Lindbergh's wife ?
+2120#2 HUM:ind चार्ल्स लिंडबर्ग की पत्नी कौन था?
+2121#1 HUM:ind Who sings Angel Eyes from the 80's ?
+2121#2 HUM:ind कौन 80 से एन्जिल आंखें गाती है?
+2122#1 NUM:date When did the Jurassic Period end ?
+2122#2 NUM:date जब जुरासिक काल खत्म किया?
+2123#1 ENTY:other What is the one thing you need before you can purchase life insurance ?
+2123#2 ENTY:other आप जीवन बीमा की खरीद कर सकते हैं इससे पहले कि आप की जरूरत है एक बात क्या है?
+2124#1 DESC:reason What caused the Titanic to sink ?
+2124#2 DESC:reason टाइटैनिक क्या सिंक करने के लिए कारण?
+2125#1 DESC:def What is the chemiosmotic theory ?
+2125#2 DESC:def Chemiosmotic सिद्धांत क्या है?
+2126#1 HUM:desc What information can you tell me about actor James Cromwell ?
+2126#2 HUM:desc क्या जानकारी आप अभिनेता जेम्स क्रॉमवेल के बारे में मुझे बता सकते हैं?
+2127#1 DESC:manner How does an ion drive work ?
+2127#2 DESC:manner एक आयन ड्राइव कैसे काम करता है?
+2128#1 DESC:manner How can I trace my family roots ?
+2128#2 DESC:manner मैं अपने परिवार की जड़ों ट्रेस कर सकते हैं?
+2129#1 NUM:date What was the date of Iraq's invasion of Kuwait ?
+2129#2 NUM:date कुवैत के इराक के आक्रमण की तारीख क्या था?
+2130#1 ENTY:word What is another word for diet ?
+2130#2 ENTY:word आहार के लिए एक और शब्द क्या है?
+2131#1 DESC:def What is a courier ?
+2131#2 DESC:def एक कूरियर क्या है?
+2132#1 ENTY:cremat What Sinatra hit did he dooby dooby do in ?
+2132#2 ENTY:cremat कटौती करना Dooby क्या सिनात्रा हिट Dooby किया?
+2133#1 DESC:manner How do you get a girl to have sex with you ?
+2133#2 DESC:manner आप कैसे एक महिला आप के साथ यौन संबंध के लिए मिलता है?
+2134#1 ENTY:other What award is the "Oscar" of advertising ?
+2134#2 ENTY:other विज्ञापन की "ऑस्कर" क्या पुरस्कार है?
+2135#1 LOC:other What is the name of the planet that the Ewoks live on ?
+2135#2 LOC:other Ewoks पर रहते हैं कि इस ग्रह का नाम क्या है?
+2136#1 ENTY:food What ice creams contain seaweed ?
+2136#2 ENTY:food क्या आइसक्रीम समुद्री शैवाल होते हैं?
+2137#1 HUM:ind What dumb-but-loveable character did Maurice Gosfield play on The Phil Silvers Show ?
+2137#2 HUM:ind मौरिस Gosfield फिल रजत दिखाएँ पर क्या loveable गूंगा लेकिन-चरित्र निभा किया?
+2138#1 ABBR:exp What is a "USB" port on a computer ?
+2138#2 ABBR:exp एक कंप्यूटर पर एक "यूएसबी" बंदरगाह क्या है?
+2139#1 ENTY:termeq What term means a sexual attraction between a male and a female ?
+2139#2 ENTY:termeq क्या अवधि एक पुरुष और एक महिला के बीच यौन आकर्षण का अर्थ है?
+2140#1 HUM:gr What was called the world's largest department store ?
+2140#2 HUM:gr क्या दुनिया के सबसे बड़े डिपार्टमेंटल स्टोर बुलाया गया था?
+2141#1 LOC:other What sea surrounds the Cayman Islands ?
+2141#2 LOC:other क्या समुद्र केमैन द्वीप चारों ओर से घेरे?
+2142#1 NUM:count How many different vegetation zones are there ?
+2142#2 NUM:count वनस्पति क्षेत्रों में से कितने अलग हैं?
+2143#1 ABBR:exp What does LOL mean ?
+2143#2 ABBR:exp योग्य क्या मतलब है?
+2144#1 LOC:other What ocean was Amelia Earhart flying over when she disappeared ?
+2144#2 LOC:other वह गायब हो गया जब अमेलिया Earhart क्या समुद्र के ऊपर उड़ रहा था?
+2145#1 ENTY:cremat What book does Holden Caulfield appear in ?
+2145#2 ENTY:cremat Holden Caulfield क्या किताब में दिखाई देता है?
+2146#1 DESC:desc What happens when lightning strikes a body of water ?
+2146#2 DESC:desc बिजली पानी की एक शरीर हमलों क्या होता है?
+2147#1 HUM:ind What was the nickname of German flying ace Manfred von Richthofen ?
+2147#2 HUM:ind जर्मन उड़ान इक्का मैनफ्रेड वॉन Richthofen के उपनाम क्या था?
+2148#1 DESC:def What does e=mc2 mean ?
+2148#2 DESC:def E = mc2 क्या मतलब है?
+2149#1 LOC:country What country other than Germany invaded Poland in September 1939 ?
+2149#2 LOC:country जर्मनी के अलावा अन्य क्या देश सितंबर 1939 में पोलैंड पर आक्रमण किया?
+2150#1 DESC:manner How do I contact answers.com ?
+2150#2 DESC:manner मैं कैसे answers.com संपर्क करते हैं?
+2151#1 ENTY:body What are the names of the different toes ?
+2151#2 ENTY:body विभिन्न पैर की उंगलियों के नाम क्या हैं?
+2152#1 ENTY:product What are different products of petroleum ?
+2152#2 ENTY:product पेट्रोलियम के विभिन्न उत्पादों क्या कर रहे हैं?
+2153#1 DESC:reason What causes asthma ?
+2153#2 DESC:reason क्या अस्थमा का कारण बनता है?
+2154#1 NUM:date When was the Bill of Rights ratified ?
+2154#2 NUM:date जब अधिकार विधेयक का अनुमोदन किया गया था?
+2155#1 DESC:def What do the number 1 , 2 , and 4 mean on Dr. Pepper bottles ?
+2155#2 DESC:def नंबर 1, 2, और 4 डा काली मिर्च की बोतलों पर क्या मतलब है?
+2156#1 LOC:state What is the largest U.S. state east of the Mississippi ?
+2156#2 LOC:state मिसिसिपी के अमेरिका के सबसे बड़े राज्य ईस्ट क्या है?
+2157#1 DESC:manner How can I find out how much it costs to raise a baby for six months ?
+2157#2 DESC:manner मैं इसे कैसे छह महीनों के लिए एक बच्चे को उठाने के लिए कितना खर्चा आता है पता कर सकते हैं?
+2158#1 NUM:other What's the population of Biloxi , Mississippi ?
+2158#2 NUM:other Biloxi, मिसिसिपी की जनसंख्या क्या है?
+2159#1 ENTY:letter What vowel do all Esperanto nouns end in ?
+2159#2 ENTY:letter क्या स्वर सभी एस्पेरान्तो संज्ञाओं में अंत?
+2160#1 DESC:def What is a heuristic ?
+2160#2 DESC:def एक अनुमानी क्या है?
+2161#1 LOC:other What California desert is dubbed High Desert ?
+2161#2 LOC:other क्या कैलिफोर्निया रेगिस्तान उच्च डेजर्ट करार दिया है?
+2162#1 ENTY:animal In the Miller Lite TV commercial , who is the creature ?
+2162#2 ENTY:animal मिलर लाइट टीवी वाणिज्यिक में, प्राणी कौन है?
+2163#1 HUM:ind Who wrote ` Hamlet' ?
+2163#2 HUM:ind कौन `हेमलेट 'में लिखा था?
+2164#1 DESC:manner How did the jack-o'-lantern get it's name ?
+2164#2 DESC:manner कैसे डांवांडोल लालटेन नाम यह मिलता है?
+2165#1 DESC:reason Why can't ostriches fly ?
+2165#2 DESC:reason क्यों शुतुरमुर्ग उड़ नहीं सकता?
+2166#1 LOC:other Where do the Blackhawks maintain their operations ?
+2166#2 LOC:other कहाँ ब्लैकहॉक्स अपने अभियान को बनाए रखने के लिए करते हैं?
+2167#1 DESC:reason Why are the rooftops in Canada green ?
+2167#2 DESC:reason क्यों कनाडा हरे रंग में छतों रहे हैं?
+2168#1 LOC:country What African country was founded by freed American slaves in 1847 ?
+2168#2 LOC:country क्या अफ्रीकी देश 1847 में रिहा कर दिया अमेरिकन दास द्वारा स्थापित किया गया था?
+2169#1 NUM:date What year did the first issue of "Playboy" come out ?
+2169#2 NUM:date "प्लेबॉय" के पहले मुद्दा क्या साल से बाहर आ गए थे?
+2170#1 LOC:city The Orange Bowl is located in what city ?
+2170#2 LOC:city ऑरेंज बाउल क्या शहर में स्थित है?
+2171#1 ENTY:dismed What is a fear of motion ?
+2171#2 ENTY:dismed प्रस्ताव की एक भय क्या है?
+2172#1 HUM:ind What pseudonym did William Sydney Porter use in writing The Gift of the Magi ?
+2172#2 HUM:ind विलियम सिडनी पोर्टर मागी का उपहार लिखित में क्या छद्म नाम का उपयोग किया था?
+2173#1 ENTY:dismed What is a fear of glass ?
+2173#2 ENTY:dismed कांच की एक भय क्या है?
+2174#1 DESC:desc In Waugh's "A Handful of Dust ," what does the mad old man force the hero to do every afternoon ?
+2174#2 DESC:desc वॉ के दशक में "धूल का एक मुट्ठी भर है," क्या पागल बूढ़े आदमी हर दोपहर ऐसा करने के लिए नायक के लिए मजबूर करता है?
+2175#1 HUM:ind What is the last name of Lucy and Linus from the Peanut's comic strip ?
+2175#2 HUM:ind मूंगफली की कॉमिक स्ट्रिप से लुसी और लीनुस के आखिरी नाम क्या है?
+2176#1 HUM:ind What cheery fellow got the ZIP code 9971 from the U.S. Postal Service in 1963 ?
+2176#2 HUM:ind क्या हर्षित साथी 1963 में अमेरिकी डाक सेवा से पिन कोड 9971 मिला है?
+2177#1 NUM:count How many layers does a bottle of Yoo-Hoo settle into ?
+2177#2 NUM:count हम आ गए हू की एक बोतल कितने परतों में व्यवस्थित करता है?
+2178#1 HUM:gr Name Pittsburgh's baseball team .
+2178#2 HUM:gr पिट्सबर्ग की बेसबॉल टीम का नाम।
+2179#1 LOC:other What's the nearest star to Earth ?
+2179#2 LOC:other पृथ्वी के सबसे नजदीक स्टार क्या है?
+2180#1 LOC:other Where is Inoco based ?
+2180#2 LOC:other Inoco कहाँ आधारित है?
+2181#1 ENTY:termeq What does El Nino mean in spanish ?
+2181#2 ENTY:termeq एल नीनो स्पेनिश में क्या मतलब है?
+2182#1 DESC:desc What does Choo Choo Charlie say ?
+2182#2 DESC:desc चू चू चार्ली क्या कहता है?
+2183#1 DESC:manner How do I register a trade name in North Carolina ?
+2183#2 DESC:manner मैं कैसे उत्तरी केरोलिना में एक व्यापार नाम रजिस्टर करते हो?
+2184#1 NUM:count What was the number of assassinations and attempts to assassinate in the U.S. since 1865 ?
+2184#2 NUM:count हत्या और 1865 के बाद से अमेरिका में हत्या करने के प्रयासों की संख्या क्या थी?
+2185#1 NUM:count How many stations do you shoot from in the basketball game "Around the World" ?
+2185#2 NUM:count आप "दुनिया भर में" बास्केटबॉल खेल में से कितने स्टेशनों शूट करते हैं?
+2186#1 DESC:def What is a Jake brake ?
+2186#2 DESC:def एक जेक ब्रेक क्या है?
+2187#1 ENTY:symbol What sign is the best love match for a horoscope sign ?
+2187#2 ENTY:symbol एक कुंडली पर हस्ताक्षर के लिए सबसे अच्छा प्रेम विवाह क्या संकेत है?
+2188#1 HUM:ind Who was the Russian ambassador to Hungary during the 1956 uprising ?
+2188#2 HUM:ind 1956 के विद्रोह के दौरान हंगरी रूसी राजदूत कौन था?
+2189#1 HUM:ind Who holds the NFL record for most touchdowns in a season ?
+2189#2 HUM:ind कौन एक सत्र में सबसे touchdowns के लिए एनएफएल रिकॉर्ड रखती है?
+2190#1 ENTY:other What cards are bullets ?
+2190#2 ENTY:other गोलियों क्या कार्ड हैं?
+2191#1 NUM:period What is the average age a horse lives ?
+2191#2 NUM:period एक घोड़े रहता औसत उम्र क्या है?
+2192#1 LOC:other What planet would you visit to see Bebrenia , Arcadia , and Amazonis ?
+2192#2 LOC:other क्या ग्रह आप Bebrenia, आर्केडिया, और Amazonis देखने के लिए यात्रा करेंगे?
+2193#1 ENTY:lang Which language has the most words ?
+2193#2 ENTY:lang कौन सी भाषा सबसे शब्द है?
+2194#1 LOC:other Where is Natick ?
+2194#2 LOC:other Natick कहां है?
+2195#1 ENTY:cremat What J.R.R. Tolkien book features Gimli as a central character ?
+2195#2 ENTY:cremat क्या J.R.R. टोल्किन किताब एक केंद्रीय चरित्र के रूप में Gimli सुविधाएँ?
+2196#1 ENTY:product What brand of white rum is still made in Cuba ?
+2196#2 ENTY:product सफेद रम के ब्रांड क्या अब भी क्यूबा में किया जाता है?
+2197#1 HUM:desc Who is Shirley MacLaine ?
+2197#2 HUM:desc शर्ली MacLaine कौन है?
+2198#1 HUM:gr What business exports the sparkling wine Spumante ?
+2198#2 HUM:gr क्या व्यापार स्पार्कलिंग वाइन Spumante का निर्यात करता है?
+2199#1 ENTY:dismed What is a fear of water ?
+2199#2 ENTY:dismed पानी की एक भय क्या है?
+2200#1 DESC:def What does the number 33 on the Rolling Rock beer bottle mean ?
+2200#2 DESC:def रोलिंग रॉक बीयर की बोतल पर 33 नंबर का क्या मतलब है?

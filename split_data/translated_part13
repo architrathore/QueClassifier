@@ -1,0 +1,200 @@
+1301#1 LOC:city What's the largest U.S. city on the Great Lakes ?
+1301#2 LOC:city ग्रेट झील पर सबसे बड़ा अमेरिकी शहर क्या है?
+1302#1 HUM:ind Who sang about Desmond and Molly Jones ?
+1302#2 HUM:ind कौन डेसमंड और मौली जोन्स के बारे में गाया?
+1303#1 ENTY:cremat What magazine gives us the cream , not the skim ?
+1303#2 ENTY:cremat क्या पत्रिका हमें क्रीम, नहीं स्किम देता है?
+1304#1 ENTY:techmeth What does the technique called "cold fusion" produce ?
+1304#2 ENTY:techmeth "शीत संलयन" नामक तकनीक क्या उत्पादन करता है?
+1305#1 HUM:ind What costume designer decided that Michael Jackson should only wear one glove ?
+1305#2 HUM:ind क्या कॉस्ट्यूम डिजाइनर माइकल जैक्सन केवल एक दस्ताना पहनना चाहिए कि फैसला किया है?
+1306#1 ENTY:other What meter did Shakespeare use in writing : "To be , or not to be , that is the question.. ." ?
+1306#2 ENTY:other क्या मीटर शेक्सपियर लिखित रूप में उपयोग किया था: "हो सकता है, या होने के लिए नहीं, यह सवाल है ..।" ?
+1307#1 NUM:count How many rows of sprocket holes does a roll of 35-millimeter film have ?
+1307#2 NUM:count 35 मिलीमीटर फिल्म के एक रोल कितने पंक्तियों sprocket के छेद में से है?
+1308#1 NUM:count What is the goat population of the world ?
+1308#2 NUM:count दुनिया की बकरी जनसंख्या क्या है?
+1309#1 HUM:gr What company was the original sponsor of TV's Superman ?
+1309#2 HUM:gr टीवी के सुपरमैन की मूल प्रायोजक क्या कंपनी थी?
+1310#1 ENTY:termeq What term does a Czech use to describe a Pole ?
+1310#2 ENTY:termeq क्या अवधि एक ध्रुव का वर्णन करने के लिए एक चेक उपयोग करता है?
+1311#1 LOC:other What sea separates Naples and Algiers ?
+1311#2 LOC:other क्या समुद्र नेपल्स और अल्जीयर्स अलग करती है?
+1312#1 NUM:count How many lawyers are there in the state of New Jersey ?
+1312#2 NUM:count न्यू जर्सी के राज्य में कितने वकीलों देखते हैं?
+1313#1 ENTY:substance What are the most common elements in seawater ?
+1313#2 ENTY:substance समुद्री जल में सबसे आम तत्व क्या हैं?
+1314#1 DESC:desc Describe the Finnish music personality Salonen's appearance .
+1314#2 DESC:desc फिनिश संगीत व्यक्तित्व Salonen की उपस्थिति का वर्णन करें।
+1315#1 DESC:desc What is the origin of the ethnic category "caucasian" ?
+1315#2 DESC:desc "यूरोपीय" जातीय श्रेणी का मूल क्या है?
+1316#1 DESC:def What is a stratocaster ?
+1316#2 DESC:def एक स्ट्रैटोकास्टर क्या है?
+1317#1 ENTY:other What kind of science is cosmology ?
+1317#2 ENTY:other ब्रह्माण्ड विज्ञान विज्ञान किस तरह का है?
+1318#1 HUM:ind Name the blind sculptress in love with the Fantastic Four's Thing .
+1318#2 HUM:ind बढ़िया चार की बात के साथ प्यार में अंधे संगतराशिन नाम दें।
+1319#1 ENTY:substance What's the second-lightest element ?
+1319#2 ENTY:substance दूसरी सबसे हल्का तत्व क्या है?
+1320#1 ENTY:termeq What do you call a "twirl" in ballet ?
+1320#2 ENTY:termeq आप बैले में "घुमाव" एक क्या कहते हैं?
+1321#1 ENTY:product What is the brand name of daminozide ?
+1321#2 ENTY:product Daminozide के ब्रांड नाम क्या है?
+1322#1 ENTY:termeq What is the former name of Zimbabwe ?
+1322#2 ENTY:termeq जिम्बाब्वे के पूर्व नाम क्या है?
+1323#1 HUM:ind What National Basketball Association superstar told his story in Giant Steps ?
+1323#2 HUM:ind क्या नेशनल बास्केटबॉल एसोसिएशन सुपरस्टार विशाल कदम में अपनी कहानी को बताया?
+1324#1 ENTY:animal What animals did The Amazing Three masquerade as ?
+1324#2 ENTY:animal क्या जानवरों का कमाल तीन के रूप में बहाना किया?
+1325#1 DESC:manner How did the bikini bathing suite get its name ?
+1325#2 DESC:manner कैसे बिकनी स्नान सूट अपने नाम कैसे मिला?
+1326#1 NUM:date When did Fraze get his first patent for the pull-tab can ?
+1326#2 NUM:date जब fraze पुल टैब कर सकते हैं के लिए अपना पहला पेटेंट मिला?
+1327#1 NUM:count How many games are played in a five-team round-robin tournament ?
+1327#2 NUM:count कितने खेल एक पांच टीम राउंड रोबिन टूर्नामेंट में खेले जाते हैं?
+1328#1 HUM:ind Who developed the first polio vaccine ?
+1328#2 HUM:ind कौन पहले पोलियो टीका विकसित किया है?
+1329#1 HUM:ind Who made the first gas engine ?
+1329#2 HUM:ind कौन पहले गैस इंजन बनाया है?
+1330#1 LOC:country What country claimed Rubens , Van Dyck and Bruegel as citizens ?
+1330#2 LOC:country क्या देश के नागरिक के रूप रूबेंस, वान Dyck और Bruegel दावा किया है?
+1331#1 ENTY:event What civil war was fought between 1936 and 1939 ?
+1331#2 ENTY:event क्या गृह युद्ध 1936 और 1939 के बीच लड़ा गया था?
+1332#1 NUM:count How many questions do you have on your database ?
+1332#2 NUM:count कितने सवाल आप अपने डेटाबेस पर है?
+1333#1 DESC:manner How do clouds form ?
+1333#2 DESC:manner बादलों फॉर्म को कैसे करते हैं?
+1334#1 LOC:other Where can I find examples of legal cases about the Individuals with Disabilities Education Act ?
+1334#2 LOC:other मैं कहां से विकलांग शिक्षा अधिनियम के साथ व्यक्तियों के बारे में कानूनी मामलों के उदाहरण मिल सकते हैं?
+1335#1 HUM:ind What character did Tex Avery first create upon arriving at MGM ?
+1335#2 HUM:ind टेक्स एवरी पहले एमजीएम पर पहुंचने पर क्या चरित्र पैदा किया?
+1336#1 NUM:date When was the Triangle Shirtwaist fire ?
+1336#2 NUM:date जब त्रिभुज shirtwaist आग लग गई थी?
+1337#1 HUM:ind What Asian spiritual and political leader was married at the age of 13 ?
+1337#2 HUM:ind क्या एशियाई आध्यात्मिक और राजनीतिक नेता 13 साल की उम्र में शादी की थी?
+1338#1 LOC:other Where is Ocho Rios ?
+1338#2 LOC:other ओचो रियोस कहां है?
+1339#1 DESC:def What is the half-life of P-32 ?
+1339#2 DESC:def पी-32 के आधे जीवन क्या है?
+1340#1 LOC:other What ocean does Mauritania border ?
+1340#2 LOC:other मॉरिटानिया क्या सागर सीमा है?
+1341#1 DESC:reason Why do pressure cookers save time in the kitchen ?
+1341#2 DESC:reason क्यों प्रेशर कुकर रसोई में समय बचा है?
+1342#1 DESC:reason Why are there 12 people on a jury in criminal cases ?
+1342#2 DESC:reason क्यों आपराधिक मामलों में एक जूरी पर 12 लोगों को देखते हैं?
+1343#1 DESC:desc What do Christian Scientists believe in ?
+1343#2 DESC:desc ईसाई वैज्ञानिकों क्या में विश्वास करते हो?
+1344#1 ENTY:event What World War I battle saw 6 , 0 troops killed in one day ?
+1344#2 ENTY:event क्या प्रथम विश्व युद्ध लड़ाई 6, 0 सैनिकों को एक दिन में मारे गए देखा?
+1345#1 LOC:country What country is Kosovo a part of ?
+1345#2 LOC:country कोसोवो का एक हिस्सा देश क्या है?
+1346#1 LOC:city Tell me what city the Kentucky Horse Park is near ?
+1346#2 LOC:city केंटकी हॉर्स पार्क के पास है क्या शहर बताओ?
+1347#1 ENTY:product What computer operating system is on the most computers ?
+1347#2 ENTY:product क्या कंप्यूटर ऑपरेटिंग सिस्टम सबसे अधिक कंप्यूटरों पर है?
+1348#1 LOC:other What is Bill Gross's email address ?
+1348#2 LOC:other विधेयक सकल का ईमेल पता क्या है?
+1349#1 DESC:desc What is the economic impact of unemployment on the economy ?
+1349#2 DESC:desc अर्थव्यवस्था पर बेरोजगारी के आर्थिक प्रभाव क्या है?
+1350#1 ABBR:exp What do the letters D.C. stand for in Washington , D.C. ?
+1350#2 ABBR:exp पत्र डीसी वाशिंगटन, डीसी में क्या के लिए खड़े हैं?
+1351#1 ENTY:animal What animals can live the longest without food ?
+1351#2 ENTY:animal भोजन के बिना सबसे लंबे समय तक क्या जानवरों रह सकते हैं?
+1352#1 HUM:ind What English queen had seventeen children ?
+1352#2 HUM:ind क्या अंग्रेजी रानी सत्रह बच्चों की थी?
+1353#1 NUM:other What is the approximate population of Las Vegas , N.M ?
+1353#2 NUM:other लास वेगास, समुद्री मील की अनुमानित जनसंख्या क्या है?
+1354#1 NUM:money How much does the President get paid ?
+1354#2 NUM:money राष्ट्रपति कितना भुगतान मिलता है?
+1355#1 HUM:ind What two baseball players make up the battery ?
+1355#2 HUM:ind क्या दो बेसबॉल खिलाड़ियों बैटरी बना?
+1356#1 ENTY:letter What's the largest letter in Salvador Dali's signature ?
+1356#2 ENTY:letter साल्वाडोर डाली के हस्ताक्षर में सबसे बड़ा पत्र क्या है?
+1357#1 ENTY:termeq What does an irate car owner call iron oxide ?
+1357#2 ENTY:termeq एक क्रुद्ध कार मालिक कॉल लोहे के आक्साइड क्या करता है?
+1358#1 NUM:perc Of children between the ages of two and eleven , what percentage watch "The Simpsons" ?
+1358#2 NUM:perc दो और ग्यारह, क्या प्रतिशत घड़ी "द सिम्पसंस" की उम्र के बीच बच्चों की?
+1359#1 LOC:state What's the northernmost U.S. state apart from Alaska ?
+1359#2 LOC:state उत्तरी अमेरिकी राज्य अलास्का से अलग क्या है?
+1360#1 LOC:other Name an art gallery in New York .
+1360#2 LOC:other न्यूयॉर्क में एक आर्ट गैलरी का नाम।
+1361#1 HUM:ind Who sells Viagra ?
+1361#2 HUM:ind कौन वियाग्रा बेचता है?
+1362#1 ENTY:instru What musical instrument did Prewitt play in James Jones's From Here to Eternity ?
+1362#2 ENTY:instru प्रेवित्त जेम्स जोन्स के यहाँ से अनंत काल के लिए संगीत क्या साधन खेलते हैं?
+1363#1 DESC:def What is the Home Rule Act ?
+1363#2 DESC:def होम रूल एक्ट क्या है?
+1364#1 LOC:other What building are British monarchs crowned in ?
+1364#2 LOC:other क्या इमारत ब्रिटिश सम्राटों में ताज पहनाया जाता है?
+1365#1 DESC:def What are Bellworts ?
+1365#2 DESC:def Bellworts क्या हैं?
+1366#1 HUM:desc Who was Darius ?
+1366#2 HUM:desc दारा कौन था?
+1367#1 ENTY:cremat What movie told of Anna Anderson's claim to be a Russian czar's daughter ?
+1367#2 ENTY:cremat क्या फिल्म एक रूसी जार की बेटी होने के लिए अन्ना एंडरसन के इस दावे के बारे में बताया?
+1368#1 HUM:ind Who did Dita Beard work for ?
+1368#2 HUM:ind कौन के लिए Dita दाढ़ी काम किया है?
+1369#1 ENTY:animal What kind of creature is a coot ?
+1369#2 ENTY:animal एक कूट प्राणी किस तरह का है?
+1370#1 HUM:gr Name the university of which Woodrow Wilson was president .
+1370#2 HUM:gr वुडरो विल्सन अध्यक्ष थे, जिनमें से विश्वविद्यालय का नाम।
+1371#1 LOC:country What country was first to use the airplane as a weapon of war , against the Turks in Libya ?
+1371#2 LOC:country क्या देश लीबिया में तुर्कों के खिलाफ युद्ध के एक हथियार के रूप में हवाई जहाज का उपयोग करने के लिए पहली बार था?
+1372#1 HUM:gr What university was Woodrow Wilson President of ?
+1372#2 HUM:gr वुडरो विल्सन राष्ट्रपति क्या विश्वविद्यालय की थी?
+1373#1 ENTY:dismed What is a fear of disease ?
+1373#2 ENTY:dismed रोग का एक भय क्या है?
+1374#1 ENTY:food What kind of meat is Fray Bentos synonymous with ?
+1374#2 ENTY:food मैदान Bentos का पर्याय बन मांस किस तरह का है?
+1375#1 ENTY:other What did Mr. Magoo flog on TV for General Electric ?
+1375#2 ENTY:other श्री मागू जनरल इलेक्ट्रिक के लिए टीवी पर क्या बेंत से मारना था?
+1376#1 DESC:desc What are the words to the Canadian National anthem ?
+1376#2 DESC:desc कनाडा के राष्ट्रीय गान के लिए शब्द क्या हैं?
+1377#1 ENTY:termeq What is the name of the Jewish alphabet ?
+1377#2 ENTY:termeq यहूदी वर्णमाला का नाम क्या है?
+1378#1 HUM:ind Who served as inspiration for the schoolteacher portrayed by Robin Williams in "Dead Poets Society" ?
+1378#2 HUM:ind कौन "मृत कवियों सोसायटी" में रॉबिन विलियम्स ने निभाई स्कूल शिक्षक के लिए प्रेरणा के रूप में कार्य किया?
+1379#1 NUM:code What is Columbia Tristar's phone number ?
+1379#2 NUM:code कोलंबिया ट्राईस्टार का फोन नंबर क्या है?
+1380#1 HUM:title Name the five positions who are in the line of succession to the presidency .
+1380#2 HUM:title राष्ट्रपति पद के लिए उत्तराधिकार की लाइन में हैं, जो पांच पदों को नाम दें।
+1381#1 HUM:ind Which one of the original seven Mercury program astronauts did not fly on any of the Mercury flights ?
+1381#2 HUM:ind मूल सात पारा कार्यक्रम के अंतरिक्ष यात्रियों में से कौन सा बुध उड़ानों में से किसी पर उड़ान भरने के लिए नहीं किया था?
+1382#1 HUM:ind Who is the best known villain of the 165 Gunpowder Plot ?
+1382#2 HUM:ind 165 बारूद साजिश का सबसे अच्छा ज्ञात खलनायक कौन है?
+1383#1 LOC:city What is the capital of Burkina Faso ?
+1383#2 LOC:city बुर्किना फासो की राजधानी क्या है?
+1384#1 LOC:other What continent is Bolivia on ?
+1384#2 LOC:other क्या महाद्वीप बोलीविया पर है?
+1385#1 DESC:reason Why was Muhammad Ali stripped of his title and barred from boxing in 1967 ?
+1385#2 DESC:reason क्यों मोहम्मद अली अपने खिताब की छीन लिया और 1967 में मुक्केबाजी से वर्जित किया गया था?
+1386#1 HUM:ind Who killed more people , Hitler or Stalin ?
+1386#2 HUM:ind और जो लोग, हिटलर या स्टालिन को मार डाला?
+1387#1 DESC:reason What caused Shea & Gould to close their L.A. office ?
+1387#2 DESC:reason क्या शीया और गोल्ड उनकी ला कार्यालय को बंद करने के कारण होता है?
+1388#1 ENTY:animal What's the only mammal that can't jump ?
+1388#2 ENTY:animal कूद नहीं कर सकते हैं कि केवल स्तनपायी क्या है?
+1389#1 LOC:state What U.S. state has the most blondes ?
+1389#2 LOC:state क्या अमरीकी राज्य सबसे गोरे है?
+1390#1 ENTY:event What war saw battles at Parrot's Beak and Black Virgin ?
+1390#2 ENTY:event क्या युद्ध तोता चोंच और काले वर्जिन पर लड़ाई देखा था?
+1391#1 NUM:count What was the U.S. highway death toll in 1969 ?
+1391#2 NUM:count 1969 में अमेरिका राजमार्ग मरने वालों की संख्या क्या थी?
+1392#1 DESC:def What does the name Kelly mean ?
+1392#2 DESC:def केली नाम क्या मतलब है?
+1393#1 DESC:def What is a phalanx ?
+1393#2 DESC:def एक व्यूह क्या है?
+1394#1 HUM:ind What mustachioed comedian portrayed Frankie in North to Alaska ?
+1394#2 HUM:ind क्या mustachioed हास्य अभिनेता अलास्का के उत्तर में फ्रेंकी चित्रित किया?
+1395#1 NUM:money What does each of the utilities cost in Monopoly ?
+1395#2 NUM:money उपयोगिताओं में से प्रत्येक के एकाधिकार में खर्च करता है?
+1396#1 HUM:ind What actor and World War II airman had a $5 , 0 bounty put on his head by Hermann Goering ?
+1396#2 HUM:ind एक $ 5, 0 इनाम हरमन Goering से उसके सिर पर क्या अभिनेता और द्वितीय विश्व युद्ध के Airman रखा था?
+1397#1 ABBR:exp What does e.g. stand for ?
+1397#2 ABBR:exp क्या जैसे करता है अर्थ होना ?
+1398#1 ENTY:dismed What is the name of the medical condition in which a baby is born without a brain ?
+1398#2 ENTY:dismed एक बच्चे को एक मस्तिष्क के बिना पैदा होता है जिसमें चिकित्सा हालत का नाम क्या है?
+1399#1 DESC:manner How do storms form ?
+1399#2 DESC:manner तूफान के फॉर्म को कैसे करते हैं?
+1400#1 HUM:desc Who is Nicolo Paganini ?
+1400#2 HUM:desc निकोलो Paganini कौन है?

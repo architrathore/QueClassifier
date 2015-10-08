@@ -1,0 +1,200 @@
+101#1 HUM:ind Who invented Make-up ?
+101#2 HUM:ind मेक-अप का आविष्कार किसने किया?
+102#1 DESC:desc What is the origin of the word "attic" ?
+102#2 DESC:desc "अटारी" शब्द का मूल क्या है?
+103#1 DESC:desc What did Delilah do to Samson's hair ?
+103#2 DESC:desc दलीला सैमसन के बालों के लिए क्या किया?
+104#1 ENTY:animal What kind of animals were in the Paleozoic era ?
+104#2 ENTY:animal पैलियोज़ोइक युग में जानवरों का किस तरह कर रहे थे?
+105#1 HUM:ind Which of the following was Rhodes Scholar ?
+105#2 HUM:ind निम्न में से कौन सा रोड्स स्कॉलर था?
+106#1 HUM:ind Who comprised the now-defunct comic book team known as the Champions ?
+106#2 HUM:ind कौन चैंपियंस के रूप में जाना जाता है अब मृत हास्य पुस्तक दल शामिल थे?
+107#1 DESC:manner How do you make a paintball ?
+107#2 DESC:manner कैसे आप एक पेंटबॉल कर सकता हूँ?
+108#1 LOC:state What U.S. state is Fort Knox in ?
+108#2 LOC:state क्या अमरीकी राज्य फोर्ट नॉक्स में है?
+109#1 ENTY:animal What is a female rabbit called ?
+109#2 ENTY:animal एक मादा खरगोश क्या कहा जाता है?
+110#1 LOC:mount Where is the highest point in Japan ?
+110#2 LOC:mount जहां जापान में उच्चतम बिंदु है?
+111#1 DESC:desc Where do chihuahuas come from ?
+111#2 DESC:desc चिहुआहुआ कहां से आता है?
+112#1 LOC:other Where does Barney Rubble go to work after he drops Fred off in the "Flintstones" cartoon series ?
+112#2 LOC:other उन्होंने कहा, "फ्लिंटस्टोन्स" कार्टून श्रृंखला में फ्रेड दूर चला जाता है जहां के बाद बार्नी मलबे काम करने के लिए जाना है?
+113#1 LOC:other What are the world's four oceans ?
+113#2 LOC:other विश्व के चार महासागरों क्या हैं?
+114#1 ENTY:cremat What's the only work by Michelangelo that bears his signature ?
+114#2 ENTY:cremat उनके हस्ताक्षर भालू है कि माइकल एंजेलो द्वारा ही काम क्या है?
+115#1 ENTY:animal What is the largest snake in the world ?
+115#2 ENTY:animal दुनिया में सबसे बड़ा सांप क्या है?
+116#1 ENTY:cremat In what medium is Stuart Hamblen considered to be the first singing cowboy ?
+116#2 ENTY:cremat क्या माध्यम में स्टुअर्ट हैम्ब्लेन पहली गायन चरवाहे माना जाता है?
+117#1 LOC:other Where on the Internet can I find a song lyrics database similar to the International Lyrics Server ?
+117#2 LOC:other इंटरनेट पर जहां मैं इंटरनेशनल के बोल सर्वर के लिए इसी तरह के एक गाने के बोल डेटाबेस मिल सकती है?
+118#1 NUM:money How much money does a back injury lawsuit get ?
+118#2 NUM:money पीठ की चोट मुकदमा कितना पैसा मिलता है?
+119#1 ENTY:termeq What's the common name for acetylsalicylic acid ?
+119#2 ENTY:termeq एस्प्रीन के लिए आम नाम क्या है?
+120#1 DESC:def What does the Georgetown "Hoya" mean ?
+120#2 DESC:def जॉर्ज टाउन "होया" क्या मतलब है?
+121#1 LOC:other Where can I find a list of "classic" books 5th and 6th graders should read ?
+121#2 LOC:other मैं कहां से पढ़ना चाहिए "क्लासिक" किताबें 5 वीं और 6 ग्रेडर की एक सूची प्राप्त कर सकते हैं?
+122#1 ENTY:product Which two products use a tiger as their symbol ?
+122#2 ENTY:product दो उत्पादों जो उनके प्रतीक के रूप में एक बाघ का उपयोग करें?
+123#1 DESC:manner How is the election of a new Pope announced to the world ?
+123#2 DESC:manner कैसे एक नए पोप का चुनाव दुनिया के लिए की घोषणा की है?
+124#1 NUM:period How long does it take for your blood to make one complete trip through the body ?
+124#2 NUM:period आपके रक्त शरीर के माध्यम से एक पूरी यात्रा करने के लिए कितना समय लगेगा?
+125#1 DESC:manner How do chickens have baby chicks ?
+125#2 DESC:manner कैसे मुर्गियों बच्चे को लड़कियों की क्या ज़रूरत है?
+126#1 DESC:desc What is the historical relationship of Catholic Church and bingo ?
+126#2 DESC:desc कैथोलिक चर्च और बिंगो के ऐतिहासिक क्या संबंध है?
+127#1 DESC:manner How was the element calcium named ?
+127#2 DESC:manner तत्व कैल्शियम कैसे नामित किया गया था?
+128#1 HUM:ind What crooner joined The Andrews Sisters for Pistol Packin Mama ?
+128#2 HUM:ind क्या गायक पिस्तौल Packin माँ के लिए एंड्रयूज बहनों में शामिल हो गए?
+129#1 HUM:gr What piano company claims its product is the "Instrument of the immortals" ?
+129#2 HUM:gr क्या पियानो कंपनी ने अपने उत्पाद "अमर का साधन" का दावा है?
+130#1 NUM:date When did the Bounty mutiny take place ?
+130#2 NUM:date जब बाउंटी गदर जगह ले गए थे?
+131#1 ENTY:cremat What novel inspired the movie BladeRunner ?
+131#2 ENTY:cremat क्या उपन्यास फिल्म Bladerunner प्रेरित है?
+132#1 DESC:def What is a transistor ?
+132#2 DESC:def एक ट्रांजिस्टर क्या है?
+133#1 ENTY:cremat What is a film starring Jude Law ?
+133#2 ENTY:cremat जूड लॉ अभिनीत एक फिल्म क्या है?
+134#1 ENTY:animal What Hollywood dog died in the arms of Jean Harlow in 1932 ?
+134#2 ENTY:animal 1932 में जीन हार्लो की बाहों में क्या हॉलीवुड कुत्ता मर गया?
+135#1 ENTY:substance What are the most common elements in the Earth's crust ?
+135#2 ENTY:substance पृथ्वी की पपड़ी में सबसे आम तत्व क्या हैं?
+136#1 NUM:money How much would it cost to purchase a 2-foot-square party tent , with sides , ?
+136#2 NUM:money कितना यह पक्षों के साथ, एक 2 फुट वर्ग पार्टी तम्बू की खरीद के लिए खर्च होगा?
+137#1 HUM:ind What actress has received the most Oscar nominations ?
+137#2 HUM:ind क्या अभिनेत्री सबसे ऑस्कर नामांकन प्राप्त हुए हैं?
+138#1 DESC:def What are equity securities ?
+138#2 DESC:def इक्विटी प्रतिभूतियों क्या हैं?
+139#1 DESC:def What is gymnophobia ?
+139#2 DESC:def Gymnophobia क्या है?
+140#1 NUM:count How many years do fossils take to form ?
+140#2 NUM:count कितने साल के जीवाश्मों के लिए फार्म का लेते हो?
+141#1 LOC:other Where is the Orinoco ?
+141#2 LOC:other Orinoco कहां है?
+142#1 ENTY:animal What was the name of the "Little Rascals" dog ?
+142#2 ENTY:animal "छोटे दुष्टों" कुत्ते का नाम क्या था?
+143#1 LOC:city What city boasts Penn's Landing , on the banks of the Delaware river ?
+143#2 LOC:city क्या शहर डेलावेयर नदी के तट पर पेन की लैंडिंग, समेटे हुए है?
+144#1 ENTY:cremat What Broadway musical was inspired by Cervantes's Don Quixote ?
+144#2 ENTY:cremat क्या ब्रॉडवे संगीत Cervantes के डॉन से प्रेरित था?
+145#1 DESC:desc What is the origin of the word , JJ .
+145#2 DESC:desc शब्द, जे जे का मूल क्या है।
+146#1 NUM:count How many hostages were killed in the Entebbe raid ?
+146#2 NUM:count कितने बंधकों Entebbe छापे में मारे गए थे?
+147#1 DESC:manner How you can raise your IQ ?
+147#2 DESC:manner कैसे आप अपनी बुद्धि को बढ़ा सकते हैं?
+148#1 ABBR:exp What does INRI stand for when used on Jesus' cross ?
+148#2 ABBR:exp यीशु के क्रूस पर इस्तेमाल किया जब INRI क्या अर्थ होता है?
+149#1 HUM:gr Who produces Spumante ?
+149#2 HUM:gr कौन Spumante पैदा करता है?
+150#1 HUM:ind Who earns their money the hard way ?
+150#2 HUM:ind कौन उनके पैसे बुरे तरीके से कमाता है?
+151#1 HUM:ind Who founded the People's Temple Commune ?
+151#2 HUM:ind कौन पीपुल्स मंदिर कम्यून की स्थापना की?
+152#1 HUM:ind What athlete makes the most money from sports merchandise sales ?
+152#2 HUM:ind क्या एथलीट खेल के माल की बिक्री से सबसे अधिक पैसा बनाता है?
+153#1 NUM:count How many bends are there in a standard paper clip ?
+153#2 NUM:count एक मानक पेपर क्लिप में कितने झुकता देखते हैं?
+154#1 HUM:ind Who discovered electricity ?
+154#2 HUM:ind कौन बिजली की खोज की?
+155#1 ENTY:body What part of your body contains the corpus callosum ?
+155#2 ENTY:body आपके शरीर के किस हिस्से महासंयोजिका होता है?
+156#1 HUM:ind Who was the first American in space ?
+156#2 HUM:ind अंतरिक्ष में पहली बार अमेरिकी कौन था?
+157#1 LOC:country What two South American countries do n't border Brazil ?
+157#2 LOC:country दक्षिण अमेरिकी क्या दोनों देशों ब्राजील सीमा नहीं है?
+158#1 ENTY:cremat What album put The Beatles on the cover of Time in 1967 ?
+158#2 ENTY:cremat क्या एल्बम 1967 में टाइम के कवर पर बीटल्स रखा है?
+159#1 ENTY:cremat What poem contains the line , "grow old with me the best is yet to be" .
+159#2 ENTY:cremat क्या कविता लाइन, "सबसे अच्छा होना अभी बाकी है मेरे साथ बूढ़ा हो जाना" शामिल हैं।
+160#1 DESC:def What is a dental root canal ?
+160#2 DESC:def एक दंत रूट कैनाल क्या है?
+161#1 ENTY:event What war did the Wanna-Go-Home Riots occur after ?
+161#2 ENTY:event क्या युद्ध वाना-गो-मुख था दंगों के बाद होते हैं?
+162#1 NUM:date What is the busiest air travel season ?
+162#2 NUM:date सबसे व्यस्त हवाई यात्रा सीजन में क्या है?
+163#1 ENTY:body What's the colored part of the eye called ?
+163#2 ENTY:body आंख के रंग का हिस्सा क्या कहा जाता है?
+164#1 DESC:def What are hook worms ?
+164#2 DESC:def हुक कीड़े क्या हैं?
+165#1 LOC:other Where is the Rose Bowl played ?
+165#2 LOC:other रोज बाउल कहाँ खेला जाता है?
+166#1 HUM:gr Which Japanese car maker had its biggest percentage of sale in the domestic market ?
+166#2 HUM:gr जो जापानी कार निर्माता कंपनी घरेलू बाजार में बिक्री की अपनी सबसे बड़ी प्रतिशत था?
+167#1 HUM:ind Who is the mayor of Marbella ?
+167#2 HUM:ind मारबेला के मेयर कौन है?
+168#1 LOC:other What sun-blasted , 14-mile wide valley is just north of the Mojave desert ?
+168#2 LOC:other क्या सूरज-विस्फोट, 14 मील चौड़ी घाटी सिर्फ उत्तर मोजावे रेगिस्तान की है?
+169#1 NUM:date In what year did Thatcher become prime minister ?
+169#2 NUM:date क्या वर्ष में थैचर प्रधानमंत्री बन गया?
+170#1 NUM:count How many months does it take the moon to revolve around the Earth ?
+170#2 NUM:count कितने महीने यह चंद्रमा पृथ्वी के चारों ओर घूमना करने के लिए ले करता है?
+171#1 LOC:other Where are the 49 steps ?
+171#2 LOC:other जहां 49 कदम उठाए हैं?
+172#1 NUM:date In what year was De Gaulle elected president of France ?
+172#2 NUM:date क्या वर्ष में डी गॉल फ्रांस के राष्ट्रपति चुने गए थे?
+173#1 HUM:ind Who sings the themes for "Dawson's Creek" and "Felicity" ?
+173#2 HUM:ind कौन "डावसन के क्रीक" और "फेलिसिटी" के लिए विषयों गाती है?
+174#1 HUM:ind Who directed "Jaws" ?
+174#2 HUM:ind कौन "जॉज़" का निर्देशन किया?
+175#1 ENTY:cremat On what T.V. show could Tom Terrific be found ?
+175#2 ENTY:cremat टॉम बहुत खूब क्या टी.वी शो पर पाया जा सकता है?
+176#1 HUM:gr What Indian tribe is F Troop perpetually doing battle with ?
+176#2 HUM:gr क्या भारतीय जनजाति एफ ट्रूप सदा के साथ लड़ाई कर रहा है?
+177#1 DESC:desc Where did Indian Pudding come from ?
+177#2 DESC:desc भारतीय हलवा कहाँ से आया?
+178#1 DESC:reason Why do some clothing labels say "Use a nonchlorine bleach" ?
+178#2 DESC:reason क्यों कुछ कपड़े लेबल "एक nonchlorine ब्लीच का प्रयोग करें" कहते हैं?
+179#1 NUM:count How many colonies were involved in the American Revolution ?
+179#2 NUM:count कितने कालोनियों अमेरिकी क्रांति में शामिल थे?
+180#1 LOC:city What is the name of the city that Maurizio Pellegrin lives in ?
+180#2 LOC:city Maurizio Pellegrin में रहती है कि शहर का नाम क्या है?
+181#1 LOC:other Where can I find pictorial directions on how to build a very simple treehouse ?
+181#2 LOC:other कहाँ मैं एक बहुत ही सरल treehouse का निर्माण करने पर सचित्र दिशाओं मिल सकती है?
+182#1 ENTY:sport What game's board shows the territories of Irkutsk , Yakutsk and Kamchatka ?
+182#2 ENTY:sport क्या खेल के बोर्ड इरकुत्स्क, याक़ूत्स्क और कैमचटका के प्रदेशों से पता चलता है?
+183#1 HUM:ind What is the name of the managing director of Apricot Computer ?
+183#2 HUM:ind खुबानी कम्प्यूटर के प्रबंध निदेशक का नाम क्या है?
+184#1 HUM:title What is the occupation of Nicholas Cage ?
+184#2 HUM:title निकोलस केज के कब्जे क्या है?
+185#1 DESC:reason Why do horseshoes bring luck ?
+185#2 DESC:reason क्यों horseshoes भाग्य ला सकते है?
+186#1 DESC:def What is the 401 , K , plan ?
+186#2 DESC:def 401, कश्मीर, क्या योजना है?
+187#1 DESC:reason What causes pneumonia ?
+187#2 DESC:reason क्या निमोनिया का कारण बनता है?
+188#1 NUM:date What are the three winter months in the southern hemisphere ?
+188#2 NUM:date दक्षिणी गोलार्द्ध में तीन सर्दियों के महीनों में क्या कर रहे हैं?
+189#1 DESC:def What does gringo mean ?
+189#2 DESC:def ग़ैरमुल्की क्या मतलब है?
+190#1 LOC:country What country contains Africa's northernmost point ?
+190#2 LOC:country क्या देश अफ्रीका के उत्तरी बिंदु शामिल हैं?
+191#1 ENTY:dismed What therapy attempts to elicit the "primal scream" ?
+191#2 ENTY:dismed क्या चिकित्सा "आदि चीख" प्रकाश में लाना करने के लिए प्रयास करता है?
+192#1 LOC:other Where is the Kalahari desert ?
+192#2 LOC:other कालाहारी रेगिस्तान कहां है?
+193#1 HUM:gr Which Ventura County police department seized the largest cocaine shipment in it's history ?
+193#2 HUM:gr कौन सा Ventura काउंटी पुलिस विभाग यह के इतिहास में सबसे बड़ा कोकीन शिपमेंट जब्त कर लिया?
+194#1 LOC:city What city is sometimes called Gotham ?
+194#2 LOC:city क्या शहर कभी कभी गोथम कहा जाता है?
+195#1 ENTY:body What dangles over the tongue from the palate ?
+195#2 ENTY:body क्या तालू से जीभ पर dangles?
+196#1 HUM:ind Who created Dennis the Menace ?
+196#2 HUM:ind कौन डेनिस खतरा बनाया?
+197#1 HUM:ind What dummy received an honorary degree from Northwestern University ?
+197#2 HUM:ind क्या डमी नॉर्थवेस्टर्न विश्वविद्यालय से मानद डिग्री प्राप्त की?
+198#1 NUM:date When was the first Wall Street Journal published ?
+198#2 NUM:date जब पहली बार द वॉल स्ट्रीट जर्नल प्रकाशित किया गया था?
+199#1 LOC:country What countries have the largest areas of forest ?
+199#2 LOC:country क्या देशों वन के सबसे बड़े क्षेत्रों के लिए है?
+200#1 DESC:manner How do I start a web based business ?
+200#2 DESC:manner मैं कैसे एक वेब आधारित व्यापार शुरू करते हैं?

@@ -1,0 +1,200 @@
+701#1 NUM:dist How far do you have to run if you hit a home run ?
+701#2 NUM:dist आप एक घर चलाने मारा, तो कितनी दूर तुम चलाने के लिए क्या करना है?
+702#1 HUM:ind Who was the only U.S. President to wear a Nazi uniform ?
+702#2 HUM:ind एक नाजी वर्दी पहनने के लिए केवल अमेरिकी राष्ट्रपति कौन था?
+703#1 HUM:gr Woodrow Wilson served as president of what university ?
+703#2 HUM:gr वुडरो विल्सन क्या विश्वविद्यालय के अध्यक्ष के रूप में कार्य किया?
+704#1 LOC:other Where are the tropical rain forest distributions ?
+704#2 LOC:other जहां उष्णकटिबंधीय वर्षा वन वितरण कर रहे हैं?
+705#1 HUM:ind What's the nickname of oddsmaker Jimmy Snyder ?
+705#2 HUM:ind Oddsmaker जिमी स्नाइडर के उपनाम क्या है?
+706#1 ENTY:dismed What is the fear of being loved ?
+706#2 ENTY:dismed प्यार किया जा रहा का डर क्या है?
+707#1 NUM:other What was the number of people that Randy Steven Craft was convicted of killing ?
+707#2 NUM:other रैंडी स्टीवन क्राफ्ट की हत्या का दोषी पाया गया था कि लोगों की संख्या क्या थी?
+708#1 HUM:title What was Queen Victoria's title regarding India ?
+708#2 HUM:title भारत के बारे में महारानी विक्टोरिया के शीर्षक क्या था?
+709#1 DESC:manner How is a hydrogen bomb different from a nuclear bomb ?
+709#2 DESC:manner कैसे एक हाइड्रोजन बम एक परमाणु बम से अलग है?
+710#1 NUM:dist How far can a man travel in outer space ?
+710#2 NUM:dist कितनी दूर एक आदमी बाह्य अंतरिक्ष में यात्रा कर सकते हैं?
+711#1 LOC:other Where was Lincoln assassinated ?
+711#2 LOC:other लिंकन कहाँ हत्या कर दी गई?
+712#1 ENTY:food What type of food makes you fat ?
+712#2 ENTY:food भोजन की किस प्रकार आप मोटा बनाता है?
+713#1 ENTY:dismed What is the name of the chronic neurological autoimmune disease which attacks the protein sheath that surrounds nerve cells causing a gradual loss of movement in the body ?
+713#2 ENTY:dismed शरीर में आंदोलन के एक क्रमिक नुकसान के कारण तंत्रिका कोशिकाओं है कि चारों ओर प्रोटीन म्यान हमलों जो जीर्ण न्यूरोलॉजिकल ऑटोइम्यून रोग का नाम क्या है?
+714#1 NUM:count What was the U.S. highway death toll in 1969 ?
+714#2 NUM:count 1969 में अमेरिका राजमार्ग मरने वालों की संख्या क्या थी?
+715#1 ENTY:animal What kind of animals are Dorsets , Lincolns , Oxfords and Southdowns ?
+715#2 ENTY:animal जानवरों का किस तरह Dorsets, Lincolns, ऑक्सफोर्ड्स और Southdowns कर रहे हैं?
+716#1 ENTY:cremat What are the shortest and the longest songs ever produced ?
+716#2 ENTY:cremat कभी का उत्पादन गीत कम से कम और सबसे लंबे समय तक क्या कर रहे हैं?
+717#1 ENTY:letter What letter is to the right of K on a typewriter keyboard ?
+717#2 ENTY:letter क्या पत्र एक टाइपराइटर कुंजीपटल पर कश्मीर के अधिकार के लिए है?
+718#1 DESC:desc What is the origin and the meaning of the name , "Hajo ?"
+718#2 DESC:desc मूल और नाम का अर्थ क्या है "हाजो?"
+719#1 ENTY:word What is the plural of gulf ?
+719#2 ENTY:word खाड़ी के बहुवचन क्या है?
+720#1 HUM:ind Whose autobiography is titled Yes I Can ?
+720#2 HUM:ind हाँ मैं कर सकता किसकी आत्मकथा शीर्षक है?
+721#1 NUM:date What year did the United States pass the Copyright law ?
+721#2 NUM:date क्या वर्ष संयुक्त राज्य अमेरिका कॉपीराइट कानून पारित किया था?
+722#1 NUM:perc What percentage of Americans own their homes ?
+722#2 NUM:perc अमेरिकियों का प्रतिशत क्या है उनके घरों में ही?
+723#1 NUM:date What's the first day of the week ?
+723#2 NUM:date सप्ताह के पहले दिन क्या है?
+724#1 LOC:city What city was President William McKinley shot in ?
+724#2 LOC:city क्या शहर अध्यक्ष विलियम मैककिनले में गोली मार दी थी?
+725#1 LOC:city What city has the world's longest subway system ?
+725#2 LOC:city क्या शहर दुनिया की सबसे लंबी मेट्रो प्रणाली है?
+726#1 HUM:ind Who claimed he killed 4 , 280 buffalo as food for the crew building the Kansas Pacific Railway ?
+726#2 HUM:ind कौन है वह कान्सास प्रशांत रेलवे के निर्माण दल के लिए भोजन के रूप में 4, 280 भैंस की मौत हो दावा किया है?
+727#1 DESC:def What is Bombay duck ?
+727#2 DESC:def बॉम्बे डक क्या है?
+728#1 NUM:count How many degrees cooler is the inside of a cucumber than the air outside ?
+728#2 NUM:count बाहर की हवा की तुलना में एक ककड़ी के अंदर कितने डिग्री कूलर है?
+729#1 HUM:ind What double talking "professor" holds a doctorate in Nothing ?
+729#2 HUM:ind बात कर डबल क्या "प्रोफेसर" कुछ में डॉक्टर की उपाधि धारण?
+730#1 LOC:city What are the five most expensive cities in the world ?
+730#2 LOC:city दुनिया में पांच सबसे महंगे शहरों में क्या कर रहे हैं?
+731#1 HUM:ind What 19th-century writer had a country estate on the Hudson dubbed Sunnyside ?
+731#2 HUM:ind क्या 19 वीं सदी के लेखक सनीसाइड करार दिया हडसन पर एक देश की संपत्ति थी?
+732#1 NUM:count How many layers of yellow paint is a Faber Mongol pencil lucky enough to be sprayed with ?
+732#2 NUM:count एक फैबर मंगोल पेंसिल बहुत भाग्यशाली के साथ छिड़काव किया जा करने के लिए कितनी परतें पीले रंग की है?
+733#1 DESC:def What is a virtual IP address ?
+733#2 DESC:def एक आभासी आईपी पता क्या है?
+734#1 HUM:ind What was the name of the cook on Rawhide ?
+734#2 HUM:ind रॉहाइड पर कुक का नाम क्या था?
+735#1 LOC:other What county is Chicago in ?
+735#2 LOC:other क्या काउंटी शिकागो में है?
+736#1 NUM:dist What is the wingspan of a condor ?
+736#2 NUM:dist एक कोंडोर के पंख फैलाव क्या है?
+737#1 DESC:desc What facial feature typically contains about 55 hairs ?
+737#2 DESC:desc क्या चेहरे की सुविधा आम तौर पर के बारे में 55 बाल होता है?
+738#1 HUM:ind Who was named Admiral of the Ocean Seas and Viceroy and Governor General of all the islands he might discover , and also granted 10-?? of all profits of his voyage .
+738#2 HUM:ind कौन महासागर सागरों और वायसराय और वह पता चल सकता है सभी द्वीपों के गवर्नर जनरल के एडमिरल नामित किया गया था, और यह भी 10 दी गई ?? अपनी यात्रा के सभी लाभ का।
+739#1 DESC:manner How can I transport files from one computer to another ?
+739#2 DESC:manner मैं कैसे एक कंप्यूटर से फाइल परिवहन कर सकते हैं?
+740#1 ENTY:termeq What's the literary term for a play on words ?
+740#2 ENTY:termeq शब्दों पर एक नाटक के लिए साहित्यिक अवधि क्या है?
+741#1 ENTY:color What color were their horses ?
+741#2 ENTY:color उनके घोड़े रंग क्या कर रहे थे?
+742#1 NUM:money What does an average daycare provider get paid in New England ?
+742#2 NUM:money न्यू इंग्लैंड में एक औसत प्रदाता क्या भुगतान मिलता है?
+743#1 HUM:ind What author landed a 468-pound marlin without harness in the early 193's ?
+743#2 HUM:ind क्या लेखक 193 के दशक में दोहन के बिना एक 468 पाउंड मार्लिन उतरा?
+744#1 NUM:count How many Americans fought for the British in the American Revolution ?
+744#2 NUM:count कितने अमेरिकियों अमेरिकी क्रांति में अंग्रेजों के लिए लड़े?
+745#1 ENTY:other What kind of education do I need to become a flight attendant ?
+745#2 ENTY:other शिक्षा का किस तरह मैं एक उड़ान परिचर बनने की जरूरत क्यों है?
+746#1 ENTY:lang What are the two languages of Malta ?
+746#2 ENTY:lang माल्टा की दो भाषाओं क्या हैं?
+747#1 NUM:count How many oceans are there and name them ?
+747#2 NUM:count कितने महासागरों हैं वहाँ और उनके नाम?
+748#1 DESC:desc What happened during the Blackhawk Indian war of 1832 ?
+748#2 DESC:desc क्या 1832 ब्लैकहौक भारतीय युद्ध के दौरान हुआ?
+749#1 NUM:count How many pairs of legs does a lobster have ?
+749#2 NUM:count एक समुद्री झींगा कितने जोड़े पैरों के लिए है?
+750#1 DESC:def What does the Latin ante mortem mean ?
+750#2 DESC:def लैटिन पूर्व पोस्टमार्टम क्या मतलब है?
+751#1 DESC:def What does the name Shawn mean ?
+751#2 DESC:def नाम शॉन क्या मतलब है?
+752#1 LOC:other Where is the Danube ?
+752#2 LOC:other डेन्यूब कहां है?
+753#1 HUM:ind What lawyer won the largest divorce settlement , $85 million , in U.S. history for Sheika Dena Al-Farri ?
+753#2 HUM:ind क्या वकील Sheika देना अल-Farri के लिए अमेरिका के इतिहास में सबसे बड़े तलाक के निपटान, $ 85 लाख, जीता?
+754#1 ENTY:animal What do you call a group of geese ?
+754#2 ENTY:animal आप कुछ कलहंस के एक समूह क्या कहते हैं?
+755#1 HUM:ind Who delivered his last newscast on March 6 , 1981 ?
+755#2 HUM:ind कौन 6 मार्च 1981 पर अपने अंतिम समाचार के लिए दिया?
+756#1 NUM:count How many times has "Louie , Louie" been recorded ?
+756#2 NUM:count "लुई, लुई" कितनी बार दर्ज किया गया है?
+757#1 DESC:manner How is Answers.com different from KnowPost.com ?
+757#2 DESC:manner कैसे Answers.com KnowPost.com से अलग है?
+758#1 LOC:other What is the longest place name in the U.S. ?
+758#2 LOC:other अमेरिका में सबसे लंबे समय तक जगह का नाम क्या है?
+759#1 NUM:perc What percent liked Thatcher after she had been in power for a decade ?
+759#2 NUM:perc वह एक दशक तक सत्ता में किया गया था के बाद क्या प्रतिशत थैचर पसंद आया?
+760#1 LOC:other Where does Buzz Aldrin want to build a permanent , manned space station ?
+760#2 LOC:other कहाँ बज़ एल्ड्रिन एक स्थायी, मानवयुक्त अंतरिक्ष स्टेशन का निर्माण करना चाहती है?
+761#1 ENTY:cremat What was Mel Gibson's first movie ?
+761#2 ENTY:cremat मेल गिब्सन की पहली फिल्म क्या था?
+762#1 DESC:reason Why was the L.A. office of Shea and Gould closed ?
+762#2 DESC:reason क्यों एक प्रकार का वृक्ष और गोल्ड के ला कार्यालय बंद कर दिया गया था?
+763#1 DESC:manner How do I start a bank ?
+763#2 DESC:manner मैं कैसे एक बैंक शुरू कर दिया?
+764#1 DESC:manner How do Ouija Boards work ?
+764#2 DESC:manner Ouija बोर्ड कैसे काम करते हैं?
+765#1 ENTY:animal What horse did Zorro ride ?
+765#2 ENTY:animal ज़ोरो क्या घोड़े की सवारी की थी?
+766#1 DESC:manner How do you get a broken cork out of a bottle ?
+766#2 DESC:manner कैसे आप एक बोतल से बाहर एक टूटी हुई काग मिलता है?
+767#1 LOC:other Where can I find correct tabs for Third Eye Blind songs ?
+767#2 LOC:other मैं कहां से तीसरा नेत्र ब्लाइंड गाने के लिए सही टैब मिल सकती है?
+768#1 DESC:manner How do you determine heating requirements for your home ?
+768#2 DESC:manner कैसे आप अपने घर के लिए हीटिंग आवश्यकताओं का निर्धारण करते हैं?
+769#1 HUM:ind What former major-league left-handed baseball pitcher was known as "Space Man" ?
+769#2 HUM:ind क्या पूर्व मेजर लीग बाएं हाथ के बेसबॉल पिचर "अंतरिक्ष मैन 'के रूप में जाना जाता था?
+770#1 ENTY:product Which hair care product told us "hate that gray , wash it away" ?
+770#2 ENTY:product जो बालों की देखभाल के उत्पाद हमें "नफरत है कि ग्रे, इसे दूर धोने" बताया?
+771#1 DESC:reason Why did the chicken cross the road ?
+771#2 DESC:reason वाय डीड दि चिकन क्रॉस दि रोड ?
+772#1 HUM:ind What was Michelangelo's last name ?
+772#2 HUM:ind माइकल एंजेलो के अंतिम नाम क्या था?
+773#1 HUM:desc Who is Barbara Jordan ?
+773#2 HUM:desc बारबरा जॉर्डन कौन है?
+774#1 HUM:ind Who was the Democratic nominee in the American presidential election ?
+774#2 HUM:ind अमेरिकी राष्ट्रपति चुनाव में डेमोक्रेटिक उम्मीदवार कौन था?
+775#1 ENTY:cremat What was Connecticut's first constitution called ?
+775#2 ENTY:cremat कनेक्टिकट के पहले संविधान क्या कहा जाता था?
+776#1 ENTY:event What historical event happened in Dogtown in 1899 ?
+776#2 ENTY:event क्या ऐतिहासिक घटना 1899 में Dogtown में क्या हुआ?
+777#1 DESC:def What is being done about the millennium bug ?
+777#2 DESC:def क्या मिलेनियम बग के बारे में किया जा रहा है?
+778#1 DESC:reason What was the claim to fame of King Camp Gillette ?
+778#2 DESC:reason राजा शिविर जिलेट की प्रसिद्धि के लिए दावा क्या था?
+779#1 ENTY:dismed What is the most common kind of skin cancer in the U.S. ?
+779#2 ENTY:dismed अमेरिका में त्वचा कैंसर का सबसे आम प्रकार क्या है?
+780#1 DESC:def What is Olestra ?
+780#2 DESC:def Olestra क्या है?
+781#1 LOC:country What Asian country has a bill of rights for cows ?
+781#2 LOC:country क्या एशियाई देश गायों के लिए अधिकार का बिल है?
+782#1 NUM:count How many fingers are used to draw a bow ?
+782#2 NUM:count कितने उंगलियों एक धनुष आकर्षित करने के लिए उपयोग किया जाता है?
+783#1 ENTY:plant What are two plants that clothes are made from ?
+783#2 ENTY:plant कपड़े से बना रहे हैं कि दो संयंत्रों क्या हैं?
+784#1 NUM:date When was Hurricane Hugo ?
+784#2 NUM:date जब तूफान ह्यूगो था?
+785#1 ENTY:food What is the most heavily caffeinated soft drink ?
+785#2 ENTY:food सबसे भारी कैफीनयुक्त शीतल पेय क्या है?
+786#1 HUM:ind What President-to-be was the first member of Congress to enlist following the attack on Pearl Harbor ?
+786#2 HUM:ind राष्ट्रपति होने वाली है पर्ल हार्बर पर हमले के बाद भर्ती करने के लिए कांग्रेस की पहली सदस्य क्या था?
+787#1 NUM:money What was the price of Varian Associates' vacuum products division ?
+787#2 NUM:money वारियन एसोसिएट्स 'वैक्यूम उत्पाद विभाग की कीमत क्या थी?
+788#1 NUM:date When was "the Great Depression" ?
+788#2 NUM:date "जब ग्रेट डिप्रेशन 'था?
+789#1 ENTY:lang What language is mostly spoken in Brazil ?
+789#2 ENTY:lang कौन-सी भाषा ज्यादातर ब्राजील में बोली जाती है?
+790#1 HUM:gr What college produced the most winning Super Bowl quarterbacks ?
+790#2 HUM:gr क्या कॉलेज जीतकर सुपर बाउल क्वार्टरबैक उत्पादन किया?
+791#1 DESC:manner How do you solve "Rubik's Cube" ?
+791#2 DESC:manner कैसे आप "Rubik है घन" हल क्या है?
+792#1 DESC:def What is prepared mustard ?
+792#2 DESC:def तैयार सरसों क्या है?
+793#1 HUM:ind What classical Spanish writer warned : "All that glitters is not gold" ?
+793#2 HUM:ind स्पेनिश शास्त्रीय क्या लेखक को चेतावनी दी: "चमकती है कि सभी सोना नहीं है"?
+794#1 DESC:def What does "antidisestablishmentarianism" mean ?
+794#2 DESC:def "Antidisestablishmentarianism" क्या मतलब है?
+795#1 HUM:ind What actor married John F. Kennedy's sister ?
+795#2 HUM:ind क्या अभिनेता जॉन एफ कैनेडी की बहन से शादी कर ली?
+796#1 ENTY:dismed What does a topophobic actor suffer from ?
+796#2 ENTY:dismed एक topophobic अभिनेता क्या से ग्रस्त हैं?
+797#1 HUM:ind Who fired Maria Ybarra from her position in San Diego council ?
+797#2 HUM:ind कौन सैन डिएगो परिषद में उसकी स्थिति से मारिया Ybarra निकाल दिया?
+798#1 NUM:period The italian artist , Maurizio Pellegrin , is how old ?
+798#2 NUM:period इतालवी कलाकार, Maurizio Pellegrin, कितनी पुरानी है?
+799#1 ENTY:other What type of hunting are retrievers used for ?
+799#2 ENTY:other शिकार के किस प्रकार retrievers के लिए इस्तेमाल कर रहे हैं?
+800#1 DESC:reason What is Colin Powell best known for ?
+800#2 DESC:reason कॉलिन पॉवेल क्या के लिए सबसे अच्छा जाना जाता है?

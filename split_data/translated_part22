@@ -1,0 +1,200 @@
+2201#1 DESC:desc What is the origin of the city "Corpus Christi" ?
+2201#2 DESC:desc शहर "कॉर्पस क्रिस्टी" का मूल क्या है?
+2202#1 HUM:ind Who wrote ` The Pines of Rome' ?
+2202#2 HUM:ind कौन रोम के `पाइंस 'लिखा था?
+2203#1 LOC:other Where is the Valley of the Kings ?
+2203#2 LOC:other राजाओं की घाटी कहां है?
+2204#1 HUM:gr What was the first U.S.-based team in the NHL ?
+2204#2 HUM:gr एनएचएल में पहली अमेरिकी आधारित टीम क्या था?
+2205#1 LOC:other Where did the sport of caber-tossing originate ?
+2205#2 LOC:other जहां Caber-पोट का खेल शुरू किया था?
+2206#1 HUM:ind Who played for the Chicago Bears , Houston Oilers and Oakland Raiders in a 26-year pro football career ?
+2206#2 HUM:ind जो एक 26 साल के पेशेवर फुटबॉल करियर में शिकागो बियर, ह्यूस्टन Oilers और ओकलैंड हमलावरों के लिए खेला?
+2207#1 LOC:other Where are the Union Stockyards ?
+2207#2 LOC:other जहां संघ Stockyards कर रहे हैं?
+2208#1 LOC:other Where does the weird shape of the dinner fish knife originate from ?
+2208#2 LOC:other रात के खाने के लिए मछली चाकू की अजीब आकार कहां से उत्पन्न करता है?
+2209#1 NUM:count How many children does Ray Davies of the Kinks have ?
+2209#2 NUM:count सनक के रे डेविस कितने बच्चे है?
+2210#1 NUM:count How many years did Shea & Gould practice law in Los Angeles ?
+2210#2 NUM:count कितने साल शीया और गोल्ड लॉस एंजिल्स में कानून का अभ्यास किया?
+2211#1 ENTY:other What did Walter Huston remove to perform in the movie The Treasure of the Sierra Madre ?
+2211#2 ENTY:other क्या वाल्टर हस्टन फिल्म सिएरा मादरे के खजाने में प्रदर्शन करने के लिए दूर किया?
+2212#1 NUM:count How much salt is in the oceans ?
+2212#2 NUM:count महासागरों में कितना नमक है?
+2213#1 HUM:ind Who leads the star ship Enterprise in Star Trek ?
+2213#2 HUM:ind कौन स्टार ट्रेक में स्टार जहाज एंटरप्राइज ओर जाता है?
+2214#1 ENTY:animal What animals acted as lapwarmers for American colonists in church ?
+2214#2 ENTY:animal क्या जानवरों चर्च में अमेरिकी उपनिवेशों के लिए lapwarmers रूप में काम किया?
+2215#1 HUM:ind Who won World War II ?
+2215#2 HUM:ind कौन द्वितीय विश्व युद्ध जीता?
+2216#1 DESC:desc Where does "bovine" come from ?
+2216#2 DESC:desc "गोजातीय" कहाँ से आया है?
+2217#1 LOC:other Where does the U.S. get most of its energy ?
+2217#2 LOC:other जहां अमेरिका अपनी ऊर्जा का सबसे अधिक प्राप्त करता है?
+2218#1 LOC:country What country , after Canada and Mexico , is closest to the U.S. ?
+2218#2 LOC:country क्या देश, कनाडा और मेक्सिको के बाद, अमेरिका के सबसे करीब है?
+2219#1 ENTY:body What is the weakest bone in the body ?
+2219#2 ENTY:body शरीर में सबसे कमजोर हड्डी क्या है?
+2220#1 DESC:def What is dew point ?
+2220#2 DESC:def ओस बात क्या है?
+2221#1 HUM:ind Who was Garrett Morgan married to ?
+2221#2 HUM:ind गैरेट मॉर्गन से शादी कौन था?
+2222#1 HUM:ind What was the name of Darth Vader's son ?
+2222#2 HUM:ind डार्थ Vader के बेटे का नाम क्या था?
+2223#1 NUM:count How many stars are there in Big Dipper ?
+2223#2 NUM:count सप्तऋषि में कितने तारे देखते हैं?
+2224#1 DESC:manner How do you become a dentist ?
+2224#2 DESC:manner कैसे आप एक दंत चिकित्सक हो जाते हैं?
+2225#1 HUM:desc Who is Ishmael in Moby Dick ?
+2225#2 HUM:desc मोबी डिक में इश्माएल कौन है?
+2226#1 NUM:count How many wings does a flea have ?
+2226#2 NUM:count एक कबाड़ी कितने पंख है?
+2227#1 LOC:country What country has been called The Queen of the Antilles ?
+2227#2 LOC:country क्या देश एंटिल्स की रानी बुलाया गया है?
+2228#1 LOC:other Where can I find a website that gives comparisons of good prices ?
+2228#2 LOC:other मैं कहां से अच्छी कीमतों की तुलना देता है कि एक वेबसाइट मिल सकती है?
+2229#1 NUM:other What is the population of Mozambique ?
+2229#2 NUM:other मोजाम्बिक की जनसंख्या क्या है?
+2230#1 DESC:def What is multimedia ?
+2230#2 DESC:def मल्टीमीडिया क्या है?
+2231#1 LOC:state What state has the most Indians ?
+2231#2 LOC:state क्या राज्य ज्यादातर भारतीयों की है?
+2232#1 DESC:desc What is the difference between terry cloth and French terry ?
+2232#2 DESC:desc टेरी कपड़ा और फ्रेंच टेरी के बीच क्या अंतर है?
+2233#1 NUM:dist How long is Camptown Racetrack ?
+2233#2 NUM:dist Camptown रेसट्रैक कब तक है?
+2234#1 HUM:ind Name the two blob members of the animated Herculoids .
+2234#2 HUM:ind एनिमेटेड Herculoids की दो बूँद सदस्यों को नाम दें।
+2235#1 LOC:other Where did Luther display his "Ninety-Five Theses" ?
+2235#2 LOC:other कहाँ लूथर अपने 'पंचानबे शोध करे "प्रदर्शित किया?
+2236#1 DESC:def What are "inkhorn terms" ?
+2236#2 DESC:def "Inkhorn शर्तों" क्या हैं?
+2237#1 DESC:desc What is the difference between pop music and rock and roll ?
+2237#2 DESC:desc पॉप संगीत और रॉक एंड रोल के बीच क्या अंतर है?
+2238#1 LOC:other What river is Pocahontas buried along ?
+2238#2 LOC:other क्या नदी Pocahontas के साथ दफन किया जाता है?
+2239#1 DESC:def What does hazmat stand for ?
+2239#2 DESC:def Hazmat क्या अर्थ होता है?
+2240#1 DESC:def What is "bloodhound" ?
+2240#2 DESC:def "खोजी कुत्ता 'क्या है?
+2241#1 NUM:count How many miles is it from London , England to Plymouth , England ?
+2241#2 NUM:count यह प्लायमाउथ, इंग्लैंड के लंदन, इंग्लैंड से कितने मील की दूरी पर है?
+2242#1 ENTY:animal What was Paul Bunyan's ox's name ?
+2242#2 ENTY:animal पॉल Bunyan का बैल का नाम क्या था?
+2243#1 ENTY:other What trophy is awarded to the winners of the Super Bowl ?
+2243#2 ENTY:other क्या ट्रॉफी सुपर बाउल के विजेताओं को सम्मानित किया है?
+2244#1 LOC:other Where is Dartmouth College ?
+2244#2 LOC:other डार्टमाउथ कॉलेज कहां है?
+2245#1 HUM:ind What well-known TV talk show host was a lay preacher by the time he was seventeen ?
+2245#2 HUM:ind वह सत्रह था समय से एक जब्री उपदेशक क्या प्रसिद्ध टीवी टॉक शो होस्ट था?
+2246#1 DESC:desc What are the environmental influences on plant genetics ?
+2246#2 DESC:desc संयंत्र आनुवंशिकी पर पर्यावरणीय प्रभावों क्या हैं?
+2247#1 HUM:ind What one of the Backstreet Boys are single ?
+2247#2 HUM:ind बैकस्ट्रीट बॉयज की क्या एक ही कर रहे हैं?
+2248#1 NUM:count How many people was Randy Craft convicted of murdering ?
+2248#2 NUM:count कितने लोग रैंडी क्राफ्ट की हत्या का दोषी पाया गया था?
+2249#1 LOC:other What river flows through Vienna , Budapest and Belgrade ?
+2249#2 LOC:other क्या नदी वियना, बुडापेस्ट और बेलग्रेड के माध्यम से बहती है?
+2250#1 HUM:ind What Civil War general wreaked havoc on the south by marching through Georgia on his way to the sea ?
+2250#2 HUM:ind क्या नागरिक युद्ध सामान्य समुद्र के रास्ते पर जॉर्जिया के माध्यम से अग्रसर द्वारा दक्षिण पर कहर टूट पड़ा?
+2251#1 HUM:ind Who was the conservationist who served as spokesperson for Post Grape Nuts ?
+2251#2 HUM:ind पोस्ट अंगूर पागल के प्रवक्ता के रूप में काम करने वाले संरक्षणवादी कौन था?
+2252#1 DESC:def What is carpal tunnel syndrome ?
+2252#2 DESC:def कार्पल टनल सिंड्रोम क्या है ?
+2253#1 ABBR:exp What does IOC stand for ?
+2253#2 ABBR:exp आईओसी क्या अर्थ होता है?
+2254#1 LOC:other Which area produces the least acidic coffee ?
+2254#2 LOC:other कौन सा क्षेत्र कम से कम अम्लीय कॉफी का उत्पादन?
+2255#1 DESC:reason Why is it called "hamburger" if there is no ham in it ?
+2255#2 DESC:reason इसमें कोई हैम अगर वहाँ ऐसा क्यों है कि "हैमबर्गर" कहा जाता है?
+2256#1 ENTY:symbol What is the trademark of a Washington Redskin's fan ?
+2256#2 ENTY:symbol एक वॉशिंगटन रेड इंडियन के प्रशंसक का ट्रेडमार्क क्या है?
+2257#1 DESC:reason Why does cotton get caught in belly buttons ?
+2257#2 DESC:reason क्यों कपास पेट बटन में पकड़े करता है?
+2258#1 HUM:ind What suburban housewife and mother of three wrote The Feminine Mystique ?
+2258#2 HUM:ind क्या उपनगरीय गृहिणी और तीन बच्चों की मां स्त्रैण मिस्टिक लिखा था?
+2259#1 DESC:manner How does a glacier form ?
+2259#2 DESC:manner एक ग्लेशियर फॉर्म को कैसे करता है?
+2260#1 NUM:date On which date is the Ukrainians' Christmas ?
+2260#2 NUM:date किस तारीख को यूक्रेनियन 'क्रिसमस है?
+2261#1 LOC:city What is the largest city in the world ?
+2261#2 LOC:city दुनिया में सबसे बड़ा शहर क्या है?
+2262#1 ENTY:sport What famed tennis tournament's men's singles title was Fred Perry the last Englishman to win ?
+2262#2 ENTY:sport फ्रेड पेरी जीतने के लिए आखिरी अंग्रेज प्रसिद्ध क्या टेनिस टूर्नामेंट के पुरुष एकल खिताब था?
+2263#1 HUM:desc Who was Whitcomb Judson ?
+2263#2 HUM:desc Whitcomb जडसन कौन था?
+2264#1 NUM:weight What is the average weight for a man ?
+2264#2 NUM:weight एक आदमी के लिए औसत वजन क्या है?
+2265#1 LOC:other What are Britain's two longest rivers ?
+2265#2 LOC:other ब्रिटेन के दो सबसे लंबी नदियों में क्या कर रहे हैं?
+2266#1 LOC:country What country covers 8 , 600 , 387 square miles ?
+2266#2 LOC:country क्या देश 8, 600, 387 वर्ग मील शामिल किया गया?
+2267#1 ENTY:substance What fuel do airplanes use ?
+2267#2 ENTY:substance हवाई जहाज क्या ईंधन इस्तेमाल करते हैं?
+2268#1 HUM:ind Name a canine cartoon character other than Huckleberry Hound to have a voice by Daws Butler .
+2268#2 HUM:ind Daws बटलर ने एक आवाज है Huckleberry हाउंड के अलावा किसी अन्य कुत्ते कार्टून चरित्र का नाम।
+2269#1 DESC:def What does palindromic mean ?
+2269#2 DESC:def मुरजबंध संबंधी क्या मतलब है?
+2270#1 DESC:desc What baseball expression came from the nautical term for ships sailing between the Atlantic and Pacific before the Panama Canal ?
+2270#2 DESC:desc क्या बेसबॉल अभिव्यक्ति पनामा नहर से पहले अटलांटिक और प्रशांत के बीच नौकायन जहाजों के लिए समुद्री शब्द से आया?
+2271#1 LOC:state In which state are the Mark Twain National Forests ?
+2271#2 LOC:state किस राज्य में मार्क ट्वेन राष्ट्रीय वन हैं?
+2272#1 LOC:other What is the oldest ethnological museum in the world ?
+2272#2 LOC:other दुनिया में सबसे पुराना ethnological संग्रहालय क्या है?
+2273#1 DESC:manner How does Belle describe her life in Beauty and the Beast ?
+2273#2 DESC:manner कैसे बेले ब्यूटी एंड द बीस्ट में उसके जीवन का वर्णन करता है?
+2274#1 ENTY:color What color flies closest to the staff on Belgium's flag ?
+2274#2 ENTY:color क्या रंग बेल्जियम के झंडे पर सबसे करीब कर्मचारियों के लिए मक्खियों?
+2275#1 ENTY:other What is the smallest thing seen under the most powerful microscope , and how big is it ?
+2275#2 ENTY:other सबसे शक्तिशाली माइक्रोस्कोप के नीचे देखा छोटी से छोटी बात क्या है, और यह कितना बड़ा है?
+2276#1 ENTY:body Which ear can most people hear better with ?
+2276#2 ENTY:body कौन सा कान ज्यादातर लोगों के साथ बेहतर सुन सकते हैं?
+2277#1 LOC:other Where have the most dinosaur remains been found ?
+2277#2 LOC:other सबसे डायनासोर कहाँ पाया गया रहता है?
+2278#1 ENTY:letter What letter appears on the cold-water tap in Spain ?
+2278#2 ENTY:letter क्या पत्र स्पेन में ठंडे पानी के नल पर दिखाई देता है?
+2279#1 ENTY:termeq How do you say "Grandma" in Irish ?
+2279#2 ENTY:termeq आप कैसे आयरिश में "दादी" कहते हैं?
+2280#1 HUM:ind Who shoplifts ?
+2280#2 HUM:ind कौन shoplifts?
+2281#1 ENTY:substance What is a camel hair brush actually made out of ?
+2281#2 ENTY:substance एक ऊंट बाल ब्रश वास्तव में से बाहर क्या किया जाता है?
+2282#1 DESC:def What is the Socratic method ?
+2282#2 DESC:def सुकराती विधि क्या है?
+2283#1 LOC:other What island has a park called The Battery at is southern tip ?
+2283#2 LOC:other क्या द्वीप दक्षिणी सिरे है पर बैटरी नामक एक पार्क है?
+2284#1 DESC:def What is hypertext ?
+2284#2 DESC:def हाइपरटेक्स्ट क्या है?
+2285#1 NUM:money How much is Clara Peller being paid by Wendy's to say "Where's the beef" ?
+2285#2 NUM:money कितना क्लारा Peller "कहाँ बीफ है" कहने के लिए वेंडी द्वारा भुगतान किया जा रहा है?
+2286#1 DESC:desc What do I need to learn to design web pages ?
+2286#2 DESC:desc क्या मैं वेब पेज डिजाइन करने के लिए सीखने की जरूरत है?
+2287#1 NUM:date What was the date of CNN's first broadcast ?
+2287#2 NUM:date सीएनएन की पहली प्रसारण तिथि क्या था?
+2288#1 DESC:reason Shea and Gould closed their Los Angeles office for what reason ?
+2288#2 DESC:reason एक प्रकार का वृक्ष और गोल्ड क्या कारण के लिए अपने लॉस एंजिल्स कार्यालय बंद कर दिया?
+2289#1 ENTY:cremat What Peter Blatty novel recounts the horrors of Regan MacNeil's possession by the devil ?
+2289#2 ENTY:cremat क्या पीटर Blatty उपन्यास शैतान द्वारा रेगन मेकनेल के कब्जे की भयावहता बताता है?
+2290#1 NUM:other What is the all-time stock high of Apple Computer , and where can I find this information ?
+2290#2 NUM:other क्या एप्पल कंप्यूटर के सभी समय स्टॉक अधिक है, और जहां मैं इस जानकारी मिल सकती है?
+2291#1 DESC:reason Why are lions called "King of the Jungle" ?
+2291#2 DESC:reason क्यों लायंस "जंगल का राजा" कहा जाता है?
+2292#1 ENTY:food What non-alcoholic syrup is made from pomegranate juice ?
+2292#2 ENTY:food क्या गैर-मादक सिरप अनार का रस से बनाया गया है?
+2293#1 ENTY:other What meter was invented by C.C. Magee in 1935 ?
+2293#2 ENTY:other क्या मीटर सी.सी. द्वारा आविष्कार किया गया था 1935 में मैगी?
+2294#1 NUM:date When was Calypso music invented ?
+2294#2 NUM:date जब केलिप्सो संगीत का आविष्कार किया था?
+2295#1 LOC:other What Caribbean island is northeast of Trinidad ?
+2295#2 LOC:other क्या कैरेबियन द्वीप के उत्तर पूर्व त्रिनिदाद की है?
+2296#1 ENTY:cremat What Michelangelo sculpture is in Saint Peter's Cathedral , Basilica , ?
+2296#2 ENTY:cremat क्या माइकल एंजेलो मूर्तिकला, सेंट पीटर कैथेड्रल, बेसिलिका में है?
+2297#1 DESC:desc What's the difference and advantages of selecting a Super VHS VCR over plain VHS model ?
+2297#2 DESC:desc सादे वीएचएस मॉडल पर एक सुपर वीएचएस वीसीआर के चयन का अंतर है और क्या लाभ है?
+2298#1 NUM:period How old is Bernadette Peters ?
+2298#2 NUM:period बर्नाडेट पीटर्स कितनी पुरानी है?
+2299#1 LOC:other Where can I find book reviews of "Turbulent Souls" ?
+2299#2 LOC:other मैं कहां से "अशांत आत्माओं" की पुस्तक समीक्षा पा सकते हैं?
+2300#1 NUM:date What is Dick Clark's birthday ?
+2300#2 NUM:date डिक क्लार्क का जन्मदिन क्या है?

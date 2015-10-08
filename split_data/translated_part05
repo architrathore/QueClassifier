@@ -1,0 +1,200 @@
+501#1 NUM:period How long does it take for Spider-Man's web to evaporate ?
+501#2 NUM:period स्पाइडर मैन की वेब लुप्त हो जाना करने के लिए कितना समय लगेगा?
+502#1 HUM:ind Who was Randy Steven Craft's lawyer ?
+502#2 HUM:ind रैंडी स्टीवन क्राफ्ट के वकील कौन था?
+503#1 LOC:other What was known as the Spice Island ?
+503#2 LOC:other क्या स्पाइस द्वीप के रूप में जाना जाता था?
+504#1 HUM:ind Who was the first host of Person to Person ?
+504#2 HUM:ind हर व्यक्ति में से पहले मेजबान कौन था?
+505#1 HUM:ind Name the Ranger who was always after Yogi Bear .
+505#2 HUM:ind योगी भालू के बाद हमेशा के लिए किया गया था जो रेंजर नाम दें।
+506#1 ENTY:other What deck of cards includes the Wheel of Fortune , the Lovers , and Death ?
+506#2 ENTY:other ताश के पत्तों की क्या डेक फॉर्च्यून, प्रेमी, और मौत का पहिया शामिल हैं?
+507#1 ENTY:other What does the Statue of Liberty wear on her feet ?
+507#2 ENTY:other स्वतंत्रता की प्रतिमा उसके पैरों पर क्या पहनना है?
+508#1 HUM:ind Who is the superstar in rent-a-cars ?
+508#2 HUM:ind किराए पर कारों में सुपरस्टार कौन है?
+509#1 LOC:city McCarren Airport is located in what city ?
+509#2 LOC:city McCarren हवाई क्या शहर में स्थित है?
+510#1 ENTY:other What household facility contains a float ball , ballcock , and overflow tube ?
+510#2 ENTY:other क्या घरेलू सुविधा एक नाव गेंद, ballcock, और अतिप्रवाह ट्यूब शामिल है?
+511#1 ENTY:animal What was the name of Betty Boop's dog ?
+511#2 ENTY:animal बेट्टी boop के कुत्ते का नाम क्या था?
+512#1 NUM:perc What fraction of a beaver's life is spent swimming ?
+512#2 NUM:perc एक ऊदबिलाव के जीवन का कितना भाग तैराकी खर्च किया जाता है?
+513#1 ENTY:substance What was the Bridge of San Luis Rey made of ?
+513#2 ENTY:substance सैन लुइस रे के पुल क्या का बनाया गया था?
+514#1 DESC:desc What do economists do ?
+514#2 DESC:desc अर्थशास्त्रियों का क्या करते हैं?
+515#1 LOC:country What country has the largest sheep population ?
+515#2 LOC:country क्या देश के सबसे बड़े भेड़ आबादी है?
+516#1 DESC:desc What do I need to do to take my dog with me to live in Dominica , West Indies for a year ?
+516#2 DESC:desc क्या मैं एक वर्ष के लिए, डोमिनिका में वेस्टइंडीज के रहने के लिए मेरे साथ मेरे कुत्ते को लेने के लिए क्या करने की जरूरत है?
+517#1 LOC:country What country is the world's largest importer of cognac ?
+517#2 LOC:country शराब की दुनिया का सबसे बड़ा आयातक देश क्या है?
+518#1 NUM:count How many years is Johnnie Walker Black Label aged ?
+518#2 NUM:count जॉनी वॉकर ब्लैक लेबल कितने वर्ष आयु वर्ग के है?
+519#1 ABBR:exp What does SIDS stand for ?
+519#2 ABBR:exp एसआईडीएस क्या अर्थ होता है?
+520#1 ENTY:other What is Grenada's main commodity export ?
+520#2 ENTY:other ग्रेनेडा के मुख्य वस्तुओं के निर्यात क्या है?
+521#1 NUM:money How much would a black-and-white 1-cent stamp be worth , Thomas Jefferson on it , ?
+521#2 NUM:money कितना एक काले और सफेद 1-प्रतिशत टिकट के लायक हो जाएगा, थॉमस जेफरसन, उस पर?
+522#1 DESC:reason What makes a clitoris sensitive ?
+522#2 DESC:reason क्या एक भगशेफ संवेदनशील बनाता है?
+523#1 LOC:country What country has the most time zones , with 11 ?
+523#2 LOC:country क्या देश में 11 के साथ सबसे अधिक समय क्षेत्रों है?
+524#1 ENTY:other What "magic" does Mandrake employ ?
+524#2 ENTY:other क्या "जादू" विषैला पौधा रोजगार करता है?
+525#1 HUM:ind Who is the president of Stanford University ?
+525#2 HUM:ind स्टैनफोर्ड विश्वविद्यालय के अध्यक्ष कौन है?
+526#1 HUM:ind Whose first presidential order was : "Let's get this goddamn thing airborne" ?
+526#2 HUM:ind जिसका पहला राष्ट्रपति पद के आदेश था: "हम इस धत् तेरे की बात यह है कि हवाई मिलता है"?
+527#1 ENTY:other What was introduced commercially by Bayer A.G. of Leverkusen , in 1899 ?
+527#2 ENTY:other 1899 में, लेवरकुसेन के बायर एजी द्वारा वाणिज्यिक क्या पेश किया गया था?
+528#1 LOC:city What city is Logan Airport in ?
+528#2 LOC:city क्या शहर लोगान हवाई अड्डा में है?
+529#1 DESC:def What is a nanometer ?
+529#2 DESC:def एक नैनोमीटर क्या है?
+530#1 NUM:count How many innings are there in a regulation softball game ?
+530#2 NUM:count एक विनियमन सॉफ्टबॉल खेल में कितने पारी देखते हैं?
+531#1 NUM:date When did CNN go on the air ?
+531#2 NUM:date जब सीएनएन हवा पर चले गए?
+532#1 LOC:city What is the largest city on the Great Lakes ?
+532#2 LOC:city ग्रेट झील पर सबसे बड़ा शहर क्या है?
+533#1 NUM:code What is the telephone number for the University of Kentucky ?
+533#2 NUM:code केंटकी के विश्वविद्यालय के लिए टेलीफोन नंबर क्या है?
+534#1 HUM:ind Who invented baseball ?
+534#2 HUM:ind कौन बेसबॉल का आविष्कार किया?
+535#1 NUM:count How many wives did Brigham Young have ?
+535#2 NUM:count ब्रिघम यंग कितने पत्नियों किया है?
+536#1 ENTY:product What product on the market is good for hiding facial scars ?
+536#2 ENTY:product बाजार पर क्या उत्पाद चेहरे का निशान छुपा के लिए अच्छा है?
+537#1 NUM:dist How long is the Coney Island boardwalk ?
+537#2 NUM:dist ख़रगोश द्वीप बोर्डवॉक कब तक है?
+538#1 LOC:city What city gained renown for its pea-soup fogs ?
+538#2 LOC:city क्या यह शहर अपने मटर के सूप fogs के लिए यश प्राप्त?
+539#1 DESC:def What does "Janelle" mean ?
+539#2 DESC:def "Janelle" क्या मतलब है?
+540#1 DESC:manner How do I get another city's newspaper ?
+540#2 DESC:manner कैसे मैं एक और शहर के समाचार पत्र मिलता है?
+541#1 ENTY:cremat Name a movie about the Sioux Indians starring Kevin Costner .
+541#2 ENTY:cremat केविन कोस्टनर अभिनीत सियु भारतीयों के बारे में एक फिल्म का नाम बताएं।
+542#1 HUM:ind Who was shot in the back during a Poker game in Deadwood , the Dakota territory ?
+542#2 HUM:ind डकोटा के इलाके, Deadwood में एक पोकर खेल के दौरान पीठ में गोली मार दी थी कौन?
+543#1 DESC:desc What are the distinct physical characterstics of the Arabian horse ?
+543#2 DESC:desc अरबी घोड़ा के विशिष्ट शारीरिक characterstics क्या हैं?
+544#1 ENTY:dismed What is a fear of thunder ?
+544#2 ENTY:dismed गड़गड़ाहट की एक भय क्या है?
+545#1 ENTY:animal What animal has killed the most people ?
+545#2 ENTY:animal क्या पशु ज्यादातर लोगों को मार डाला है?
+546#1 NUM:count How many colleges are in Wyoming ?
+546#2 NUM:count व्योमिंग में कितने कॉलेजों कर रहे हैं?
+547#1 LOC:city What Russian seaport has a name meaning "Lord of the East" ?
+547#2 LOC:city रूस क्या बंदरगाह "पूर्व के भगवान" जिसका अर्थ है एक नाम है?
+548#1 LOC:other Where can stocks be traded on-line ?
+548#2 LOC:other ऐसे शेयरों ऑनलाइन कारोबार किया जा सकता है?
+549#1 NUM:date When was the Battle of Hastings ?
+549#2 NUM:date जब हेस्टिंग्स की लड़ाई थी?
+550#1 ENTY:other What kind of file has the extension .dbf ?
+550#2 ENTY:other फाइल किस तरह का विस्तार .dbf है?
+551#1 NUM:date When did Muhammad live ?
+551#2 NUM:date जब मुहम्मद रहते थे?
+552#1 ENTY:termeq What then-derogatory term was applied to the painters Monet , Sisley , Pissarro , Renoir and Degas ?
+552#2 ENTY:termeq क्या तत्कालीन अपमानजनक शब्द चित्रकारों मोनेट, सिसली, पिस्सारो, Renoir और देगास करने के लिए लागू किया गया था?
+553#1 DESC:def What is a wop ?
+553#2 DESC:def एक Wop क्या है?
+554#1 DESC:desc Where do rocks come from ?
+554#2 DESC:desc चट्टानों कहां से आता है?
+555#1 DESC:manner How do I stop background noise in a car stereo ?
+555#2 DESC:manner मैं कैसे एक कार स्टीरियो में पृष्ठभूमि शोर बंद करते हैं?
+556#1 LOC:mount Where do people mountain climb in Nepal ?
+556#2 LOC:mount जहां नेपाल में लोगों को पहाड़ पर चढ़ने करते हैं?
+557#1 HUM:gr What is the best college in the country ?
+557#2 HUM:gr देश में सबसे अच्छा कॉलेज क्या है?
+558#1 DESC:def What is viscosity ?
+558#2 DESC:def चिपचिपाहट क्या है?
+559#1 ENTY:cremat What was the name of the sitcom that Alyssa Milano starred in with Tony Danza ?
+559#2 ENTY:cremat एलिसा मिलानो टोनी Danza साथ में अभिनय किया कि सिटकॉम का नाम क्या था?
+560#1 LOC:country What are the Nordic nations ?
+560#2 LOC:country नॉर्डिक देशों में क्या कर रहे हैं?
+561#1 LOC:other Where on the Internet can I get information about the Fifth Amendment on the American Bill of Rights ?
+561#2 LOC:other मैं कहां से विशेषाधिकार के अमेरिकी विधेयक पर पांचवें संशोधन के बारे में जानकारी प्राप्त कर सकते हैं इंटरनेट पर?
+562#1 LOC:state What U.S. state borders Illinois to the north ?
+562#2 LOC:state क्या अमरीकी राज्य उत्तर में इलिनोइस सीमाओं?
+563#1 ENTY:cremat Name a film in which Jude Law acted .
+563#2 ENTY:cremat जूड लॉ में काम किया, जिसमें एक फिल्म का नाम।
+564#1 NUM:temp What is the temperature for baking Peachy Oat Muffins ?
+564#2 NUM:temp आड़ू जई Muffins पाक के लिए तापमान क्या है?
+565#1 ENTY:dismed What is a fear of bees ?
+565#2 ENTY:dismed मधुमक्खियों का एक भय क्या है?
+566#1 ENTY:cremat What Vladimir Nabokov novel features Professor Humbert in love with a 12-year-old girl ?
+566#2 ENTY:cremat क्या व्लादिमीर नबोकोव उपन्यास एक 12 वर्षीय लड़की के साथ प्यार में प्रोफेसर Humbert सुविधाएँ?
+567#1 DESC:def What is a green bog ?
+567#2 DESC:def एक हरे रंग की दलदल क्या है?
+568#1 LOC:other Where did the myth of Santa Claus originate ?
+568#2 LOC:other जहां सांता क्लॉस के मिथक को आरंभ किया था?
+569#1 ENTY:other What does a chairbound basophobic fear ?
+569#2 ENTY:other एक chairbound basophobic डर क्या करता है?
+570#1 LOC:city What city is served by Logan International Airport ?
+570#2 LOC:city क्या शहर लोगान अंतरराष्ट्रीय हवाई अड्डे से पेश किया जाता है?
+571#1 HUM:ind What wrestling star became "The Incredible Hulk" ?
+571#2 HUM:ind क्या कुश्ती स्टार 'इनक्रेडिबल हल्क' बन गया?
+572#1 LOC:other What attracts tourists to Reims ?
+572#2 LOC:other क्या रैम्स के लिए पर्यटकों को आकर्षित करता है?
+573#1 ENTY:sport What game do Steve McQueen and Edward G. Robinson play in The Cincinnati Kid ?
+573#2 ENTY:sport स्टीव मैक्वीन और एडवर्ड जी रॉबिन्सन सिनसिनाटी बच्चे में क्या खेल खेलते हैं?
+574#1 ENTY:other What fastener did Whitcomb Judson patent in 1893 ?
+574#2 ENTY:other Whitcomb जडसन 1893 में क्या बांधनेवाला पदार्थ पेटेंट किया?
+575#1 DESC:def What's an auberge in France ?
+575#2 DESC:def फ्रांस में एक Auberge क्या है?
+576#1 HUM:ind Who was the star of the 1965 Broadway hit Golden Boy ?
+576#2 HUM:ind 1965 ब्रॉडवे के स्टार गोल्डन ब्वॉय मारा कौन था?
+577#1 LOC:other Where is Procter & Gamble based in the U.S. ?
+577#2 LOC:other अमेरिका में प्रोक्टर एंड गैंबल आधारित है कहाँ?
+578#1 HUM:gr What army was founded by William Booth and his wife Catherine ?
+578#2 HUM:gr क्या सेना विलियम बूथ और उनकी पत्नी कैथरीन द्वारा स्थापित किया गया था?
+579#1 ENTY:substance What does ribavirin consist of ?
+579#2 ENTY:substance रीबावायरिन क्या मिलकर बनता है?
+580#1 ENTY:food Name the soft drink that is "number one in the sun ."
+580#2 ENTY:food है कि शीतल पेय नाम "धूप में नंबर एक है।"
+581#1 LOC:other What is the web address of the list of e-mail addresses of members of the House of Representatives ?
+581#2 LOC:other प्रतिनिधि सभा के सदस्यों के ई-मेल पतों की सूची का वेब पता क्या है?
+582#1 HUM:ind What was her real name ?
+582#2 HUM:ind उसका असली नाम क्या था?
+583#1 DESC:reason Why are the ears your center of balance ?
+583#2 DESC:reason क्यों कान संतुलन के अपने केंद्र रहे हैं?
+584#1 HUM:ind Who invented the toothbrush ?
+584#2 HUM:ind कौन टूथब्रश का आविष्कार किया?
+585#1 ENTY:cremat What was the name of that popular song the Creeps sang ?
+585#2 ENTY:cremat कमीनों गाया है कि लोकप्रिय गीत का नाम क्या था?
+586#1 LOC:other Where is the Abominable Snowman said to wander ?
+586#2 LOC:other कहाँ घृणित हिममानव भटकने के लिए कहा जाता है?
+587#1 ENTY:dismed What is a fear of being alone ?
+587#2 ENTY:dismed अकेले होने का एक डर क्या है?
+588#1 NUM:count How many dots make up the symbol for "because" ?
+588#2 NUM:count कितने डॉट्स 'क्योंकि' के लिए प्रतीक बना?
+589#1 ENTY:food What do you get by adding Lactobacillus bulgaricus to milk ?
+589#2 ENTY:food लैक्टोबैसिलस bulgaricus दूध जोड़कर आप क्या मिलता है?
+590#1 ABBR:exp When reading classified ads , what does EENTY : other stand for ?
+590#2 ABBR:exp क्लासीफाइड पढ़ना, EENTY क्या करता है: दूसरे के लिए खड़े हैं?
+591#1 NUM:count How many hearts does an octopus have ?
+591#2 NUM:count एक ऑक्टोपस कितने दिलों है?
+592#1 ENTY:plant What plant has the largest seed ?
+592#2 ENTY:plant क्या संयंत्र सबसे बड़ा बीज है?
+593#1 LOC:country What was the only country you were allowed to drive into Israel from in 1979 ?
+593#2 LOC:country आप 1979 में से इसराइल में ड्राइव करने के लिए अनुमति दी गई थी केवल देश क्या था?
+594#1 ENTY:other What's approaching when a cyclist shouts : "Oil" ?
+594#2 ENTY:other "तेल": एक साइकिल चालक चीखती, तब क्या आ रहा है?
+595#1 HUM:ind What baseball star turned down a $1 , 000-a-year contract because he felt he had n't earned it ?
+595#2 HUM:ind उन्होंने कहा कि वह यह नहीं कमाया था क्योंकि उन्हें लगा क्या बेसबॉल स्टार एक $ 1, 000-एक साल के अनुबंध को ठुकरा दिया?
+596#1 ENTY:sport What kind of sport is often associated with hooligans ?
+596#2 ENTY:sport खेल किस तरह का अक्सर गुंडों के साथ जुड़ा हुआ है?
+597#1 HUM:ind What video game hero do some of his fans call Chomper ?
+597#2 HUM:ind क्या वीडियो गेम नायक अपने प्रशंसकों में से कुछ Chomper कहते हैं?
+598#1 NUM:count How many holes are there in a tenpin bowling ball ?
+598#2 NUM:count एक tenpin गेंदबाजी गेंद में कितने छेद कर रहे हैं?
+599#1 ENTY:word What is the longest word in the English language ?
+599#2 ENTY:word अंग्रेजी भाषा में सबसे लंबा शब्द क्या है ?
+600#1 LOC:other In What city or state do the most gay men live in ?
+600#2 LOC:other क्या शहर या राज्य में सबसे अधिक समलैंगिक पुरुषों में रहते हैं?

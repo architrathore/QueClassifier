@@ -1,0 +1,200 @@
+401#1 ENTY:food What crop failure caused the Irish Famine ?
+401#2 ENTY:food क्या फसल खराब आयरिश अकाल की वजह से?
+402#1 LOC:city What South Korean city is served by Kimpo International Airport ?
+402#2 LOC:city दक्षिण कोरियाई क्या शहर Kimpo अंतरराष्ट्रीय हवाई अड्डे से पेश किया जाता है?
+403#1 NUM:count How many types of dogs' tails are there - three
+403#2 NUM:count कितने प्रकार के 'कुत्तों की पूंछ के देखते हैं - तीन
+404#1 ENTY:cremat What is the longest-running television series ?
+404#2 ENTY:cremat सबसे लंबे समय तक चलने वाली टेलीविजन श्रृंखला क्या है?
+405#1 ENTY:animal What predators exist on Antarctica ?
+405#2 ENTY:animal अंटार्कटिका पर क्या शिकारियों मौजूद हैं?
+406#1 DESC:desc What is the difference between a generator and an alternator ?
+406#2 DESC:desc एक जनरेटर और एक अल्टरनेटर के बीच क्या अंतर है?
+407#1 DESC:manner How is energy created ?
+407#2 DESC:manner ऊर्जा कैसे बनाया जाता है?
+408#1 ENTY:food What beer advertised that it had "three rings" ?
+408#2 ENTY:food क्या बीयर यह "तीन छल्ले" था कि विज्ञापित?
+409#1 NUM:other What is the quantity of American soldiers still unaccounted for from the Vietnam war ?
+409#2 NUM:other वियतनाम युद्ध से करने के लिए अभी भी बेहिसाब अमेरिकी सैनिकों की मात्रा क्या है?
+410#1 ENTY:techmeth What golfing accessory was patented by George Grant on December 12
+410#2 ENTY:techmeth क्या गोल्फ गौण 12 दिसंबर को जॉर्ज अनुदान द्वारा पेटेंट कराया गया था
+411#1 ENTY:other What are the different types of plastic ?
+411#2 ENTY:other प्लास्टिक के विभिन्न प्रकार क्या हैं?
+412#1 DESC:manner How is it correct to say ` qigong' ?
+412#2 DESC:manner यह कैसे `Qigong 'कहने के लिए सही है?
+413#1 LOC:mount What was the highest mountain on earth before Mount Everest was discovered ?
+413#2 LOC:mount माउंट एवरेस्ट की खोज की थी पहले पृथ्वी पर सबसे ऊंचा पर्वत क्या था?
+414#1 LOC:other Where was the Ligurian Republic , 1797-185 , ?
+414#2 LOC:other कहां, लिगुरियन गणराज्य, 1797-185 था?
+415#1 LOC:country What country's people are the top television watchers ?
+415#2 LOC:country शीर्ष टेलीविजन पर नजर रखने वालों का क्या देश के लोग हैं?
+416#1 NUM:date When was the women's suffrage amendment ratified ?
+416#2 NUM:date जब महिलाओं के मताधिकार संशोधन का अनुमोदन किया गया था?
+417#1 HUM:gr What Polynesian people inhabit New Zealand ?
+417#2 HUM:gr क्या Polynesian लोगों न्यूजीलैंड में निवास?
+418#1 ENTY:cremat What movie tour of the Roman empire features the admonition : "Row well and live" ?
+418#2 ENTY:cremat "अच्छी तरह से पंक्ति और रहते हैं": रोमन साम्राज्य किस फिल्म के दौरे चेतावनी सुविधाएँ?
+419#1 LOC:city What Nevada center has been dubbed The Biggest Little City in the World ?
+419#2 LOC:city क्या नेवादा केंद्र दुनिया में सबसे बड़ा थोड़ा शहर करार दिया गया है?
+420#1 HUM:ind What President lived at 219 North Delaware Street , Independence , Missouri ?
+420#2 HUM:ind क्या राष्ट्रपति, स्वतंत्रता, मिसौरी 219 उत्तर डेलावेयर स्ट्रीट में रहते थे?
+421#1 DESC:reason Give a reason for American Indians oftentimes dropping out of school .
+421#2 DESC:reason अमेरिकी भारतीयों स्कूल से बाहर छोड़ने के बार बार के लिए एक कारण दे।
+422#1 LOC:other Where must a soccer goalie stand to be permitted to handle the ball ?
+422#2 LOC:other जहां एक फुटबॉल गोलकीपर गेंद को संभालने के लिए अनुमति दी जा खड़ा होगा?
+423#1 DESC:desc What is the difference between classical conditioning and operant conditioning ?
+423#2 DESC:desc शास्त्रीय कंडीशनिंग और कंडीशनिंग के बीच क्या अंतर है?
+424#1 LOC:state In what U.S. state was the first woman governor elected ?
+424#2 LOC:state क्या अमेरिकी राज्य में पहली महिला गवर्नर चुने गए थे?
+425#1 DESC:desc What are some interesting facts and information about dogsledding ?
+425#2 DESC:desc Dogsledding के बारे में कुछ रोचक तथ्य और जानकारी क्या हैं?
+426#1 NUM:date What year did Hitler die ?
+426#2 NUM:date हिटलर क्या वर्ष मर किया था?
+427#1 HUM:ind What famous model was married to Billy Joel ?
+427#2 HUM:ind क्या मशहूर मॉडल बिली जोएल से शादी की थी?
+428#1 ENTY:animal What kind of animal is Babar ?
+428#2 ENTY:animal बाबर जानवर किस तरह का है?
+429#1 DESC:reason What is Jane Goodall known for ?
+429#2 DESC:reason जेन गुडाल क्या के लिए जाना जाता है?
+430#1 ENTY:other What killed Bob Marley ?
+430#2 ENTY:other क्या बॉब मार्ले को मार डाला?
+431#1 NUM:money How much money are Dumbo's ears insured for ?
+431#2 NUM:money कितने पैसे डुम्बो के कान के लिए बीमा रहे हैं?
+432#1 HUM:ind Who danced into stardom with Fred Astaire in 1941's You'll Never Get Rich ?
+432#2 HUM:ind 1941 के तुम अमीर नहीं मिलेगा में कौन फ्रेड Astaire के साथ स्टार बनने में नृत्य किया था?
+433#1 HUM:desc Who is Stein Eriksen ?
+433#2 HUM:desc स्टीन एरिक्सन कौन है?
+434#1 DESC:def What does the name Billie mean ?
+434#2 DESC:def बिली नाम क्या मतलब है?
+435#1 HUM:ind Who is the fastest swimmer in the world ?
+435#2 HUM:ind दुनिया में सबसे तेजी से तैराक कौन है?
+436#1 LOC:mount What is the highest peak in Africa ?
+436#2 LOC:mount अफ्रीका की सबसे ऊंची चोटी क्या है?
+437#1 LOC:other Where is Procter & Gamble headquartered in the U.S. ?
+437#2 LOC:other प्रोक्टर एंड गैंबल अमेरिका में मुख्यालय है कहाँ?
+438#1 LOC:other What desert has been called The Garden of Allah ?
+438#2 LOC:other क्या रेगिस्तान अल्लाह के गार्डन बुलाया गया है?
+439#1 ENTY:other What do bicornate animals have two of ?
+439#2 ENTY:other Bicornate जानवरों दो के पास क्या है?
+440#1 DESC:reason What function does a community's water tower serve ?
+440#2 DESC:reason एक समुदाय के पानी टॉवर क्या समारोह की सेवा करता है?
+441#1 ENTY:dismed What is a fear of weakness ?
+441#2 ENTY:dismed कमजोरी का भय क्या है?
+442#1 NUM:count How many miles is it to Ohio from North Carolina ?
+442#2 NUM:count यह उत्तरी कैरोलिना से ओहियो के लिए कितने मील की दूरी पर है?
+443#1 NUM:count How much snow equals an inch of rain ?
+443#2 NUM:count कितना बर्फ बारिश की एक इंच के बराबर होती है?
+444#1 ABBR:exp What does G.M.T. stand for ?
+444#2 ABBR:exp क्या G.M.T. करता है अर्थ होना ?
+445#1 DESC:def What does Inuit and Eskimo mean ?
+445#2 DESC:def इनुइट और एस्किमो क्या मतलब है?
+446#1 ENTY:cremat What song served as the closing theme of The Johnny Cash Show ?
+446#2 ENTY:cremat क्या गाना जॉनी कैश शो के समापन के विषय के रूप में कार्य किया?
+447#1 ENTY:sport What field sport did dentist William Beers promote and write a standard book of rules for ?
+447#2 ENTY:sport दंत चिकित्सक विलियम बीयर्स क्या क्षेत्र खेल को बढ़ावा देने के लिए और नियमों का एक मानक किताब लिखने के?
+448#1 DESC:manner How do I tie dye clothes ?
+448#2 DESC:manner मैं कैसे डाई कपड़े टाई हो?
+449#1 NUM:date When does the average teenager first have intercourse ?
+449#2 NUM:date जब औसत किशोरी पहले संभोग के लिए है?
+450#1 DESC:reason Why doesn't www.answers.com have any answers to my questions ?
+450#2 DESC:reason क्यों www.answers.com मेरे सवालों का कोई जवाब नहीं है?
+451#1 HUM:ind What actor's autobiography is titled All My Yesterdays ?
+451#2 HUM:ind क्या अभिनेता की आत्मकथा मेरे सभी कल शीर्षक है?
+452#1 HUM:ind What Russian master spy lived in the U.S. under the name Emil Goldfus ?
+452#2 HUM:ind रूस क्या मास्टर जासूस नाम एमिल Goldfus के तहत अमेरिका में रहते थे?
+453#1 LOC:other Where's the 19th hole on a golf course ?
+453#2 LOC:other जहां एक गोल्फ कोर्स पर 19 वें होल है?
+454#1 DESC:reason What's nature's purpose for tornadoes ?
+454#2 DESC:reason बवंडर के लिए प्रकृति का उद्देश्य क्या है?
+455#1 HUM:ind Who played the original Charlie's Angels ?
+455#2 HUM:ind मूल चार्ली एन्जिल्स कौन खेला?
+456#1 LOC:other Where can I find a person's address from a telephone number ?
+456#2 LOC:other मैं कहां से एक टेलीफोन नंबर से एक व्यक्ति के पते मिल सकती है?
+457#1 ENTY:word What English word comes from the Old French covrefeu , meaning cover fire ?
+457#2 ENTY:word क्या अंग्रेजी शब्द कवर आग, जिसका अर्थ पुरानी फ्रांसीसी covrefeu से आता है?
+458#1 ENTY:instru What musical instrument did Prewitt play in James Jones's From Here to Eternity ?
+458#2 ENTY:instru प्रेवित्त जेम्स जोन्स के यहाँ से अनंत काल के लिए संगीत क्या साधन खेलते हैं?
+459#1 LOC:other Where did Sarge Steel get his metal hand ?
+459#2 LOC:other कहाँ सार्ज स्टील उसकी धातु हाथ मिला?
+460#1 DESC:reason What makes popcorn pop ?
+460#2 DESC:reason क्या पॉपकॉर्न पॉप बनाता है?
+461#1 HUM:ind Who wrote The Night of the Iguana ?
+461#2 HUM:ind कौन गोधा की रात को लिखा था?
+462#1 ENTY:body Where does your hair grow the fastest ?
+462#2 ENTY:body कहाँ अपने बालों को सबसे तेजी से विकसित करता है?
+463#1 LOC:country What country did King Gustav V reign over from 197 to 195 ?
+463#2 LOC:country राजा गुस्ताव वी 197-195 क्या देश पर राज किया?
+464#1 HUM:ind Who painted Mother and Child ?
+464#2 HUM:ind कौन मातृ और बाल चित्रित?
+465#1 NUM:speed What is the speed of the Mississippi River ?
+465#2 NUM:speed मिसिसिपी नदी की गति क्या है?
+466#1 LOC:other In what area of the world was the Six Day War fought ?
+466#2 LOC:other दुनिया के किस क्षेत्र में छह दिन के युद्ध लड़ा गया था?
+467#1 LOC:other What is the brightest star visible from Earth ?
+467#2 LOC:other पृथ्वी से दिखाई प्रतिभाशाली कलाकार क्या है?
+468#1 ENTY:cremat What film marked Robert Redford's directorial debut ?
+468#2 ENTY:cremat क्या फिल्म रॉबर्ट रेडफोर्ड की पहली निर्देशित फिल्म चिह्नित?
+469#1 HUM:ind What was Mao's second name ?
+469#2 HUM:ind माओ का दूसरा नाम क्या था?
+470#1 ENTY:cremat What film or films has Jude Law appeared in ?
+470#2 ENTY:cremat जूड लॉ क्या फिल्म या फिल्मों में दिखाई दिया है?
+471#1 LOC:other Where do hyenas live ?
+471#2 LOC:other कहाँ हाइना रहते हैं?
+472#1 HUM:desc Who is the "Queen Mother" ?
+472#2 HUM:desc "क्वीन मदर" कौन है?
+473#1 ENTY:lang What's the most commonly-spoken language in Belgium ?
+473#2 ENTY:lang बेल्जियम में सबसे अधिक बोली जाने वाली भाषा क्या है?
+474#1 HUM:ind Who has more DNA - a man or a woman ?
+474#2 HUM:ind एक आदमी या एक औरत - कौन अधिक डीएनए है?
+475#1 DESC:def What are Maid-Rites ?
+475#2 DESC:def नौकरानी-संस्कार क्या हैं?
+476#1 ENTY:cremat What children's tale contains the line : "Come , Cinderslut , and hold this skein of wool for me" ?
+476#2 ENTY:cremat ", Cinderslut आओ, और मेरे लिए ऊन के इस अंटी पकड़": क्या बच्चों की कहानी लाइन में शामिल है?
+477#1 HUM:gr What level of government or governmental agency is responsible for dealing with racism ?
+477#2 HUM:gr सरकार या सरकारी एजेंसी का स्तर क्या नस्लवाद से निपटने के लिए जिम्मेदार है?
+478#1 NUM:count How many referees work a soccer game ?
+478#2 NUM:count कितने रेफरी एक फुटबॉल मैच के काम करते हो?
+479#1 ENTY:food What cocktail do you concoct with whisky and sweet vermouth ?
+479#2 ENTY:food आप व्हिस्की और मिठाई वरमाउथ साथ क्या कॉकटेल गढ़ना है?
+480#1 ENTY:termeq How do you say "fresh" in Spanish ?
+480#2 ENTY:termeq आप स्पेनिश में "ताजा" कैसे कहते हैं?
+481#1 DESC:desc What do bee hives do in cranberry bogs ?
+481#2 DESC:desc मधुमक्खी पित्ती क्रेनबेरी दलदल में क्या करते हैं?
+482#1 DESC:reason What caused the Lynmouth floods ?
+482#2 DESC:reason क्या Lynmouth बाढ़ की वजह से?
+483#1 NUM:date When is the Tulip Festival in Michigan ?
+483#2 NUM:date मिशिगन में ट्यूलिप महोत्सव कब है?
+484#1 HUM:ind Who came up with the name , El Nino ?
+484#2 HUM:ind कौन नाम, एल नीनो के साथ आया था?
+485#1 ENTY:cremat What movie did Madilyn Kahn star in with Gene Wilder ?
+485#2 ENTY:cremat Madilyn क्हान जीन वाइल्डर साथ क्या फिल्म में अभिनय किया था?
+486#1 ENTY:other What type of bridge is the Golden Gate Bridge ?
+486#2 ENTY:other गोल्डन गेट ब्रिज पुल का प्रकार क्या है?
+487#1 HUM:ind What dictator has the nickname "El Maximo" ?
+487#2 HUM:ind क्या तानाशाह "अल मैक्सिमो" उपनाम है?
+488#1 HUM:gr What stereo manufacturer is "Slightly ahead of its time" ?
+488#2 HUM:gr क्या स्टीरियो निर्माता "थोड़ा अपने समय से आगे है"?
+489#1 LOC:city What U.S. city is The Queen of the Pacific ?
+489#2 LOC:city प्रशांत की रानी क्या अमेरिकी शहर है?
+490#1 HUM:ind What TV sitcom character had the maiden name Ethel Potter ?
+490#2 HUM:ind क्या टीवी सिटकॉम चरित्र इथेल पॉटर मायके का नाम था?
+491#1 ENTY:food What was the first Lifesaver flavor ?
+491#2 ENTY:food पहले Lifesaver स्वाद क्या था?
+492#1 HUM:ind Who kept the most famous diary in the English language ?
+492#2 HUM:ind जो अंग्रेजी भाषा में सबसे प्रसिद्ध डायरी रखा?
+493#1 LOC:other Where can I find out the top 1 singles ?
+493#2 LOC:other मैं कहां से शीर्ष 1 एकल पता कर सकते हैं?
+494#1 NUM:count How many degrees cooler is the inside of a cucumber than the air outside ?
+494#2 NUM:count बाहर की हवा की तुलना में एक ककड़ी के अंदर कितने डिग्री कूलर है?
+495#1 HUM:ind What Spanish artist painted Crucifixion ?
+495#2 HUM:ind स्पेनिश क्या कलाकार सूली पर चढ़ाया चित्रित?
+496#1 ENTY:cremat What is the Jewish bible called ?
+496#2 ENTY:cremat यहूदी बाइबल क्या कहा जाता है?
+497#1 DESC:reason Why is the grass green ?
+497#2 DESC:reason क्यों हरी घास है?
+498#1 DESC:def What is a firewall ?
+498#2 DESC:def एक फ़ायरवॉल क्या है?
+499#1 HUM:ind What spy novelist served as Moscow correspondent for Reuter and The Times of London ?
+499#2 HUM:ind क्या जासूसी उपन्यासकार लंदन के रॉयटर और समय के लिए मास्को में संवाददाता के रूप में कार्य किया?
+500#1 HUM:gr Which oil company almost picked a word that meant "stalled car" in Japanese as its new international name ?
+500#2 HUM:gr कौन सा तेल कंपनी के लगभग अपने नए अंतरराष्ट्रीय नाम के रूप में जापानी में "ठप कार" का मतलब है कि एक शब्द भी उठाया?
