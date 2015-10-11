@@ -12,8 +12,8 @@
 3#4 DESC:manner Celebrities ke asli naamon ki ek list kaise find kar sakte hai?
 4#1 ENTY:animal What fowl grabs the spotlight after the Chinese Year of the Monkey ?
 4#2 ENTY:animal क्या मुर्गी बंदर के चीनी वर्ष के बाद सुर्खियों पकड़ लेता है?
-4#3 ENTY:animal क्या मुर्गी बंदर के चीनी year के बाद spotlight grab कर लेता है?
-4#4 ENTY:animal Kya murgi bandar ke cheeni year ke baad spotlight grab kar leta hai?
+4#3 ENTY:animal क्या मुर्गी बंदर के Chinese year के बाद spotlight grab कर लेता है?
+4#4 ENTY:animal Kya murgi bandar ke Chinese year ke baad spotlight grab kar leta hai?
 5#1 ABBR:exp What is the full form of .com ?
 5#2 ABBR:exp .com का पूरा नाम क्या है?
 5#3 ABBR:exp .com का full form क्या है?
@@ -127,25 +127,43 @@
 32#3 ENTY:other एक spermologer क्या collect करता है?
 32#4 ENTY:other Ek spermologer kya collect करता है?
 33#1 NUM:count How many points make up a perfect fivepin bowling score ?
-33#2 NUM:count कितने अंक एक आदर्श fivepin गेंदबाजी स्कोर बना?
+33#2 NUM:count कितने अंक एक आदर्श fivepin गेंदबाजी स्कोर बनाते हैं?
+33#3 NUM:count कितने points एक perfect fivepin bowling score बनाते हैं?
+33#4 NUM:count Kinte points ek perfect fivepin bowling score banate hain?
 34#1 HUM:gr Which company that manufactures video-game hardware sells the "super system" ?
-34#2 HUM:gr वीडियो गेम हार्डवेयर विनिर्माण कि कौन सी कंपनी 'सुपर प्रणाली "बेचता है?
+34#2 HUM:gr वीडियो गेम हार्डवेयर बनाने वाली कौन सी कंपनी 'super system' बेचती है?
+34#3 HUM:gr Video game hardware बनाने वाली कौन सी कंपनी 'super system' बेचती है?
+34#4 HUM:gr Video game hardware banane wali kaun si company 'super system' bechti hai?
 35#1 NUM:count How many Community Chest cards are there in Monopoly ?
-35#2 NUM:count एकाधिकार में कितने सामुदायिक छाती कार्ड हैं?
+35#2 NUM:count Monopoly में कितने Community chest कार्ड होते हैं?
+35#3 NUM:count Monopoly में कितने Community chest कार्ड होते हैं?
+35#4 NUM:count Monopoly mein kitne Community chest card hote hai?
 36#1 DESC:desc What do Mormons believe ?
-36#2 DESC:desc Mormons क्या विश्वास करते हो?
+36#2 DESC:desc Mormons क्या विश्वास करते हैं?
+36#3 DESC:desc Mormons क्या विश्वास करते हैं?
+36#4 DESC:desc Mormons kya vishwas karte hai?
 37#1 NUM:date When did the neanderthal man live ?
-37#2 NUM:date जब निएंडरथल आदमी रहते थे?
+37#2 NUM:date निएंडरथल आदमी कब रहते थे?
+37#3 NUM:date Neanderthal आदमी कब रहते थे?
+37#4 NUM:date Neanderthal aadmi kab rehte the?
 38#1 ENTY:religion In what religion was Isis the nature goddess ?
-38#2 ENTY:religion क्या धर्म में आईएसआईएस प्रकृति देवी थी?
+38#2 ENTY:religion किस धर्म में Isis प्रकृति देवी थी?
+38#3 ENTY:religion किस religion में Isis प्रकृति देवी थी?
+38#4 ENTY:religion Kis religion mein Isis prakrati devi thi?
 39#1 LOC:other Where do the adventures of "The Swiss Family Robinson" take place ?
-39#2 LOC:other कहाँ "स्विस परिवार रॉबिन्सन" के रोमांच के लिए जगह नहीं ले सकता हूं?
+39#2 LOC:other "स्विस परिवार रॉबिन्सन" की घटनाऐं कहा हुई थी?
+39#3 LOC:other "Swiss family robinson" के adventures कहा हुए थे?
+39#4 LOC:other "Swiss family robinson" ke adventures kaha huye the?
 40#1 ENTY:animal What relative of the racoon is sometimes known as the cat-bear ?
-40#2 ENTY:animal एक प्रकार का जानवर किस रिश्तेदार कभी कभी बिल्ली-भालू के रूप में जाना जाता है?
+40#2 ENTY:animal रैकून के किस रिश्तेदार को कभी कभी cat-bear के रूप में जाना जाता है?
+40#3 ENTY:animal रैकून के किस relative को कभी कभी cat-bear के रूप में जाना जाता है?
+40#4 ENTY:animal Racoon ke kis relative ko kabhi kabhi cat-bear ke roop mein jaana jata hai?
 41#1 DESC:manner How can I register my website in Yahoo for free ?
-41#2 DESC:manner कैसे मैं याहू में मेरी वेबसाइट मुक्त करने के लिए रजिस्टर कर सकते हैं?
-42#1 ENTY:other What was cash-conscious Colonel Edwin L. Drake the first to drill ?
-42#2 ENTY:other नकदी के प्रति सजग कर्नल एडविन एल ड्रेक ड्रिल करने के पहले क्या था?
+41#2 DESC:manner मैं कैसे याहू में मेरी वेबसाइट मुक्त के लिए रजिस्टर कर सकता हूँ?
+41#3 DESC:manner मैं कैसे Yahoo में मेरी webiste free के लिए register कर सकता हूँ?
+41#4 DESC:manner Mein kaise Yahoo mein meri webiste free ke liye register kar sakta hun?
+42#1 ENTY:other What was Colonel Edwin L. Drake the first to drill ?
+42#2 ENTY:other कर्नल एडविन एल ड्रेक ड्रिल करने के पहले क्या था?
 43#1 NUM:count How many people in the world speak French ?
 43#2 NUM:count कितने लोगों को दुनिया में फ्रेंच बोलते हैं?
 44#1 NUM:count How many inches over six feet is the Venus de Milo ?
