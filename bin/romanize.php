@@ -1,7 +1,7 @@
 <?php
 
-use Sanskrit\Sanscript;
-
+require 'sanscript.php';
 $sanscript = new Sanscript();
-$output = $sanscript->t("घृणित","devanagari","itrans");
-echo $output
+$output = $sanscript->t($argv[1],'devanagari','itrans');
+echo strtolower($output);
+?>
