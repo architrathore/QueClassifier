@@ -1,202 +1,400 @@
 1#1 DESC:manner How did serfdom develop in and then leave Russia ?
 1#2 DESC:manner दासत्व कैसे विकसित हुआ था और फिर रूस से कैसे बाहर आया?
-1#3 DESC:manner dasatva kaise viksit hua tha aur phir roos se kaise baahar aaya
+1#3 DESC:manner Serfdom कैसे develop हुआ था और फिर कैसे Russia से spread हुआ?
 1#4 DESC:manner Serfdom kaise develop hua tha aur phir kaise Russia se spread hua?
 2#1 ENTY:cremat What films featured the character Popeye Doyle ?
-2#2 ENTY:cremat किन फिल्मों मैं पोपाय डोयल चरित्र प किया ?
+2#2 ENTY:cremat किन फिल्मों मैं पोपाय डोयल चरित्र प्रस्तुत किया गया है?
+2#3 ENTY:cremat किन films मैं Popeye Doyle character feature किया गया है?
+2#4 ENTY:cremat Kin films mein Popeye Doyle character feature kiya gaya hai?
 3#1 DESC:manner How can I find a list of celebrities' real names ?
-3#2 DESC:manner मैं कैसे हस्तियों 'असली नामों की एक सूची प्राप्त कर सकते हैं?
+3#2 DESC:manner हस्तियों के असली नामों की एक सूची कैसे प्राप्त कर सकते हैं?
+3#3 DESC:manner Celebrities के असली नामों की एक list कैसे find कर सकते हैं?
+3#4 DESC:manner Celebrities ke asli naamon ki ek list kaise find kar sakte hai?
 4#1 ENTY:animal What fowl grabs the spotlight after the Chinese Year of the Monkey ?
-4#2 ENTY:animal क्या मुर्गी बंदर के चीनी वर्ष के बाद सुर्खियों पकड़ लेता है?
+4#2 ENTY:animal क्या मुर्गी बंदर के चीनी वर्ष के बाद सुर्खियों पकड़ लेती है?
+4#3 ENTY:animal क्या मुर्गी बंदर के Chinese year के बाद spotlight grab कर लेती है?
+4#4 ENTY:animal Kya murgi bandar ke Chinese year ke baad spotlight grab kar leti hai?
 5#1 ABBR:exp What is the full form of .com ?
-5#2 ABBR:exp कॉम का पूरा नाम क्या है?
+5#2 ABBR:exp .com का पूरा नाम क्या है?
+5#3 ABBR:exp .com का full form क्या है?
+5#4 ABBR:exp .com ka full form kya hai?
 6#1 HUM:ind What contemptible scoundrel stole the cork from my lunch ?
-6#2 HUM:ind क्या घृणित बदमाश मेरा दोपहर के भोजन से काग चुरा लिया?
+6#2 HUM:ind किस घृणित बदमाश ने मेरे दोपहर के खाने से काग चुराया?
+6#3 HUM:ind किस contemptible scoundrel ने मेरे दोपहर के खाने से cork चुराया?
+6#4 HUM:ind Kis contemptible scoundrel ne mere dopahar ke khane se cork churaya?
 7#1 HUM:gr What team did baseball's St. Louis Browns become ?
-7#2 HUM:gr बेसबॉल के सेंट लुइस ब्राउन क्या टीम बन गया?
+7#2 HUM:gr बेसबॉल की सेंट लुइस ब्राउन क्या टीम बन गयी?
+7#3 HUM:gr Baseball की सेंट लुइस ब्राउन क्या team बन गयी?
+7#4 HUM:gr Baseball ki Saint Louis Browns kya team ban gayi?
 8#1 HUM:title What is the oldest profession ?
 8#2 HUM:title सबसे पुराना पेशा क्या है?
+8#3 HUM:title सबसे oldest profession क्या है?
+8#4 HUM:title Sabse oldset profession kya hai?
 9#1 DESC:def What are liver enzymes ?
 9#2 DESC:def लीवर एंजाइम क्या हैं?
+9#3 DESC:def Liver enzyme क्या हैं?
+9#4 DESC:def Liver enzyme kya hai?
 10#1 HUM:ind Name the scar-faced bounty hunter of The Old West .
 10#2 HUM:ind पुराने पश्चिम के निशान का सामना करना पड़ा बाउंटी हंटर नाम दें।
+10#3 HUM:ind Old west के scar faced bounty hunter का नाम दें।
+10#4 HUM:ind Old west ke scar faced bounty hunter ka naam de.
 11#1 NUM:date When was Ozzy Osbourne born ?
-11#2 NUM:date जब ओजी ऑजबॉर्न पैदा हुआ था?
+11#2 NUM:date ओजी ऑजबॉर्न कब पैदा हुआ था?
+11#3 NUM:date Ozzy Osbourne कब पैदा हुआ था?
+11#4 NUM:date Ozzy Osbourne kab paida hua tha?
 12#1 DESC:reason Why do heavier objects travel downhill faster ?
-12#2 DESC:reason क्यों भारी वस्तुओं डाउनहिल तेजी से यात्रा करते हैं?
+12#2 DESC:reason भारी वस्तु अधोगामी तेजी से यात्रा क्यों करती हैं?
+12#3 DESC:reason भारी objects downhill तेजी से travel क्यों करती हैं?
+12#4 DESC:reason Bhaari objects downhill tezi se travel kyon karti hain?
 13#1 HUM:ind Who was The Pride of the Yankees ?
-13#2 HUM:ind Yankees के गौरव कौन था?
+13#2 HUM:ind यान्किस के गौरव कौन था?
+13#3 HUM:ind Pride of yankees कौन था?
+13#4 HUM:ind Pride of yankees kaun tha?
 14#1 HUM:ind Who killed Gandhi ?
-14#2 HUM:ind कौन गांधी की हत्या?
+14#2 HUM:ind गांधी की हत्या किसने की थी?
+14#3 HUM:ind गांधी का murder किसने किया था?
+14#4 HUM:ind Gandhi ka murder kisne kiya tha?
 15#1 ENTY:event What is considered the costliest disaster the insurance industry has ever faced ?
-15#2 ENTY:event क्या बीमा उद्योग कभी सामना करना पड़ा है बेशकीमती आपदा माना जाता है?
+15#2 ENTY:event बीमा उद्योग द्वारा सामना की गयी सबसे मेहंगी आपदा किसे माना जाता है?
+15#3 ENTY:event Insurance industry द्वारा face की गयी सबसे मेहंगा disaster किसे माना जाता है?
+15#4 ENTY:event Insurance industry dwara face ki gayi sabse mehenga disaster kise maana jaata hai?
 16#1 LOC:state What sprawling U.S. state boasts the most airports ?
-16#2 LOC:state विशाल क्या अमेरिकी राज्य सबसे अधिक हवाई अड्डों समेटे हुए है?
+16#2 LOC:state किस अमेरिकी राज्य में सबसे जयादा हवाई अड्डों है?
+16#3 LOC:state किस american state में सबसे जयादा airports है?
+16#4 LOC:state Kis american state mein sabse jyada airports hain?
 17#1 DESC:desc What did the only repealed amendment to the U.S. Constitution deal with ?
-17#2 DESC:desc साथ अमेरिका के संविधान का सौदा करने के लिए ही निरस्त कर दिया संशोधन क्या किया?
+17#2 DESC:desc अमेरिका के संविधान का एकमात्र निरस्त संशोधन किस चीज़ से संबंधित था?
+17#3 DESC:desc अमेरिका के constitution का एकमात्र repealed amendement किस चीज़ से related था?
+17#4 DESC:desc America ke constitution ka ekmatra repealed amendement kis cheez se related tha?
 18#1 NUM:count How many Jews were executed in concentration camps during WWII ?
 18#2 NUM:count द्वितीय विश्व युद्ध के दौरान यातना शिविरों में कितने यहूदियों को मार डाला गया?
+18#3 NUM:count Second world war के दौरान concentration camps में कितने Jews को मार डाला गया?
+18#4 NUM:count Second world war ke dauraan concentration camps mein kitne Jews ko maar daala gaya?
 19#1 DESC:def What is "Nine Inch Nails" ?
-19#2 DESC:def "नौ इंच नाखून" क्या है?
+19#2 DESC:def "नाईन इंच नेल्स" क्या है?
+19#3 DESC:def "Nine inch nails" क्या है?
+19#4 DESC:def "Nine inch nails" kya hain?
 20#1 DESC:def What is an annotated bibliography ?
-20#2 DESC:def एक एनोटेट ग्रंथ सूची क्या है?
+20#2 DESC:def एक एनोटेटेड ग्रंथ सूची क्या है?
+20#3 DESC:def एक annotated bibliography क्या है?
+20#4 DESC:def Ek anontated bibliography kya hain?
 21#1 NUM:date What is the date of Boxing Day ?
 21#2 NUM:date बॉक्सिंग डे की तारीख क्या है?
+21#3 NUM:date बॉक्सिंग डे की date क्या है?
+21#4 NUM:date Boxing day ki data kya hai?
 22#1 ENTY:other What articles of clothing are tokens in Monopoly ?
-22#2 ENTY:other एकाधिकार में टोकन कपड़े किस लेख हैं?
+22#2 ENTY:other मोनोपोली में कोनसे कपड़े टोकन हैं?
+22#3 ENTY:other Monopoly में कोनसे clothes token हैं?
+22#3 ENTY:other Monopoly mein konse clothes token hai?
 23#1 HUM:ind Name 11 famous martyrs .
-23#2 HUM:ind 11 प्रसिद्ध शहीदों का नाम।
+23#2 HUM:ind 11 प्रसिद्ध शहीदों का नाम बताओ।
+23#3 HUM:ind 11 Famous शहीदों का नाम बताओ।
+23#4 HUM:ind 11 Famous sahidon ka naam batao।
 24#1 DESC:desc What's the Olympic motto ?
 24#2 DESC:desc ओलंपिक आदर्श वाक्य क्या है?
-25#1 DESC:desc What is the origin of the name ` Scarlett' ?
-25#2 DESC:desc `स्कारलेट 'नाम का मूल क्या है?
+24#3 DESC:desc ओलंपिक motto क्या है?
+24#4 DESC:desc Olympic motto kya hain?
+25#1 DESC:desc What is the origin of the name 'Scarlett' ?
+25#2 DESC:desc 'स्कारलेट' नाम का मूल क्या है?
+25#3 DESC:desc 'Scarlett' नाम का origin क्या है?
+25#4 DESC:desc 'Scarlett' naam ka origin kya hain?
 26#1 ENTY:letter What's the second-most-used vowel in English ?
-26#2 ENTY:letter अंग्रेजी में दूसरा सबसे अधिक इस्तेमाल किया स्वर क्या है?
+26#2 ENTY:letter अंग्रेजी में दूसरा सबसे अधिक इस्तेमाल किया जाने वाला स्वर क्या है?
+26#3 ENTY:letter अंग्रेजी में second most used vowel क्या है?
+26#4 ENTY:letter Enligh mein second most used vowel kya hai?
 27#1 HUM:ind Who was the inventor of silly putty ?
-27#2 HUM:ind मूर्ख पोटीन के आविष्कारक कौन था?
+27#2 HUM:ind "सीलि पुट्टी" का आविष्कारक कौन था?
+27#3 HUM:ind "Silly putty" का inventor कौन था?
+27#4 HUM:ind "Silly putty" ka inventor kaun tha?
 28#1 LOC:other What is the highest waterfall in the United States ?
-28#2 LOC:other संयुक्त राज्य अमेरिका में सबसे ज्यादा झरना क्या है?
+28#2 LOC:other संयुक्त राज्य अमेरिका में सबसे उचा ज्यादा झरना कोनसा है?
+28#3 LOC:other United States में सबसे उचा ज्यादा waterfall कोनसा है?
+28#4 LOC:other United States mein sabse oochaa waterfall kaunsa hai?
 29#1 ENTY:other Name a golf course in Myrtle Beach .
-29#2 ENTY:other Myrtle Beach में एक गोल्फ कोर्स का नाम।
+29#2 ENTY:other Myrtle Beach में एक गोल्फ कोर्स का नाम बताओ।
+29#2 ENTY:other Myrtle Beach में एक गोल्फ कोर्स का नाम बताओ।
+29#2 ENTY:other Myrtle Beach mein ek golf course ka naam batao।
 30#1 LOC:state Which two states enclose Chesapeake Bay ?
 30#2 LOC:state खाड़ी लगा देना, जो दो राज्यों?
 31#1 ABBR:exp What does the abbreviation AIDS stand for ?
-31#2 ABBR:exp संक्षिप्त एड्स क्या अर्थ होता है?
+31#2 ABBR:exp संक्षिप्त 'AIDS' का क्या अर्थ होता है? 
+31#3 ABBR:exp Abbreviation 'AIDS' का क्या meaning होता है? 
+31#4 ABBR:exp Abbreviation 'AIDS' ka kya meaning hota hai? 
 32#1 ENTY:other What does a spermologer collect ?
 32#2 ENTY:other एक spermologer क्या एकत्रित करता है?
+32#3 ENTY:other एक spermologer क्या collect करता है?
+32#4 ENTY:other Ek spermologer kya collect karta hai?
+32#3 ENTY:other एक spermologer क्या collect करता है?
+32#4 ENTY:other Ek spermologer kya collect करता है?
 33#1 NUM:count How many points make up a perfect fivepin bowling score ?
-33#2 NUM:count कितने अंक एक आदर्श fivepin गेंदबाजी स्कोर बना?
+33#2 NUM:count कितने अंक एक आदर्श fivepin गेंदबाजी स्कोर बनाते हैं?
+33#3 NUM:count कितने points एक perfect fivepin bowling score बनाते हैं?
+33#4 NUM:count Kinte points ek perfect fivepin bowling score banate hain?
 34#1 HUM:gr Which company that manufactures video-game hardware sells the "super system" ?
-34#2 HUM:gr वीडियो गेम हार्डवेयर विनिर्माण कि कौन सी कंपनी 'सुपर प्रणाली "बेचता है?
+34#2 HUM:gr वीडियो गेम हार्डवेयर बनाने वाली कौन सी कंपनी 'super system' बेचती है?
+34#3 HUM:gr Video game hardware बनाने वाली कौन सी कंपनी 'super system' बेचती है?
+34#4 HUM:gr Video game hardware banane wali kaun si company 'super system' bechti hai?
 35#1 NUM:count How many Community Chest cards are there in Monopoly ?
-35#2 NUM:count एकाधिकार में कितने सामुदायिक छाती कार्ड हैं?
+35#2 NUM:count Monopoly में कितने Community chest कार्ड होते हैं?
+35#3 NUM:count Monopoly में कितने Community chest कार्ड होते हैं?
+35#4 NUM:count Monopoly mein kitne Community chest card hote hai?
 36#1 DESC:desc What do Mormons believe ?
-36#2 DESC:desc Mormons क्या विश्वास करते हो?
+36#2 DESC:desc Mormons क्या विश्वास करते हैं?
+36#3 DESC:desc Mormons क्या विश्वास करते हैं?
+36#4 DESC:desc Mormons kya vishwas karte hai?
 37#1 NUM:date When did the neanderthal man live ?
-37#2 NUM:date जब निएंडरथल आदमी रहते थे?
+37#2 NUM:date निएंडरथल आदमी कब रहते थे?
+37#3 NUM:date Neanderthal आदमी कब रहते थे?
+37#4 NUM:date Neanderthal aadmi kab rehte the?
 38#1 ENTY:religion In what religion was Isis the nature goddess ?
-38#2 ENTY:religion क्या धर्म में आईएसआईएस प्रकृति देवी थी?
+38#2 ENTY:religion किस धर्म में Isis प्रकृति देवी थी?
+38#3 ENTY:religion किस religion में Isis प्रकृति देवी थी?
+38#4 ENTY:religion Kis religion mein Isis prakrati devi thi?
 39#1 LOC:other Where do the adventures of "The Swiss Family Robinson" take place ?
-39#2 LOC:other कहाँ "स्विस परिवार रॉबिन्सन" के रोमांच के लिए जगह नहीं ले सकता हूं?
+39#2 LOC:other "स्विस परिवार रॉबिन्सन" की घटनाऐं कहा हुई थी?
+39#3 LOC:other "Swiss family robinson" के adventures कहा हुए थे?
+39#4 LOC:other "Swiss family robinson" ke adventures kaha huye the?
 40#1 ENTY:animal What relative of the racoon is sometimes known as the cat-bear ?
-40#2 ENTY:animal एक प्रकार का जानवर किस रिश्तेदार कभी कभी बिल्ली-भालू के रूप में जाना जाता है?
+40#2 ENTY:animal रैकून के किस रिश्तेदार को कभी कभी cat-bear के रूप में जाना जाता है?
+40#3 ENTY:animal रैकून के किस relative को कभी कभी cat-bear के रूप में जाना जाता है?
+40#4 ENTY:animal Racoon ke kis relative ko kabhi kabhi cat-bear ke roop mein jaana jata hai?
 41#1 DESC:manner How can I register my website in Yahoo for free ?
-41#2 DESC:manner कैसे मैं याहू में मेरी वेबसाइट मुक्त करने के लिए रजिस्टर कर सकते हैं?
-42#1 ENTY:other What was cash-conscious Colonel Edwin L. Drake the first to drill ?
-42#2 ENTY:other नकदी के प्रति सजग कर्नल एडविन एल ड्रेक ड्रिल करने के पहले क्या था?
+41#2 DESC:manner मैं कैसे याहू में मेरी वेबसाइट मुक्त के लिए रजिस्टर कर सकता हूँ?
+41#3 DESC:manner मैं कैसे Yahoo में मेरी webiste free के लिए register कर सकता हूँ?
+41#4 DESC:manner Mein kaise Yahoo mein meri webiste free ke liye register kar sakta hun?
+42#1 ENTY:other What was Colonel Edwin L. Drake the first to drill ?
+42#2 ENTY:other कर्नल एडविन एल ड्रेक ने सबसे पहले ड्रिल करके क्या खोजा था?
+42#3 ENTY:other Colonel Edwin L. Drake ने सबसे पहले drill करके क्या find किया था?
+42#4 ENTY:other Colonel Edwin L. Drake ne sabase pahale drill karake kya find kiya tha?
 43#1 NUM:count How many people in the world speak French ?
-43#2 NUM:count कितने लोगों को दुनिया में फ्रेंच बोलते हैं?
+43#2 NUM:count दुनिया में कितने लोग फ्रेंच बोलते हैं?
+43#3 NUM:count World में कितने लोग French बोलते हैं?
+43#4 NUM:count World mein kitne log french bolte hain?
 44#1 NUM:count How many inches over six feet is the Venus de Milo ?
-44#2 NUM:count वीनस डी मिलो कितने इंच छह फुट से अधिक है?
+44#2 NUM:count वीनस डी मिलो छह फुट से कितने इंच ऊँचा है?
+44#3 NUM:count Venus de Milo छह foot से कितने inch ऊँचा है?
+44#4 NUM:count Venus de Milo chaha foot se kitne inch uncha hai?
 45#1 DESC:manner How do they find or choose witnesses to an execution ?
-45#2 DESC:manner वे कैसे एक निष्पादन के लिए गवाहों को खोजने के लिए या चयन करते हैं?
+45#2 DESC:manner एक फाँसीं के लिए गवाहों को खोजा या चयन कैसे करते हैं?
+45#3 DESC:manner एक फाँसीं के लिए witnesses को खोजा या choose कैसे करते हैं?
+45#4 DESC:manner Ek phansi ke liye witnesses ko khoja ya choose kaise karte hai?
 46#1 HUM:ind What 1920s cowboy star rode Tony the Wonder Horse ?
-46#2 HUM:ind क्या 1920 के दशक चरवाहे स्टार टोनी वंडर घोड़े की सवारी?
-47#1 ENTY:food What cocktail inspired John Doxat to write the book Stirred-Not Shaken ?
-47#2 ENTY:food क्या कॉकटेल किताब उभारा-नहीं हिल लिखने के लिए जॉन Doxat प्रेरित है?
+46#2 HUM:ind कोनसा 1920 के दशक का चरवाहा स्टार "Tony the wonder horse" की सवारी करता था?
+46#3 HUM:ind कोनसा 1920 के दशक का cowboy star "Tony the wonder horse" की सवारी करता था?
+46#4 HUM:ind Konsa 1920 ke dashaka ka cowboy star "Tony the wonder horse" ki savari karta tha?
+47#1 ENTY:food What cocktail inspired John Doxat to write the book "Stirred-Not Shaken" ?
+47#2 ENTY:food किस कॉकटेल ने John Doxat को "Stirred-Not Shaken" लिखने के लिए प्रेरित किया था?
+47#3 ENTY:food किस cocktail ने John Doxat को "Stirred-Not Shaken" लिखने के लिए inspire किया था?
+47#4 ENTY:food Kis cocktail ne john doxat ko "stirred-not shaken" likhne ke liye inspire kiya tha?
 48#1 HUM:gr What ISPs exist in the Caribbean ?
-48#2 HUM:gr क्या आई एस पी एस कैरेबियन में मौजूद हैं?
+48#2 HUM:gr क्या ISP कैरेबियन में मौजूद हैं?
+48#3 HUM:gr क्या ISP Caribbean में exist करते हैं?
+48#4 HUM:gr Kya ISP Caribbean mein exist karte hain?
 49#1 DESC:manner How do you ask a total stranger out on a date ?
-49#2 DESC:manner कैसे आप एक तिथि पर कुल एक अजनबी के बाहर पूछ रहे हो?
+49#2 DESC:manner कैसे आप एक अजनबी को date के लिये पूछते हो?
+49#3 DESC:manner कैसे आप एक stranger को date के लिये पूछते हो?
+49#4 DESC:manner Kaise apa ek stranger ko date ke liye puchte ho?
 50#1 ENTY:other What weapon is the mythological character Apollo most proficient with ?
-50#2 ENTY:other पौराणिक चरित्र अपोलो के साथ सबसे अधिक कुशल क्या हथियार है?
+50#2 ENTY:other पौराणिक चरित्र अपोलो किस हथियार के साथ सबसे अधिक कुशल है?
+50#3 ENTY:other Mythological character Apollo किस हथियार के साथ सबसे अधिक proficient है?
+50#4 ENTY:other Mythological character Apollo kis hathiyar ke sath sabse adhik proficient hai?
 51#1 LOC:country What country do the Galapagos Islands belong to ?
-51#2 LOC:country गैलापागोस द्वीप समूह क्या देश के हैं?
+51#2 LOC:country गैलापागोस द्वीप समूह किस देश में हैं?
+51#3 LOC:country Galapagos Islands किस country में हैं?
+51#4 LOC:country Galapagos Islands kis country mein hai?
 52#1 DESC:def What is ethology ?
 52#2 DESC:def आचारविज्ञान क्या है?
+52#3 DESC:def Ethology क्या है?
+52#4 DESC:def Ethology kya hai?
 53#1 HUM:ind Who was the prophet of the Muslim people ?
-53#2 HUM:ind मुस्लिम लोगों के पैगंबर कौन था?
+53#2 HUM:ind मुस्लिमो के पैगंबर कौन थे?
+53#3 HUM:ind मुस्लिमो के prophet कौन थे?
+53#4 HUM:ind Muslimo ke prophet kaun the?
 54#1 DESC:desc Where did the term "86ed" come from ?
 54#2 DESC:desc शब्द "86ed" कहाँ से आया?
+54#3 DESC:desc शब्द "86ed" कहाँ से आया?
+54#4 DESC:desc Shabda "86ed" kaha se aaya?
 55#1 HUM:ind Who is Snoopy's arch-enemy ?
-55#2 HUM:ind Snoopy के कट्टर दुश्मन कौन है?
+55#2 HUM:ind Snoopy का कट्टर दुश्मन कौन है?
+55#3 HUM:ind Snoopy का arch-enemy कौन है?
+55#4 HUM:ind Snoopy ka arch-enemy kaun hai?
 56#1 DESC:def What is the nature of learning ?
 56#2 DESC:def सीखने की प्रकृति क्या है?
+56#3 DESC:def सीखने का nature क्या है?
+56#4 DESC:def Sikhne ka nature kya hai?
 57#1 ENTY:color What's the only color Johnny Cash wears on stage ?
-57#2 ENTY:color जॉनी कैश के मंच पर पहनता है केवल रंग क्या है?
-58#1 ENTY:termeq What's the term for a young fox ?
-58#2 ENTY:termeq एक जवान लोमड़ी के लिए अवधि क्या है?
+57#2 ENTY:color जॉनी कैश मंच पर केवल कोनसा रंग पहनते है?
+57#3 ENTY:color Johnny Cash stage पर केवल कोनसा color पहनते है?
+57#4 ENTY:color Johnny Cash stage per kewal kaunsa color pehente hai?
+58#1 ENTY:termeq What's the term for a "young fox" ?
+58#2 ENTY:termeq "Young fox" के लिए शब्द क्या है?
+58#3 ENTY:termeq "Young fox" के लिए term क्या है?
+58#4 ENTY:termeq "Young fox" ke liye term kya hai?
 59#1 LOC:state What U.S. state lived under six flags ?
-59#2 LOC:state क्या अमरीकी राज्य छह झंडे के नीचे रहते थे?
+59#2 LOC:state कोनसा अमरीकी राज्य छह झंडे के नीचे रहता था?
+59#3 LOC:state कोनसा अमरीकी state six flags के नीचे रहता था?
+59#4 LOC:state Konsa american state six flags ke niche rehta tha?
 60#1 DESC:def What is the Kashmir issue ?
 60#2 DESC:def कश्मीर मुद्दा क्या है?
+60#3 DESC:def Kashmir issue क्या है?
+60#4 DESC:def Kashmir issue kya hai?
 61#1 LOC:other Where is the Loop ?
-61#2 LOC:other लूप कहां है?
+61#2 LOC:other Loop कहां है?
+61#3 LOC:other Loop कहां है?
+61#4 LOC:other Loop kaha hai?
 62#1 DESC:def What does "extended definition" mean and how would one write a paper on it ?
-62#2 DESC:def "बढ़ाया परिभाषा" का मतलब क्या है और कैसे एक यह एक कागज पर लिखना होगा?
+62#2 DESC:def "Extended definition" का मतलब क्या है और कैसे इस पर लेख लिखा जा सकता है?
+62#3 DESC:def "Extended definition" का meaning क्या है और कैसे इस पर paper लिखा जा सकता है?
+62#4 DESC:def "Extended definition" ka meaning kya hai aur kaise iss par paper likha ja sakta hai?
 63#1 LOC:country What country's capital is Tirana ?
-63#2 LOC:country तिराना क्या देश की राजधानी है?
+63#2 LOC:country तिराना किस देश की राजधानी है?
+63#3 LOC:country तिराना किस country की caiptal है?
+63#4 LOC:country Tiran kis desh ki capital hai?
 64#1 DESC:def What is titanium ?
 64#2 DESC:def टाइटेनियम क्या है?
+64#3 DESC:def Titanium क्या है?
+64#4 DESC:def Titanium kya hai?
 65#1 HUM:ind Who do Herb and Tootsie live next door to ?
-65#2 HUM:ind कौन हर्ब और Tootsie के लिए अगले दरवाजे रहते हैं?
-66#1 LOC:city Which city has the oldest relationship as a sister city with Los Angeles ?
-66#2 LOC:city कौन सा शहर लॉस एंजिल्स के साथ एक बहन शहर के रूप में सबसे पुराना रिश्ता है?
+65#2 HUM:ind कौन Herb और Tootsie के अगले दरवाजे रहते हैं?
+65#3 HUM:ind कौन Herb और Tootsie के next door रहते हैं?
+65#4 HUM:ind Kaun Herb aur Tootsie ke next door rahate hain?
+66#1 LOC:city Which city has the oldest relationship as a sister city with Los Angeles?
+66#2 LOC:city किसा शहर का लॉस एंजिल्स के साथ एक बहन शहर के रूप में सबसे पुराना रिश्ता है?
+66#3 LOC:city किसा city का Los Angeles के साथ एक sister city के रूप में सबसे पुराना रिश्ता है?
+66#4 LOC:city kisa shahar ka Los Angeles ke sath ek behen shahar ke roop mein sabase purana rishta hai?
 67#1 DESC:def What is a caldera ?
-67#2 DESC:def एक काल्डेरा क्या है?
+67#2 DESC:def Caldera क्या है?
+67#3 DESC:def Caldera क्या है?
+67#4 DESC:def Caldera kya hai?
 68#1 DESC:reason Why do people get calluses ?
-68#2 DESC:reason क्यों लोगों को calluses मिलता है?
+68#2 DESC:reason लोगों को घट्टे क्यों हो जाते है?
+68#3 DESC:reason लोगों को calluses क्यों हो जाते है?
+68#4 DESC:reason Logo ko calluses kyon ho jate hai?
 69#1 LOC:other What are the names of the tourist attractions in Reims ?
-69#2 LOC:other रैम्स में पर्यटकों के आकर्षण का नाम क्या हैं?
+69#2 LOC:other Reims में पर्यटकों के आकर्षणों के नाम क्या हैं?
+69#3 LOC:other Reims में tourist attractions के नाम क्या हैं?
+69#4 LOC:other Reims mem tourist attractions ke nama kya haim?
 70#1 DESC:reason What are Cushman and Wakefield known for ?
-70#2 DESC:reason कुशमैन और वेकफील्ड क्या लिए जाना जाता है?
+70#2 DESC:reason कुशमैन और वेकफील्ड किसके लिए जाने जाते है?
+70#3 DESC:reason Cushman और Wakefield किसके लिए known है?
+70#4 DESC:reason Cushman aur Wakefield kiske liye known hai?
 71#1 LOC:other What body of water does the Danube River flow into ?
-71#2 LOC:other डेन्यूब नदी के पानी की क्या शरीर में प्रवाह करता है?
+71#2 LOC:other डेन्यूब नदी किस जल निकाय में समाहित होती है?
+71#3 LOC:other Danube नदी किस water-body में समाहित होती है?
+71#4 LOC:other Danube nadi kis water-body mein samahit hoti hai?
 72#1 HUM:ind Who is the founder of Scientology ?
 72#2 HUM:ind साइंटोलॉजी के संस्थापक कौन है?
+72#3 HUM:ind Scientology के founder कौन है?
+72#4 HUM:ind Scientology ke founder kaun hai?
 73#1 ENTY:other What does the six-footed Musca domestica become when it enters a house ?
-73#2 ENTY:other यह एक घर में प्रवेश करती है जब छह टांगों Musca domestica क्या हो जाता है?
+73#2 ENTY:other जब छह टांगों वाली Musca domestica एक घर में प्रवेश करती है तब क्या बन जाती है?
+73#3 ENTY:other जब six-footed Musca domestica एक घर में enter करती है तब क्या बन जाती है?
+73#4 ENTY:other Jab six-footed Musca domestica ek ghara mein enter karti hai tab kya ban jati hai?
 74#1 DESC:desc What is the history of skateboarding ?
-74#2 DESC:desc Skateboarding के इतिहास क्या है?
+74#2 DESC:desc Skateboarding का इतिहास क्या है?
+74#3 DESC:desc Skateboarding की history क्या है?
+74#4 DESC:desc Skateboarding ki history kya hai?
 75#1 HUM:ind Who starred in Singing in the Rain and The Singing Nun ?
-75#2 HUM:ind कौन बारिश में गायन और गायन नून में अभिनय किया है?
+75#2 HUM:ind किसने Singing in the Rain और The Singing Nun में अभिनय किया है?
+75#3 HUM:ind किसने Singing in the Rain और The Singing Nun में acting किया है?
+75#4 HUM:ind Kisne Singing in the Rain aur The Singing Nun mein acting kiya hai?
 76#1 DESC:manner How do I make fuel bricks from recycled newspaper ?
-76#2 DESC:manner मैं कैसे पुनर्नवीनीकरण अखबार से ईंधन ईंटों बनाते हैं?
-77#1 HUM:ind What 19th-century painter died in the Marquesas Islands ?
-77#2 HUM:ind क्या 19 वीं सदी के चित्रकार मार्किसास द्वीप समूह में मृत्यु हो गई?
+76#2 DESC:manner मैं कैसे पुराने अखबार से ईंधन ईंटें बना सकता हूँ?
+76#3 DESC:manner मैं कैसे old newspapers से fuel bricks बना सकता हूँ?
+76#4 DESC:manner Mein kaise old newspapers se fuel bricks bana sakta hu?
+77#1 HUM:ind What 19th-century painter died in the Marquesas Islands?
+77#2 HUM:ind किस 19वीं सदी के चित्रकार की मार्किसास द्वीप समूह में मृत्यु हो गई थी?
+77#3 HUM:ind किस 19वीं सदी के painter की Marquesas islands में death हो गई थी?
+77#4 HUM:ind Kis 19vi sadi ke painter ki marquesas islands mein death ho gai thi?
 78#1 ENTY:body The corpus callosum is in what part of the body ?
-78#2 ENTY:body महासंयोजिका शरीर के किस हिस्से में है?
+78#2 ENTY:body महासंयोजिका शरीर के किस हिस्से में होती है?
+78#3 ENTY:body Corpus callosum body के किस part में होती है?
+78#4 ENTY:body Corpus callosum body ke kis part mein hoti hai?
 79#1 DESC:manner How do I log on to home page at Headquarters U.S. European Command ?
-79#2 DESC:manner मैं कैसे मुख्यालय अमेरिका यूरोपीय कमान में मुख पृष्ठ पर लॉग ऑन करते हैं?
-80#1 LOC:country What country did the Nazis occupy for 1 , CD NNS IN NNP NNP NNP .
-80#2 LOC:country नाजियों 1 के लिए क्या देश पर कब्जा किया था, एनएनपी एनएनपी एनएनपी में सीडी NNS।
+79#2 DESC:manner मैं कैसे मुख्यालय अमेरिका यूरोपीय कमान के मुख पृष्ठ पर लॉग ऑन कर सकता हूँ?
+79#3 DESC:manner मैं कैसे Heaedquarters U.S European Command के main page पर log on कर सकता हूँ?
+79#4 DESC:manner Mein kaise heaedquarters U.S European Command कॆ main page par log on kara sakta hu?
+80#1 LOC:country What country did the Nazis occupy?
+80#2 LOC:country नाजियों ने किस देश पर कब्जा किया था?
+80#3 LOC:country Nazis ने किस देश को occupy किया था?
+80#4 LOC:country Nazis ने kis desh ko occupy kiya tha?
 81#1 ENTY:other What is Nebraska's most valuable resource ?
-81#2 ENTY:other नेब्रास्का की सबसे मूल्यवान संसाधन क्या है?
+81#2 ENTY:other नेब्रास्का का सबसे मूल्यवान संसाधन क्या है?
+81#3 ENTY:other Nebraska का सबसे valuable resource क्या है?
+81#4 ENTY:other Nebraska ka sabse valuable resource kya hai?
 82#1 NUM:count How many species of the Great White shark are there ?
-82#2 NUM:count कितने प्रजाति ग्रेट व्हाइट शार्क के देखते हैं?
+82#2 NUM:count ग्रेट व्हाइट शार्क की कितनी प्रजातियाँ हैं?
+82#3 NUM:count ग्रेट व्हाइट शार्क की कितनी species हैं?
+82#4 NUM:count Great white shark ki kitni species hain?
 83#1 DESC:desc What is the origin of head lice ?
-83#2 DESC:desc सिर जूँ का मूल क्या है?
+83#2 DESC:desc सिर की जूँ का मूल क्या है?
+83#3 DESC:desc सिर की जूँ का origin क्या है?
+83#4 DESC:desc Sir ki joon ka origin kya hai?
 84#1 LOC:state What is the nickname for the state of Mississippi ?
 84#2 LOC:state मिसिसिपी राज्य के लिए उपनाम क्या है?
+84#3 LOC:state Mississippi state के लिए nickname क्या है?
+84#4 LOC:state Mississippi state ke liye nickname kya hai?
 85#1 ENTY:animal What was the first domesticated bird ?
-85#2 ENTY:animal पहले पालतू पक्षी क्या था?
+85#2 ENTY:animal पहला पालतू पक्षी क्या था?
+85#3 ENTY:animal First पालतू bird क्या था?
+85#4 ENTY:animal First paaltu bird kya tha?
 86#1 NUM:count How many villi are found in the small intestine ?
 86#2 NUM:count छोटी आंत में कितने विल्ली पाए जाते हैं?
+86#3 NUM:count Small intestine में कितने villi पाए जाते हैं?
+86#4 NUM:count Small intestine mein kitne villi paaye jaate hai?
 87#1 LOC:country What country did King Wenceslas rule ?
-87#2 LOC:country राजा Wenceslas क्या देश पर राज किया?
+87#2 LOC:country राजा Wenceslas ने किस देश पर राज किया था?
+87#3 LOC:country King Wenceslas ने किस देश पर rule किया था?
+87#4 LOC:country King Wenceslas ne kis desh per rule kiya tha?
 88#1 ENTY:dismed What is a fear of shadows ?
-88#2 ENTY:dismed छाया की एक भय क्या है?
+88#2 ENTY:dismed छाया के भय को क्या कहते है?
+88#3 ENTY:dismed Shadows के fear को क्या कहते है?
+88#3 ENTY:dismed Shadows ke fear ko kya kehte hai?
 89#1 HUM:ind Who were the five Marx brothers ?
-89#2 HUM:ind पांच मार्क्स ब्रदर्स कौन थे?
+89#2 HUM:ind पांच मार्क्स भाई कौन थे?
+89#3 HUM:ind पांच Marx brothers कौन थे?
+89#3 HUM:ind Paanch Marx brothers kaun the?
 90#1 NUM:date In which year was New Zealand excluded from the ANZUS alliance ?
-90#2 NUM:date किस साल में न्यूजीलैंड ANZUS गठबंधन से बाहर रखा गया था?
+90#2 NUM:date किस साल में न्यूजीलैंड ANZUS गठबंधन से बाहर कर दिया गया था?
+90#3 NUM:date किस साल में New Zealand ANZUS alliance से exclude कर दिया गया था?
+90#4 NUM:date kis saal mein New Zealand ANZUS alliance se exclude kar diya gaya tha?
 91#1 NUM:date When did CNN begin broadcasting ?
-91#2 NUM:date जब सीएनएन का प्रसारण शुरू किया?
+91#2 NUM:date सीएनएन ने प्रसारण कब शुरू किया?
+91#3 NUM:date CNN ने broadcasting कब शुरू किया?
+91#4 NUM:date CNN ne broadcasting kab shuru kiya?
 92#1 DESC:reason What causes the body to shiver in cold temperatures ?
-92#2 DESC:reason क्या ठंडे तापमान में शरीर कंपकंपी का कारण बनता है?
+92#2 DESC:reason ठंडे तापमान में शरीर मैं कंपकंपी का कारण क्या है?
+92#3 DESC:reason Cold temperatures में शरीर मैं shivering का cause क्या है?
+92#4 DESC:reason Cold temperatures mein shareer mein shivering ka cause kya hai?
 93#1 DESC:def What are bear and bull markets ?
-93#2 DESC:def भालू और बैल बाजार में क्या कर रहे हैं?
+93#2 DESC:def मंद और तेज बाजार क्या होते हैं?
+93#3 DESC:def Bear और bull markets क्या होते हैं?
+93#4 DESC:def Bear aur bull markets kya hote hain?
 94#1 ENTY:cremat What J.R.R. Tolkien book features Bilbo Baggins as the central character ?
-94#2 ENTY:cremat क्या J.R.R. टोल्किन पुस्तक केंद्रीय चरित्र के रूप में बेड़ी बेगिन्स सुविधाएँ?
+94#2 ENTY:cremat किस J.R.R. Tolkien पुस्तक का केंद्रीय चरित्र  Bilbo Baggins है?
+94#3 ENTY:cremat किस J.R.R. Tolkien book का central character Bilbo Baggins है?
+94#4 ENTY:cremat Kis J.R.R. Tolkien book ka central character Bilbo Baggins hai?
 95#1 DESC:def What is "dew point" ?
 95#2 DESC:def "ओस बिंदु" क्या है?
+95#3 DESC:def "Dew point" क्या है?
+95#4 DESC:def "Dew point" kya hai?
 96#1 DESC:def What is the meaning of Jesus ?
 96#2 DESC:def यीशु का अर्थ क्या है?
+96#3 DESC:def Jesus का meaning क्या है?
+96#4 DESC:def Jesus ka meaning kya hai?
 97#1 HUM:gr What company's logo is a "W" in a circle ?
-97#2 HUM:gr एक सर्कल में एक "डब्ल्यू" क्या कंपनी के लोगो है?
+97#2 HUM:gr एक सर्कल में एक "डब्ल्यू" किस कंपनी का लोगो है?
+97#3 HUM:gr एक circle में एक "W" किस company का logo है?
+97#4 HUM:gr Ek circle mein ek "W" kis company ka logo hai?
 98#1 DESC:def What is the definition of a cascade ?
-98#2 DESC:def एक झरना की परिभाषा क्या है?
+98#2 DESC:def एक झरने की परिभाषा क्या है?
+98#3 DESC:def एक waterfall की definition क्या है?
+98#4 DESC:def Ek waterfall ki definition kya hai?
 99#1 NUM:date When did Rococo painting and architecture flourish ?
-99#2 NUM:date जब रोकोको चित्रकला और वास्तुकला के पनपने की थी?
+99#2 NUM:date रोकोको चित्रकला और वास्तुकला कब पनपने लगी थी?
+99#3 NUM:date Rococo painting and architecture कब पनपने लगी थी?
+99#4 NUM:date Rococo painting and architecture kab panapne lagi thi?
 100#1 LOC:country What country's national passenger rail system is called Via ?
-100#2 LOC:country राष्ट्रीय क्या देश की यात्री रेल प्रणाली के माध्यम से कहा जाता है?
+100#2 LOC:country किस देश की राष्ट्रीय यात्री रेल प्रणाली को Via कहा जाता है?
+100#3 LOC:country किस country की national passenger rail system को Via कहा जाता है?
+100#4 LOC:country Kis country ki national passenger rail system ko Via kaha jaata hai?

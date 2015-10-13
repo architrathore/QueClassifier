@@ -1,0 +1,90 @@
+DESC:manner Serfdom kaise develop hua tha aur phir kaise Russia se spread hua?
+ENTY:cremat Kin films mein Popeye Doyle character feature kiya gaya hai?
+DESC:manner Celebrities ke asli naamon ki ek list kaise find kar sakte hai?
+ENTY:animal Kya murgi bandar ke Chinese year ke baad spotlight grab kar leti hai?
+ABBR:exp .com ka full form kya hai?
+HUM:ind Kis contemptible scoundrel ne mere dopahar ke khane se cork churaya?
+HUM:gr Baseball ki Saint Louis Browns kya team ban gayi?
+HUM:title Sabse oldset profession kya hai?
+DESC:def Liver enzyme kya hai?
+HUM:ind Old west ke scar faced bounty hunter ka naam de.
+NUM:date Ozzy Osbourne kab paida hua tha?
+DESC:reason Bhaari objects downhill tezi se travel kyon karti hain?
+HUM:ind Pride of yankees kaun tha?
+HUM:ind Gandhi ka murder kisne kiya tha?
+ENTY:event Insurance industry dwara face ki gayi sabse mehenga disaster kise maana jaata hai?
+LOC:state Kis american state mein sabse jyada airports hain?
+DESC:desc America ke constitution ka ekmatra repealed amendement kis cheez se related tha?
+NUM:count Second world war ke dauraan concentration camps mein kitne Jews ko maar daala gaya?
+DESC:def "Nine inch nails" kya hain?
+DESC:def Ek anontated bibliography kya hain?
+NUM:date Boxing day ki data kya hai?
+ENTY:other Monopoly mein konse clothes token hai?
+HUM:ind 11 Famous sahidon ka naam batao?
+DESC:desc Olympic motto kya hain?
+DESC:desc 'Scarlett' naam ka origin kya hain?
+ENTY:letter Enligh mein second most used vowel kya hai?
+HUM:ind "Silly putty" ka inventor kaun tha?
+LOC:other United States mein sabse oochaa waterfall kaunsa hai?
+ENTY:other Myrtle Beach mein ek golf course ka naam batao?
+NUM:count Kinte points ek perfect fivepin bowling score banate hain?
+HUM:gr Video game hardware banane wali kaun si company 'super system' bechti hai?
+NUM:count Monopoly mein kitne Community chest card hote hai?
+DESC:desc Mormons kya vishwas karte hai?
+NUM:date Neanderthal aadmi kab rehte the?
+ENTY:religion Kis religion mein Isis prakrati devi thi?
+LOC:other "Swiss family robinson" ke adventures kaha huye the?
+ENTY:animal Racoon ke kis relative ko kabhi kabhi cat-bear ke roop mein jaana jata hai?
+DESC:manner Mein kaise Yahoo mein meri webiste free ke liye register kar sakta hun?
+ENTY:other Colonel Edwin L. Drake ne sabase pahale drill karake kya find kiya tha?
+NUM:count World mein kitne log french bolte hain?
+NUM:count Venus de Milo chaha foot se kitne inch uncha hai?
+DESC:manner Ek phansi ke liye witnesses ko khoja ya choose kaise karte hai?
+HUM:ind Konsa 1920 ke dashaka ka cowboy star "Tony the wonder horse" ki savari karta tha?
+ENTY:food Kis cocktail ne john doxat ko "stirred-not shaken" likhne ke liye inspire kiya tha?
+HUM:gr Kya ISP Caribbean mein exist karte hain?
+DESC:manner Kaise apa ek stranger ko date ke liye puchte ho?
+ENTY:other Mythological character Apollo kis hathiyar ke sath sabse adhik proficient hai?
+LOC:country Galapagos Islands kis country mein hai?
+DESC:def Ethology kya hai?
+HUM:ind Muslimo ke prophet kaun the?
+DESC:desc Shabda "86ed" kaha se aaya?
+HUM:ind Snoopy ka arch-enemy kaun hai?
+DESC:def Sikhne ka nature kya hai?
+ENTY:color Johnny Cash stage per kewal kaunsa color pehente hai?
+ENTY:termeq "Young fox" ke liye term kya hai?
+LOC:state Konsa american state six flags ke niche rehta tha?
+DESC:def Kashmir issue kya hai?
+LOC:other Loop kaha hai?
+DESC:def "Extended definition" ka meaning kya hai aur kaise iss par paper likha ja sakta hai?
+LOC:country Tiran kis desh ki capital hai?
+DESC:def Titanium kya hai?
+HUM:ind Kaun Herb aur Tootsie ke next door rahate hain?
+LOC:city kisa shahar ka Los Angeles ke sath ek behen shahar ke roop mein sabase purana rishta hai?
+DESC:def Caldera kya hai?
+DESC:reason Logo ko calluses kyon ho jate hai?
+LOC:other Reims mem tourist attractions ke nama kya haim?
+DESC:reason Cushman aur Wakefield kiske liye known hai?
+LOC:other Danube nadi kis water-body mein samahit hoti hai?
+HUM:ind Scientology ke founder kaun hai?
+ENTY:other Jab six-footed Musca domestica ek ghara mein enter karti hai tab kya ban jati hai?
+DESC:desc Skateboarding ki history kya hai?
+HUM:ind Kisne Singing in the Rain aur The Singing Nun mein acting kiya hai?
+DESC:manner Mein kaise old newspapers se fuel bricks bana sakta hu?
+HUM:ind Kis 19vi sadi ke painter ki marquesas islands mein death ho gai thi?
+ENTY:body Corpus callosum body ke kis part mein hota hai?
+DESC:manner Mein kaise heaedquarters U.S European Command main page par log on kara sakta hu?
+LOC:country Nazis kis desh ko occupy kiya tha?
+ENTY:other Nebraska ka sabse valuable resource kya hai?
+NUM:count Great white shark ki kitni species hain?
+DESC:desc Sir ki joon ka origin kya hai?
+LOC:state Mississippi state ke liye nickname kya hai?
+ENTY:animal First paaltu bird kya tha?
+NUM:count Small intestine mein kitne villi paaye jaate hai?
+LOC:country King Wenceslas ne kis desh per rule kiya tha?
+ENTY:dismed Shadows ke fear ko kya kehte hai?
+HUM:ind Paanch Marx brothers kaun the?
+NUM:date kis saal mein New Zealand ANZUS alliance se exclude kar diya gaya tha?
+NUM:date CNN ne broadcasting kab shuru kiya?
+DESC:reason Cold temperatures mein shareer mein shivering ka cause kya hai?
+DESC:def Bear aur bull markets kya hote hain?
