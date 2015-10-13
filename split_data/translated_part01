@@ -241,7 +241,7 @@
 161#1 ENTY:event What war did the Wanna-Go-Home Riots occur after ?
 161#2 ENTY:event कोनसा युद्ध Wanna-Go-Home दंगो के बाद हुआ?
 161#3 ENTY:event कोनसी war Wanna-Go-Home riots के बाद हुई?
-161#3 ENTY:event Konsi war wanna-go-home riots ke baad huyi?
+161#4 ENTY:event Konsi war wanna-go-home riots ke baad huyi?
 162#1 NUM:date What is the busiest air travel season ?
 162#2 NUM:date सबसे व्यस्त हवाई यात्रा सीजन कोनसा है?
 162#3 NUM:date सबसे busy air travel season में कोनसा है?
@@ -292,6 +292,8 @@
 173#4 HUM:ind Kisne "Dawson creek" aur "Felicity" ke liye theme-song gaya hai?
 174#1 HUM:ind Who directed "Jaws" ?
 174#2 HUM:ind "Jaws" का निर्देशन किसने किया?
+174#3 HUM:ind "Jaws" का direction किसने किया?
+174#4 HUM:ind "Jaws" ka direction kisne kiya?
 175#1 ENTY:cremat On what T.V. show could Tom Terrific be found ?
 175#2 ENTY:cremat Tom Terrific किस टी.वी शो पर पाया जा सकता है?
 175#3 ENTY:cremat Tom Terrific किस टी.वी शो पर पाया जा सकता है?
@@ -342,7 +344,8 @@
 186#4 DESC:def 401, K , plan kya hai?
 187#1 DESC:reason What causes pneumonia ?
 187#2 DESC:reason निमोनिया का कारण क्या होता है?
-187#2 DESC:reason Pneumonia का cause क्या होता है?
+187#3 DESC:reason Pneumonia का cause क्या होता है?
+187#4 DESC:reason Pneumonia ka cause kya hota hai?
 188#1 NUM:date What are the three winter months in the southern hemisphere ?
 188#2 NUM:date दक्षिणी गोलार्द्ध में तीन सर्दियों के महीनों क्या होते हैं?
 188#3 NUM:date Northern hemisphere में तीन सर्दियों के महीनें क्या होते हैं?
@@ -353,8 +356,8 @@
 189#4 DESC:def Gringo ka kya meaning hai?
 190#1 LOC:country What country contains Africa's northernmost point ?
 190#2 LOC:country किस देश में अफ्रीका का उत्तरी बिंदु स्थित हैं?
-190#2 LOC:country किस देश में Africa का northernmost point स्थित हैं?
-190#2 LOC:country Kis desh mein Africa ka northernmost point stith hai?
+190#3 LOC:country किस देश में Africa का northernmost point स्थित हैं?
+190#4 LOC:country Kis desh mein Africa ka northernmost point stith hai?
 191#1 ENTY:dismed What therapy attempts to elicit the "primal scream" ?
 191#2 ENTY:dismed क्या चिकित्सा "आदि चीख" लाने के लिए प्रयास करती है?
 191#3 ENTY:dismed क्या therapy "primal scream" लाने का attempt करती है?
