@@ -1,19 +1,35 @@
 201#1 HUM:ind Name Alvin's brothers
-201#2 HUM:ind एल्विन के भाई का नाम
+201#2 HUM:ind एल्विन के भाईयों का नाम बताओ
+201#3 HUM:ind Alvin के brothers का name बताओ
+201#4 HUM:ind Alvin ke brothers ka name batao
 202#1 DESC:def What is Eagle's syndrome styloid process ?
-202#2 DESC:def ईगल सिंड्रोम styloid प्रक्रिया क्या है?
+202#2 DESC:def Eagle's syndrome styloid प्रक्रिया क्या है?
+202#3 DESC:def Eagle's syndrome styloid process क्या है?
+202#4 DESC:def Eagle's syndrome styloid process kya hai?
 203#1 DESC:manner How did Jayne Mansfield die ?
-203#2 DESC:manner कैसे जेन मैन्सफील्ड मर किया था?
+203#2 DESC:manner जेन मैन्सफील्ड की मृत्यु कैसे हुयी?
+203#3 DESC:manner Jayne Mansfield की death कैसे हुयी?
+203#4 DESC:manner Jayne Mansfield ki death kaise huyi?
 204#1 NUM:date When did the royal wedding of Prince Andrew and Fergie take place ?
-204#2 NUM:date जब प्रिंस एंड्रयू और Fergie की शाही शादी की जगह ले गए थे?
+204#2 NUM:date प्रिंस एंड्रयू और Fergie की शाही शादी कब हुयी थी?
+204#3 NUM:date Prince Andrew और Fergie की royal wedding कब हुयी थी?
+204#4 NUM:date Prince Andrew aur Fergie ki royal wedding kab huyi thi?
 205#1 HUM:ind What actor said in A Day at the Races : "Either he's dead or my watch has stopped" ?
-205#2 HUM:ind क्या अभिनेता दौड़ में एक दिन में कहा, "या तो वह मर चुका है या मेरी घड़ी बंद कर दिया है?"
+205#2 HUM:ind किस अभिनेता ने"A day at the Races" में कहा, "या तो वह मर चुका है या मेरी घड़ी ने काम करना बंद कर दिया है?"
+205#3 HUM:ind किस actor ने "A day at the Races" में कहा, "या तो वह मर चुका है या मेरी watch ने काम करना बंद कर दिया है?"
+205#4 HUM:ind Kis actor ne "a day at the races" mein kaha, "yaa to vah maar chuka hai ya meri watch ne kaam karna band kar diya hai?"
 206#1 HUM:ind What explorer was nicknamed Iberia's Pilot ?
-206#2 HUM:ind क्या एक्सप्लोरर आइबेरिया के पायलट उपनाम दिया गया था?
+206#2 HUM:ind किस एक्सप्लोरर को Iberia का पायलट उपनाम दिया गया था?
+206#3 HUM:ind किस explorer को Iberia का pilot nickname दिया गया था?
+206#4 HUM:ind Kis explorer ko Iberia ka pilot nickname diya gaya tha?
 207#1 NUM:date CNN began broadcasting in what year ?
-207#2 NUM:date सीएनएन क्या वर्ष में प्रसारण शुरू कर दिया?
+207#2 NUM:date सीएनएन ने किस वर्ष में प्रसारण शुरू कर दिया?
+207#3 NUM:date CNN ने किस year में broadcasting शुरू कर दिया?
+207#4 NUM:date CNN ne kis year mein broadcasting shuru kar diya?
 208#1 ENTY:termeq What is a ball that hits the foul pole called ?
-208#2 ENTY:termeq बेईमानी पोल हिट है कि एक गेंद क्या कहा जाता है?
+208#2 ENTY:termeq फाउल पोल से टकराने करने वाली गेंद को क्या कहा जाता है?
+208#3 ENTY:termeq Foul pole hit करने वाली ball को क्या कहा जाता है?
+208#4 ENTY:termeq Foul pole hit karne wali ball kya kaha jaata hai?
 209#1 DESC:reason What makes hamburgers taste like steakburgers ?
 209#2 DESC:reason क्या हैम्बर्गर steakburgers की तरह स्वाद बनाता है?
 210#1 HUM:gr Which company created the Internet browser Mosaic ?

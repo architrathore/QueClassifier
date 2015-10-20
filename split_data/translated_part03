@@ -1,200 +1,201 @@
 301#1 ENTY:dismed What chemicals are used in lethal injection ?
-301#2 ENTY:dismed क्या रसायनों घातक इंजेक्शन में इस्तेमाल कर रहे हैं?
+301#2 ENTY:dismed कोनसे रसायन घातक इंजेक्शन में इस्तेमाल होते हैं?
+301#3 ENTY:dismed कोनसे chemical fatal injection में use होते हैं?
 302#1 HUM:gr What toy company is the world's No.1 maker of female apparel ?
-302#2 HUM:gr महिला परिधान की दुनिया की नंबर 1 निर्माता क्या खिलौना कंपनी है?
+302#2 HUM:gr महिला परिधान की दुनिया की नंबर 1 निर्माता कौनसी खिलौना कंपनी है?
 303#1 ENTY:sport What board game does a "wood-pusher" play poorly ?
-303#2 ENTY:sport क्या बोर्ड खेल एक "लकड़ी ढकेलने" खराब खेलना है?
+303#2 ENTY:sport कौनसा बोर्ड खेल एक "wood-pusher" खराब खेलता है?
 304#1 HUM:ind Which Doonesbury character was likely to turn into a werewolf ?
-304#2 HUM:ind कौन सा Doonesbury चरित्र एक भेड़िया में बदल जाने की संभावना थी?
+304#2 HUM:ind किस  Doonesbury चरित्र के एक भेड़िये  में बदल जाने की संभावना थी?
 305#1 ABBR:abb What is the abbreviation for micro ?
 305#2 ABBR:abb माइक्रो के लिए संक्षिप्त नाम क्या है?
 306#1 ENTY:other What are the 7 articles of the constitution ?
 306#2 ENTY:other संविधान के 7 लेख क्या हैं?
 307#1 HUM:gr Who has won the most Super Bowls ?
-307#2 HUM:gr कौन सबसे सुपर कटोरे जीता है?
+307#2 HUM:gr कौन सबसे ज्यादा Super Bowls जीता है?
 308#1 ABBR:exp What does NASDAQ stand for ?
 308#2 ABBR:exp NASDAQ क्या अर्थ होता है?
 309#1 ABBR:exp What is BPH ?
-309#2 ABBR:exp बीपीएच क्या है?
+309#2 ABBR:exp BPH क्या है?
 310#1 ENTY:other What is the fastest commercial automobile that can be bought in the US ?
-310#2 ENTY:other अमेरिका में खरीदा जा सकता है कि सबसे तेजी से वाणिज्यिक ऑटोमोबाइल क्या है?
+310#2 ENTY:other अमेरिका में खरीदा जा सकने वाला सबसे तेज वाणिज्यिक ऑटोमोबाइल कौनसा  है?
 311#1 LOC:other What stadium do the Miami Dolphins play their home games in ?
-311#2 LOC:other क्या स्टेडियम मियामी डॉल्फ़िन में उनके घर के खेल खेलते हैं?
+311#2 LOC:other मियामी डॉल्फ़िन उनके घर के खेल कौनसे स्टेडियम में खेलते हैं?
 312#1 HUM:ind Who has the only speaking role in "Silent Movie" ?
-312#2 HUM:ind कौन 'साइलेंट मूवी "में ही बोल रहा भूमिका है?
+312#2 HUM:ind 'साइलेंट मूवी "में सिर्फ किसकी बोलने वाली भूमिका होती है ?
 313#1 DESC:reason Why is poop sometimes different colors ?
-313#2 DESC:reason क्यों गोली चलाने की आवाज़ कभी कभी अलग अलग रंग है?
+313#2 DESC:reason मल कभी कभी अलग अलग रंग का क्यों होता है?
 314#1 NUM:other What was Einstein's IQ ?
-314#2 NUM:other आइंस्टीन के आईक्यू क्या था?
+314#2 NUM:other आइंस्टीन का आईक्यू क्या था?
 315#1 NUM:date What day was Pearl Harbor attacked in 1942 ?
-315#2 NUM:date क्या दिन पर्ल हार्बर 1942 में हमला किया गया था?
+315#2 NUM:date पर्ल हार्बर पर 1942 में किस दिन हमला किया गया था?
 316#1 HUM:ind What girl's name is "Teddy" an affectionate form of ?
-316#2 HUM:ind "टेड्डी" के एक स्नेही रूप क्या लड़की का नाम है?
+316#2 HUM:ind किस नाम की लड़की को प्यार से "टेड्डी" भी बुलाते है?
 317#1 LOC:state What state is John F. Kennedy buried in ?
-317#2 LOC:state क्या राज्य जॉन एफ कैनेडी में दफन है?
+317#2 LOC:state जॉन एफ कैनेडी कौनसे राज्य में दफन है?
 318#1 ENTY:techmeth What is the best way to remove wallpaper ?
-318#2 ENTY:techmeth वॉलपेपर को दूर करने का सबसे अच्छा तरीका क्या है?
+318#2 ENTY:techmeth वॉलपेपर हटाने का सबसे अच्छा तरीका क्या है?
 319#1 LOC:state What U.S. state has an element named for it ?
-319#2 LOC:state क्या अमरीकी राज्य इसके लिए नामित एक तत्व है?
+319#2 LOC:state किस अमरीकी राज्य के नाम पर एक तत्व नामित है?
 320#1 HUM:gr What company tabulates the ballots in voting for the Academy Awards ?
-320#2 HUM:gr क्या कंपनी अकादमी पुरस्कार के लिए मतदान में मतपत्र tabulates?
-321#1 DESC:manner How did the tradition of best man start ?
-321#2 DESC:manner कैसे सबसे अच्छा आदमी की परंपरा शुरू किया था?
+320#2 HUM:gr अकादमी पुरस्कार के लिए मतदान के मतपत्र कौनसी कंपनी सारिणीबद्ध करती है ?
+321#1 DESC:manner How did the tradition of "best man" start ?
+321#2 DESC:manner "best man" की परंपरा कैसे शुरू हुई ?
 322#1 NUM:count How many years ago did the ship Titanic sink ?
-322#2 NUM:count कितने साल पहले टाइटैनिक जहाज डूब गए थे?
+322#2 NUM:count कितने साल पहले टाइटैनिक जहाज डूबा गया था ?
 323#1 LOC:other What is the deepest area of the Arctic Ocean ?
-323#2 LOC:other आर्कटिक महासागर के गहरे क्षेत्र क्या है?
+323#2 LOC:other आर्कटिक महासागर का सबसे गहरा क्षेत्र कौनसा है?
 324#1 ENTY:color What are Halloween's colors ?
 324#2 ENTY:color हैलोवीन के रंग क्या हैं?
 325#1 DESC:manner How is silk screening done ?
-325#2 DESC:manner रेशम स्क्रीनिंग कैसे किया जाता है?
+325#2 DESC:manner silk screening कैसे किया जाता है?
 326#1 NUM:other What is the latitude and longitude of El Paso , Texas ?
 326#2 NUM:other एल पासो, टेक्सास के अक्षांश और देशांतर क्या है?
 327#1 HUM:ind Who made a boat out of gopher wood ?
-327#2 HUM:ind कौन गोफर लकड़ी के बाहर एक नाव बनाया है?
+327#2 HUM:ind गोफर लकड़ी से नाव किसने बनाया ?
 328#1 LOC:other Where can I find a "Fifth Element" screensaver ?
-328#2 LOC:other कहाँ मैं एक "फिफ्थ एलिमेंट 'स्क्रीनसेवर मिल सकती है?
+328#2 LOC:other "फिफ्थ एलिमेंट" स्क्रीनसेवर मुझे कहा मिल सकता है?
 329#1 HUM:ind Which Bloom County resident wreaks havoc with a computer ?
-329#2 HUM:ind कौन सा ब्लूम काउंटी निवासी एक कंप्यूटर के साथ तबाही?
+329#2 HUM:ind कौन सा ब्लूम काउंटी निवासी कंप्यूटर के साथ तबाही मचाता है ?
 330#1 DESC:manner How do you match a name to a social security number ?
-330#2 DESC:manner कैसे आप एक सामाजिक सुरक्षा नंबर के लिए एक नाम मैच?
+330#2 DESC:manner कैसे आप एक सामाजिक सुरक्षा नंबर से एक नाम का मेल करते है ?
 331#1 DESC:manner How does a rainbow form ?
-331#2 DESC:manner एक इंद्रधनुष फॉर्म को कैसे करता है?
+331#2 DESC:manner इंद्रधनुष कैसे बनता है?
 332#1 NUM:other What is the normal resting heart rate of a healthy adult ?
-332#2 NUM:other एक स्वस्थ वयस्क के सामान्य आराम दिल दर क्या है?
+332#2 NUM:other एक स्वस्थ वयस्क की सामान्य ह्रदय गति क्या है?
 333#1 NUM:other What is the population of Ohio ?
-333#2 NUM:other ओहियो की जनसंख्या क्या है?
+333#2 NUM:other ओहायो की जनसंख्या क्या है?
 334#1 NUM:count How many calories are there in a Big Mac ?
-334#2 NUM:count एक बिग मैक में कितनी कैलोरी देखते हैं?
+334#2 NUM:count एक बिग मैक में कितनी कैलोरी होती हैं?
 335#1 DESC:def Hazmat stands for what ?
-335#2 DESC:def Hazmat क्या के लिए खड़ा है?
+335#2 DESC:def Hazmat का अर्थ ?
 336#1 ENTY:animal What creature scares people in the film "Jaws" ?
-336#2 ENTY:animal क्या प्राणी फिल्म "जॉज़" में लोगों को डराता है?
+336#2 ENTY:animal फिल्म "जॉज़" में कौनसा प्राणी लोगों को डराता है?
 337#1 HUM:ind What part did John Peter Zenger play in the deveopment of the newspaper in America ?
-337#2 HUM:ind जॉन पीटर Zenger अमेरिका में अखबार के deveopment में क्या भूमिका निभाते हैं क्यों किया?
+337#2 HUM:ind जॉन पीटर ज़ेंगर ने अमेरिका में अखबार के विकास में क्या भूमिका निभाइ है?
 338#1 HUM:ind Who followed Caesar ?
-338#2 HUM:ind कौन सीज़र पीछा किया?
+338#2 HUM:ind सीज़र का पीछा किसने किया?
 339#1 ENTY:substance What are the four elements ?
-339#2 ENTY:substance चार तत्व क्या हैं?
+339#2 ENTY:substance चार तत्व कौनसे हैं?
 340#1 HUM:ind Who was the first woman golfer to earn a million ?
-340#2 HUM:ind एक लाख कमाने वाली पहली महिला गोल्फ खिलाड़ी कौन था?
+340#2 HUM:ind एक लाख कमाने वाली पहली महिला गोल्फ खिलाड़ी कौन थी ?
 341#1 ENTY:other What's the tallest piece on a chessboard ?
-341#2 ENTY:other एक बिसात पर सबसे ऊंची टुकड़ा क्या है?
+341#2 ENTY:other एक चैस-बोर्ड पर सबसे ऊंचा टुकड़ा कौनसा होता है?
 342#1 LOC:other What is Answers.com's address ?
 342#2 LOC:other Answers.com का पता क्या है?
 343#1 LOC:other Where can I buy movies on videotape online ?
-343#2 LOC:other मैं कहां से ऑनलाइन वीडियो टेप पर फिल्में खरीद सकते हैं?
+343#2 LOC:other मैं कहां से वीडियो टेप पर फिल्में ऑनलाइन खरीद सकता हु?
 344#1 HUM:ind Who does the advertizing for Frito-Lay ?
-344#2 HUM:ind कौन फ्रिटो-ले के लिए विज्ञापन करता है?
+344#2 HUM:ind फ्रिटो-ले के लिए विज्ञापन कौन करता है?
 345#1 HUM:gr Who is the leading competitor of Trans Union Company ?
 345#2 HUM:gr ट्रांस संघ कंपनी के प्रमुख प्रतिद्वंद्वी कौन है?
 346#1 ENTY:product What product did Robert Conrad dare people to knock off his shoulder ?
-346#2 ENTY:product क्या उत्पाद रॉबर्ट कॉनराड उसके कंधे दस्तक से लोग हिम्मत कैसे की?
+346#2 ENTY:product किस उत्पाद को रॉबर्ट कॉनराड ने उनके कंधे से गिराने की चुनौती दी ?
 347#1 HUM:ind Who invented the radio ?
-347#2 HUM:ind कौन रेडियो का आविष्कार किया?
+347#2 HUM:ind रेडियो का आविष्कार किसने किया?
 348#1 NUM:count What's the American dollar equivalent for 8 pounds in the U.K. ?
 348#2 NUM:count ब्रिटेन में 8 पाउंड के लिए अमेरिकी डॉलर के बराबर क्या है?
 349#1 ENTY:techmeth What are the different approaches of systems analysis ?
 349#2 ENTY:techmeth सिस्टम विश्लेषण के लिए अलग अलग दृष्टिकोण क्या हैं?
 350#1 DESC:manner How do doctors diagnose bone cancer ?
-350#2 DESC:manner कैसे डॉक्टरों हड्डी का कैंसर का निदान है?
+350#2 DESC:manner हड्डी के कैंसर की पहचान डॉक्टर कैसे करते है?
 351#1 HUM:ind Who is the man behind the pig-the man who pulls the strings and speaks for Miss Piggy ?
-351#2 HUM:ind तार खींचती है और मिस सूअर का बच्चा के लिए बोलता है, जो सुअर आदमी के पीछे आदमी कौन है?
+351#2 HUM:ind वो आदमी कौन है, जो तार खीचता है और मिस पिग्गी के लिए बोलता है ?
 352#1 NUM:speed What is the speed of the Mississippi River ?
 352#2 NUM:speed मिसिसिपी नदी की गति क्या है?
 353#1 ENTY:other What are the developmental stages of a swimmer ?
-353#2 ENTY:other एक तैराक के विकास के चरणों क्या हैं?
+353#2 ENTY:other एक तैराक के विकास के चरण क्या हैं?
 354#1 HUM:ind What actor first portrayed James Bond ?
-354#2 HUM:ind क्या अभिनेता पहली बार जेम्स बॉन्ड में चित्रित किया?
+354#2 HUM:ind जेम्स बॉन्ड को पहली बार किस अभिनेता ने चित्रित किया ?
 355#1 LOC:other What ocean is the largest in the world ?
-355#2 LOC:other दुनिया में सबसे बड़ा क्या सागर है?
+355#2 LOC:other दुनिया में सबसे बड़ा सागर कौनसा है?
 356#1 HUM:ind Who was the first American poet to win the Nobel Prize for literature , in 1948 ?
-356#2 HUM:ind 1948 में साहित्य के लिए नोबेल पुरस्कार जीतने वाले पहले अमेरिकी कवि कौन था?
+356#2 HUM:ind 1948 में साहित्य के लिए नोबेल पुरस्कार जीतने वाले पहले अमेरिकी कवि कौन थे ?
 357#1 NUM:date What year did Jack Nicklaus join the Professional Golfers Association tour ?
-357#2 NUM:date क्या वर्ष जैक निक्लॉस प्रोफेशनल गोल्फर्स एसोसिएशन के दौरे में शामिल किया था?
+357#2 NUM:date जैक निक्लॉस किस वर्ष प्रोफेशनल गोल्फर्स एसोसिएशन  दौरे में शामिल हुए थे ?
 358#1 NUM:count How many sonnets did Shakespeare write ?
-358#2 NUM:count शेक्सपियर कितने सोंनेट्स लिखा था?
+358#2 NUM:count शेक्सपियर ने कितने सोंनेट्स लिखे थे ?
 359#1 DESC:reason What causes the redness in your cheeks when you blush ?
-359#2 DESC:reason आप लाल, तब क्या आपके गालों में लाली का कारण बनता है?
+359#2 DESC:reason जब आप शर्माते है, तब आपके गालों में लाली का कारण क्या है?
 360#1 HUM:ind Who won the Nobel Peace Prize in 1991 ?
-360#2 HUM:ind कौन 1991 में नोबेल शांति पुरस्कार जीता?
+360#2 HUM:ind 1991 में नोबेल शांति पुरस्कार किसने जीता था ?
 361#1 HUM:gr Who are the Challengers of the Unknown ?
-361#2 HUM:gr अज्ञात का चैलेंजर्स कौन हैं?
+361#2 HUM:gr अज्ञात के चैलेंजर्स कौन हैं?
 362#1 DESC:def Define the Pheonix Club ?
 362#2 DESC:def Pheonix क्लब परिभाषित करें?
 363#1 LOC:city Which city did Christian Crusaders fight to recapture from the Muslims ?
-363#2 LOC:city कौन सा शहर ईसाई जेहादियों के मुसलमानों से हटा देना करने के लिए लड़ना था?
+363#2 LOC:city किस शहर पर कब्ज़ा करने के लिए ईसाई जेहादियों ने  मुसलमानों से लड़ाई की थी ?
 364#1 DESC:def What does it mean "Rupee Depreciates" ?
-364#2 DESC:def यह "रुपया depreciates" क्या मतलब है?
+364#2 DESC:def "Rupee depreciates" का क्या मतलब है?
 365#1 ENTY:other What gaming devices were dubbed "Mississippi marbles" and "Memphis dominoes" ?
-365#2 ENTY:other क्या गेमिंग उपकरणों "मिसिसिपी पत्थर 'और' मेम्फिस डोमिनो 'करार दिया गया था?
+365#2 ENTY:other कौनसे गेमिंग उपकरणों को "Mississippi marbles"और "Memphis dominoes" करार दिया गया था?
 366#1 HUM:ind Who was the first coach of the Cleveland Browns ?
-366#2 HUM:ind क्लीवलैंड के पहले कोच कौन था?
+366#2 HUM:ind क्लीवलैंड ब्राउन्स के पहले कोच कौन थे ?
 367#1 DESC:manner How successful is arometherapy ?
-367#2 DESC:manner Arometherapy कैसे सफल है?
+367#2 DESC:manner Arometherapy कितनी सफल है?
 368#1 ENTY:event What Jewish holiday saw the start of the 1973 Mideast War ?
-368#2 ENTY:event क्या यहूदी छुट्टी 1973 के मध्य पूर्व युद्ध की शुरुआत में देखा था?
+368#2 ENTY:event किस यहूदी छुट्टी ने  1973 के मध्य-पूर्व युद्ध की शुरुआत देखि थी ?
 369#1 DESC:manner How does a copier work ?
 369#2 DESC:manner एक कापियर कैसे काम करता है?
 370#1 NUM:speed What is the speed of the Mississippi River ?
 370#2 NUM:speed मिसिसिपी नदी की गति क्या है?
 371#1 HUM:ind Who said of Super Bowl III in 1969 : "We'll win- I guarantee it" ?
-371#2 HUM:ind 1969 में सुपर बाउल III की कौन कहा, "हम मैं यह गारंटी जीत लेंगे?"
+371#2 HUM:ind 1969 में सुपर बाउल III के लिए किसने कहा: "हम जीतेंगे-मैं यह गारंटी देता हु ?"
 372#1 ENTY:animal What is Dudley Do-Right's horse's name ?
-372#2 ENTY:animal डुडले मत का सही घोड़े का नाम क्या है?
+372#2 ENTY:animal डड्ली डू-राईट के घोड़े का नाम क्या है?
 373#1 HUM:ind Who declared : "I am down on whores and I shan't stop ripping them" ?
-373#2 HUM:ind कौन घोषणा की: "मैं नीचे आवारा लड़की पर हूँ और मैं उन्हें तेजस्वी बंद नहीं करेगा?"
+373#2 HUM:ind किसने घोषणा की: "मैं आवारा लड़कीयों से घ्रणा करता हूँ और मैं उन्हें छोडूंगा नहीं "?
 374#1 LOC:other Where does chocolate come from ?
-374#2 LOC:other चॉकलेट कहाँ से आया है?
+374#2 LOC:other चॉकलेट कहाँ से आता है?
 375#1 ENTY:cremat What TV game show once saw a contestant admit to picking his toes in the shower ?
-375#2 ENTY:cremat एक बार एक प्रतियोगी शॉवर में उसके पैर की उंगलियों उठा की बात कबूल की क्या टीवी गेम शो को देखा?
+375#2 ENTY:cremat किस टीवी गेम शो में एक बार एक प्रतियोगी ने शॉवर में उसके पैर की उंगलियों उठाने की बात कबूल की ?
 376#1 HUM:ind What Soviet leader owned a Rolls-Royce ?
-376#2 HUM:ind सोवियत क्या नेता एक रोल्स रॉयस स्वामित्व?
+376#2 HUM:ind कौनसा सोवियत नेता एक रोल्स रॉयस स्वामि था ?
 377#1 LOC:other Where can I find a case on Individuals with Disabilities Education Act of 1991 ?
-377#2 LOC:other मैं कहां से 1991 के विकलांग शिक्षा अधिनियम के साथ व्यक्तियों पर मामला मिल सकती है?
+377#2 LOC:other मुझे कहां 1991 के विकलांग शिक्षा अधिनियम  पर मामला मिल सकता  है?
 378#1 ENTY:event What war did Florence Nightingale tend the troops in ?
-378#2 ENTY:event क्या युद्ध फ्लोरेंस नाइटिंगेल सैनिकों में जाते देखा था?
+378#2 ENTY:event फ्लोरेंस नाइटिंगेल ने सैनिकों को किस युद्ध में जाते देखा था?
 379#1 HUM:ind Who wrote the song , "Stardust" ?
-379#2 HUM:ind कौन गीत, "स्टारडस्ट" लिखा था?
+379#2 HUM:ind "स्टारडस्ट" गीत किसने लिखा था?
 380#1 NUM:count How many Beatles' records went #1 ?
-380#2 NUM:count कितने बीटल्स 'के रिकॉर्ड # 1 चला गया?
+380#2 NUM:count बीटल्स' के कितने रिकॉर्ड # 1 गये ?
 381#1 HUM:ind Who is the only prime minister of Canada to serve 22 years but not necessarily consecutively ?
-381#2 HUM:ind जरूरी लगातार 22 वर्षों की सेवा के लिए कनाडा के केवल प्रधानमंत्री हैं लेकिन नहीं?
+381#2 HUM:ind 22 वर्षों के लिए ,ज़रुरी नहीं लगातार, कनाडा के कौनसे एकमात्र प्रधानमंत्री सत्ता में रहे हैं ?
 382#1 ABBR:abb What is the abbreviation of the company name ` General Motors' ?
-382#2 ABBR:abb `जनरल मोटर्स की कंपनी के नाम का संक्षिप्त नाम क्या है?
+382#2 ABBR:abb `जनरल मोटर्स' कंपनी के नाम का संक्षिप्त नाम क्या है?
 383#1 LOC:mount What mountains lie between the Arkansas and Missouri rivers ?
-383#2 LOC:mount क्या पहाड़ों अर्कांसस और मिसौरी नदियों के बीच झूठ?
+383#2 LOC:mount र्कांसस और मिसौरी नदियों के बीच कौनसी पहाड़ श्रंखला है ?
 384#1 HUM:ind Who received the Will Rogers Award in 1989 ?
-384#2 HUM:ind कौन 1989 में विल रोजर्स पुरस्कार प्राप्त किया?
+384#2 HUM:ind 1989 में विल रोजर्स पुरस्कार किसने प्राप्त किया?
 385#1 DESC:reason What is the function of RAM ?
 385#2 DESC:reason राम के कार्य क्या है?
 386#1 LOC:other What's the closest G2 Spectrum Yellow Dwarf to Earth ?
-386#2 LOC:other पृथ्वी के सबसे करीब G2 स्पेक्ट्रम पीला बौना क्या है?
+386#2 LOC:other पृथ्वी के सबसे करीब G2 स्पेक्ट्रम येलो ड्वार्फ क्या है?
 387#1 NUM:count How many equal angles are there in an isosceles triangle ?
-387#2 NUM:count एक समद्विबाहु त्रिकोण में कितने समान दृष्टिकोण से देखते हैं?
+387#2 NUM:count एक समद्विबाहु त्रिकोण में कितने समान कोण होते हैं?
 388#1 ENTY:dismed What is the fear of cockroaches called ?
-388#2 ENTY:dismed तिलचट्टे के डर से क्या कहा जाता है?
+388#2 ENTY:dismed तिलचट्टे के डर को क्या कहा जाता है?
 389#1 ENTY:cremat What CBS soap opera was interrupted by the bulletin of John F. Kennedy's assassination ?
-389#2 ENTY:cremat क्या सीबीएस साबुन ओपेरा जॉन एफ कैनेडी की हत्या के बुलेटिन द्वारा बाधित किया गया था?
+389#2 ENTY:cremat किस सिबिएस धारावाहिक को जॉन एफ कैनेडी की हत्या के बुलेटिन द्वारा बाधित किया गया था?
 390#1 DESC:desc What is the use of a 24-hour clock instead of a 12-hour clock ?
-390#2 DESC:desc बजाय एक 12 घंटे की घड़ी का एक 24 घंटे की घड़ी का उपयोग क्या है?
+390#2 DESC:desc 12 घंटे की घड़ी के बजाय एक 24 घंटे की घड़ी का उपयोग क्या है?
 391#1 HUM:ind What was the name of the lawyer who represented Randy Craft ?
 391#2 HUM:ind रैंडी क्राफ्ट का प्रतिनिधित्व करने वाले वकील का नाम क्या था?
 392#1 HUM:ind What United States President had dreamed that he was assassinated ?
-392#2 HUM:ind क्या संयुक्त राज्य अमेरिका के राष्ट्रपति ने हत्या कर दी थी कि सपना देखा था?
+392#2 HUM:ind अमेरिकी संयुक्त राज्य के किस राष्ट्रपति ने सपना देखा था की उनकी हत्या करदी गयी है ?
 393#1 ENTY:cremat What film did Lee Marvin win the 1965 best actor Oscar for ?
-393#2 ENTY:cremat क्या फिल्म ली मारविन के लिए 1965 के लिए सर्वश्रेष्ठ अभिनेता का ऑस्कर जीता?
+393#2 ENTY:cremat ली मारविन ने किस फिल्म के लिए सर्वश्रेष्ठ अभिनेता का 1965 ऑस्कर जीता?
 394#1 LOC:other Where is Basque country located ?
-394#2 LOC:other कहाँ बास्क देश में स्थित है?
+394#2 LOC:other बास्क देश कहाँ स्थित है?
 395#1 ENTY:product What product does "Mrs. Olsen" promote ?
-395#2 ENTY:product "श्रीमती ऑलसेन" क्या उत्पाद को बढ़ावा देता है?
+395#2 ENTY:product "श्रीमती ऑलसेन" किस उत्पाद को बढ़ावा देती है?
 396#1 NUM:date What time of day did Emperor Hirohito die ?
-396#2 NUM:date सम्राट हिरोहितो दिन के समय क्या मर गए थे?
+396#2 NUM:date सम्राट हिरोहितो दिन के किस समय मरे थे?
 397#1 DESC:def What is dry ice ?
 397#2 DESC:def सूखी बर्फ क्या है?
 398#1 ENTY:other What's the most powerful card in Euchre ?
-398#2 ENTY:other युके में सबसे शक्तिशाली कार्ड क्या है?
+398#2 ENTY:other यूचरे में सबसे शक्तिशाली कार्ड क्या है?
 399#1 DESC:def What does "intractable plantar keratoma" mean ?
-399#2 DESC:def "असभ्य तल का keratoma" क्या मतलब है?
+399#2 DESC:def "intractable plantar keratoma" का मतलब क्या है?
 400#1 NUM:count How many years did it take James Joyce to write Ulysses ?
-400#2 NUM:count कितने वर्षों से यह युलिसिस लिखने के लिए जेम्स जॉयस ले गए थे?
+400#2 NUM:count जेम्स जॉयस को युलिसिस लिखने के लिए कितने वर्षा लगे थे?

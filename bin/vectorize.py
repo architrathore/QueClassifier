@@ -30,9 +30,9 @@ names = [
          # "AdaBoost", 
          # "Naive Bayes", 
          # "LDA",
-         "LogisticRegression",
+         # "LogisticRegression",
          # "OneVsRest RBF SVC",
-         # "OnevsRest SVC"
+         "OnevsRest SVC"
          ]
 
 classifiers = [
@@ -45,9 +45,9 @@ classifiers = [
     # AdaBoostClassifier(),
     # GaussianNB(),
     # LDA(),
-    LogisticRegression(),
+    # LogisticRegression(),
     # svm.SVC(),
-    # svm.LinearSVC()
+    svm.LinearSVC()
 	]
 
 input=open('200data', 'r')
